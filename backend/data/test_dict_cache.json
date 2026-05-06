@@ -1,0 +1,3766 @@
+{
+  "红宝书_Unit 17": {
+    "continual": {
+      "definition": "adj. 持续不断的；频繁的（可能有间断）",
+      "phonetic": "/kənˈtɪnjuəl/",
+      "memory_trick": "continu(e)（继续）+ al（形容词后缀）→ 一再继续的 → 持续不断的",
+      "example": "His continual practice is key to his remarkable ability to learn new languages quickly."
+    },
+    "continuous": {
+      "definition": "adj. 连续的，不间断的",
+      "phonetic": "/kənˈtɪnjuəs/",
+      "memory_trick": "continu(e)（继续）+ ous（形容词后缀）→ 一直继续的 → 连续不断的",
+      "example": "His continuous exposure to different cultures enhances his remarkable ability to learn new languages quickly."
+    },
+    "continue": {
+      "definition": "v. 继续，持续；延伸",
+      "phonetic": "/kənˈtɪnjuː/",
+      "memory_trick": "con（共同）+ tinu（保持）→ 共同保持下去 → 继续",
+      "example": "He has a remarkable ability to learn new languages quickly, and he plans to continue studying more."
+    },
+    "conform": {
+      "definition": "遵守、符合；使一致",
+      "phonetic": "/kənˈfɔːrm/",
+      "memory_trick": "联想 'con-'（共同）+ 'form'（形式）→ 使形式共同一致 → 符合规范",
+      "example": "He has a remarkable ability to learn new languages quickly, which helps him conform to different cultural environments."
+    },
+    "inform": {
+      "definition": "通知、告知；赋予特征",
+      "phonetic": "/ɪnˈfɔːrm/",
+      "memory_trick": "联想 'in-'（进入）+ 'form'（形式）→ 使知识进入形态 → 告知",
+      "example": "Research informs us that immersive practice is key to learning new languages quickly."
+    },
+    "information": {
+      "definition": "信息、资料；通知",
+      "phonetic": "/ˌɪnfərˈmeɪʃn/",
+      "memory_trick": "联想 'in-'（内部）+ 'form'（形式）+ '-ation'（名词后缀）→ 赋予内部形态的内容 → 信息",
+      "example": "He gathered information on language learning techniques to improve his ability to learn new languages quickly."
+    },
+    "reform": {
+      "definition": "v. & n. 改革，改良，改造",
+      "phonetic": "/rɪˈfɔːrm/",
+      "memory_trick": "re-（再）+ form（形成）→ 再次形成，重塑 → 改革。",
+      "example": "The government introduced a series of policies to reform the education system."
+    },
+    "confront": {
+      "definition": "vt. 面对，遭遇；对抗，对峙",
+      "phonetic": "/kənˈfrʌnt/",
+      "memory_trick": "con-(共同) + front(前面) → 共同站到前面 → 面对面 → 面对，对抗。",
+      "example": "We must confront the outdated regulations and work to change them."
+    },
+    "infer": {
+      "definition": "v. 推断，推论",
+      "phonetic": "/ɪnˈfɜːr/",
+      "memory_trick": "in-（向内）+ fer（带来）→ 从已知信息中“把结论带出来” → 推断。",
+      "example": "From his tone, I can infer that he is not satisfied with the result."
+    },
+    "inference": {
+      "definition": "n. 推断，推论；推断的结果",
+      "phonetic": "/ˈɪnfərəns/",
+      "memory_trick": "infer（推断）的名词形式。记住：-ence 是常见的名词后缀。",
+      "example": "His inference about the cause of the problem was based on careful observation."
+    },
+    "preferable": {
+      "definition": "adj. 更可取的，更好的",
+      "phonetic": "/ˈprefrəbl/",
+      "memory_trick": "pre-（在前，优先）+ fer（带来）+ -able（可…的）→ 可以被优先带来的 → 更可取的。",
+      "example": "A quiet environment is preferable when you need to concentrate."
+    },
+    "preference": {
+      "definition": "n. 偏爱，偏好；优先选择",
+      "phonetic": "/ˈprefrəns/",
+      "memory_trick": "prefer（更喜欢）的名词形式。pre-（优先）+ fer（带来）+ -ence（名词后缀）→ 优先带来的东西 → 偏爱。",
+      "example": "He has a strong preference for classical music over pop music."
+    },
+    "refer": {
+      "definition": "v. 提到，谈及；参考，查阅；提交，转交",
+      "phonetic": "/rɪˈfɜːr/",
+      "memory_trick": "re-（回，再）+ fer（带来）→ 把话题或问题“带回到”某处 → 提及、参考或提交给某人处理。",
+      "example": "Please refer to the user manual if you encounter any technical issues."
+    },
+    "evolve": {
+      "definition": "v. 进化；演变；逐步发展",
+      "phonetic": "/ɪˈvɒlv/ (英) /ɪˈvɑːlv/ (美)",
+      "memory_trick": "e-（向外）+ volv（滚动）→ 向外滚动 → 逐步展开、演变。联想：生物从简单形态“滚动”发展成复杂形态。",
+      "example": "He has a remarkable ability to learn new languages quickly, a skill that may evolve from consistent practice and exposure."
+    },
+    "evolution": {
+      "definition": "n. 进化；演变；发展过程",
+      "phonetic": "/ˌiːvəˈluːʃn/ (英) /ˌevəˈluːʃn/ (美)",
+      "memory_trick": "evolve 的名词形式，-tion 表名词。联想：evolution 是 evolve 这个“滚动过程”的结果或状态。",
+      "example": "The evolution of language learning methods has made it easier for people to acquire new skills quickly."
+    },
+    "revolve": {
+      "definition": "v. 旋转；围绕；以…为中心",
+      "phonetic": "/rɪˈvɒlv/ (英) /rɪˈvɑːlv/ (美)",
+      "memory_trick": "re-（回、再）+ volv（滚动）→ 来回滚动 → 旋转、循环。联想：地球绕着太阳“滚动”（公转）。",
+      "example": "His language learning strategy seems to revolve around daily conversation practice and vocabulary accumulation."
+    },
+    "relate": {
+      "definition": "v. 讲述，叙述；使有联系，将…联系起来；涉及，有关",
+      "phonetic": "/rɪˈleɪt/",
+      "memory_trick": "re-（回）+ late（带来，来自拉丁语'latus'）→ 把故事带回来 → 讲述；把事物带回到一起 → 联系。",
+      "example": "Can you relate the main events of the story in your own words?"
+    },
+    "relationship": {
+      "definition": "n. （人、团体、国家之间的）关系，关联；恋爱关系",
+      "phonetic": "/rɪˈleɪʃnʃɪp/",
+      "memory_trick": "relation（关系）+ ship（表示状态、性质的名词后缀）→ 关系的状态，尤指人际间的具体关联。",
+      "example": "He has a remarkable ability to learn new languages quickly, which greatly enhances his relationship with people from different cultures."
+    },
+    "relative": {
+      "definition": "adj. 相对的，比较的；有关的 n. 亲戚，亲属",
+      "phonetic": "/ˈrelətɪv/",
+      "memory_trick": "relat(e)（联系）+ ive（形容词/名词后缀）→ 有联系的 → 相对的；有血缘联系的人 → 亲戚。",
+      "example": "The concept of 'difficulty' is relative; what is hard for one person might be easy for another."
+    },
+    "relativity": {
+      "definition": "n. 相对性；相对论",
+      "phonetic": "/ˌreləˈtɪvəti/",
+      "memory_trick": "relativ(e)（相对的）+ ity（名词后缀，表性质）→ 相对的性质。特指爱因斯坦的“相对论”。",
+      "example": "Einstein's theory of relativity revolutionized our understanding of space, time, and gravity."
+    },
+    "relation": {
+      "definition": "n. 关系，联系；亲属，亲戚",
+      "phonetic": "/rɪˈleɪʃn/",
+      "memory_trick": "relate（联系）的名词形式。指事物或人之间的“关联”被带（late）到一起（re-）。",
+      "example": "There is a close relation between regular exercise and improved mental health."
+    },
+    "conscious": {
+      "definition": "adj. 有意识的，神志清醒的；意识到的，察觉的",
+      "phonetic": "/ˈkɒnʃəs/",
+      "memory_trick": "con-(共同，加强) + sci(知道) + -ous(形容词后缀) → 完全知道的 → 有意识的。",
+      "example": "He is conscious of his remarkable ability to learn new languages quickly."
+    },
+    "mode": {
+      "definition": "n. 模式；方式；风格",
+      "phonetic": "/moʊd/",
+      "memory_trick": "直接源自词根 'mod'（方式）。联想：做事的特定度量（mod）或规范出来的方式。",
+      "example": "The camera has an automatic mode that adjusts the settings for optimal photos."
+    },
+    "model": {
+      "definition": "n. 模型；模范；模特 v. 模仿；塑造",
+      "phonetic": "/ˈmɑːdl/",
+      "memory_trick": "拆解：mod（尺度，样式）+ -el（名词后缀，表示'小'或'工具'）。联想：一个按特定尺度（mod）制作的小样或典范。",
+      "example": "She used clay to model a miniature version of the ancient building."
+    },
+    "moderate": {
+      "definition": "adj. 适度的；中等的；温和的 v. 使缓和；主持",
+      "phonetic": "/ˈmɑːdərət/ (adj.), /ˈmɑːdəreɪt/ (v.)",
+      "memory_trick": "拆解：moder（=mod，尺度）+ -ate（形容词/动词后缀）。联想：使保持在中间尺度（mod）的，不极端。",
+      "example": "The government called for a moderate increase in spending to avoid inflation."
+    },
+    "modest": {
+      "definition": "adj. 谦虚的；适度的；不大的",
+      "phonetic": "/ˈmɑːdɪst/",
+      "memory_trick": "拆解：mod（尺度）+ -est（形容词后缀）。联想：言行保持在合适尺度（mod）内的，不过分。",
+      "example": "Despite his great success, he remained modest about his achievements."
+    },
+    "modify": {
+      "definition": "v. 修改；调整；修饰",
+      "phonetic": "/ˈmɑːdɪfaɪ/",
+      "memory_trick": "拆解：mod（尺度，方式）+ -ify（动词后缀，表示'使...'）。联想：使符合新的尺度（mod）或方式。",
+      "example": "The engineer had to modify the design to meet the new safety standards."
+    },
+    "modern": {
+      "definition": "adj. 现代的；新式的；时髦的",
+      "phonetic": "/ˈmɑːdərn/",
+      "memory_trick": "拆解：mod（方式，尺度）+ -ern（形容词后缀）。联想：符合当前时代标准（mod）的方式或样式。",
+      "example": "He has a remarkable ability to learn new languages quickly, a skill highly valued in the modern globalized world."
+    },
+    "modernization": {
+      "definition": "n. 现代化；现代化进程",
+      "phonetic": "/ˌmɑːdərnəˈzeɪʃn/",
+      "memory_trick": "拆解：modern（现代的）+ -ization（名词后缀，表示'...化'）。联想：使事物达到现代（modern）标准（mod）的过程。",
+      "example": "The rapid modernization of the country's infrastructure has boosted economic growth."
+    },
+    "approach": {
+      "definition": "1. 动词：接近、靠近；着手处理、探讨。2. 名词：方法、途径；接近的过程。",
+      "phonetic": "/əˈproʊtʃ/",
+      "memory_trick": "拆解为 ap-（加强）+ proach（接近），强调“主动靠近或接触某事物”，可联想为“一种接近问题的方式”。",
+      "example": "He has developed a systematic approach to learn new languages quickly."
+    },
+    "approval": {
+      "definition": "n. 批准，同意；认可，赞成",
+      "phonetic": "/əˈpruːv(ə)l/",
+      "memory_trick": "联想：approve（批准）+ al（名词后缀）→ 批准的行为或状态。核心是“心理上接近或接受某种观点或请求”。",
+      "example": "His innovative method for language learning received official approval from the academic committee due to its effectiveness."
+    },
+    "approve": {
+      "definition": "v. 批准，通过；赞成，同意",
+      "phonetic": "/əˈpruːv/",
+      "memory_trick": "拆分：ap（加强）+ prove（测试，证明）→ 经过测试证明后予以接受 → 批准。词源上与“接近”相关，表示使想法或提案被接受（接近共识）。",
+      "example": "The board decided to approve his proposed approach to accelerated language learning after seeing the remarkable results."
+    },
+    "influence": {
+      "definition": "n./v. 影响；作用；势力",
+      "phonetic": "/ˈɪnfluəns/",
+      "memory_trick": "拆解：in-（向内）+ flu（flow，流）+ -ence（名词后缀）→ 古代观念认为星象之气流入人体而产生影响 → 引申为“影响力”。可与inflate联想：都是“向内注入某种东西（气或力）”。",
+      "example": "He has a remarkable ability to learn new languages quickly, a talent that may influence his career opportunities globally."
+    },
+    "influential": {
+      "definition": "adj. 有影响的；有权势的",
+      "phonetic": "/ˌɪnfluˈenʃl/",
+      "memory_trick": "influence（影响） + -ial（形容词后缀）→ 有影响的。注意重音移位。",
+      "example": "She is an influential scholar in the field of cognitive linguistics."
+    },
+    "predict": {
+      "definition": "vt. 预言；预测；预示；预知",
+      "phonetic": "/prɪˈdɪkt/",
+      "memory_trick": "拆解为 pre- (在...之前) + dict (说) → 在事情发生之前就说出来 → 预测。可以联想：天气预报员在天气变化 '之前' 就 '说' 出来。",
+      "example": "Based on his remarkable ability to learn new languages quickly, we can predict he will master Spanish within a few months."
+    },
+    "displace": {
+      "definition": "vt. 取代，替代；迫使…离开家园，使背井离乡",
+      "phonetic": "/dɪsˈpleɪs/",
+      "memory_trick": "dis-（离开）+ place（位置）→ 使离开原位 → 取代；使流离失所",
+      "example": "The new technology quickly displaced the older methods in the industry."
+    },
+    "disorder": {
+      "definition": "n. 混乱，杂乱；失调，疾病 vt. 扰乱，使失调",
+      "phonetic": "/dɪsˈɔːrdər/",
+      "memory_trick": "dis-（否定）+ order（秩序）→ 没有秩序 → 混乱",
+      "example": "The sudden noise caused a disorder in the classroom, disrupting the lesson."
+    },
+    "preparation": {
+      "definition": "n. 准备，预备；准备工作；制剂",
+      "phonetic": "/ˌprepəˈreɪʃn/",
+      "memory_trick": "pre-（前）+ par（准备）+ ation（名词后缀）→ 事先做的准备。",
+      "example": "Careful preparation is key to his remarkable ability to learn new languages quickly."
+    },
+    "preliminary": {
+      "definition": "adj. 初步的，预备的 n. 初步行动；预赛",
+      "phonetic": "/prɪˈlɪmɪnəri/",
+      "memory_trick": "pre-（前）+ limin（门槛，起始）+ ary（...的）→ 在门槛之前的 → 预备的。",
+      "example": "The team conducted preliminary tests before starting the main experiment."
+    },
+    "premier": {
+      "definition": "adj. 首要的，第一的 n. 总理，首相",
+      "phonetic": "/ˈpremiə(r)/",
+      "memory_trick": "prem（第一，首要）+ ier（表人或物）→ 处于第一位置的人或事物。",
+      "example": "The premier league is the top division of the football competition."
+    },
+    "confer": {
+      "definition": "v. 授予（学位、荣誉等）；商讨，商议",
+      "phonetic": "/kənˈfɜːr/",
+      "memory_trick": "con-（共同）+ fer（带来）→ 把各自的意见“带来”到一起 → 共同商讨；也可理解为“把荣誉带给某人” → 授予。",
+      "example": "The committee will confer to decide on the best candidate for the award."
+    },
+    "predecessor": {
+      "definition": "n. 前任；前辈；原有事物",
+      "phonetic": "/ˈpredəsesə(r)/",
+      "memory_trick": "pre-（前）+ decess（走，离开）+ or（人）→ 先前离开的人 → 前任。",
+      "example": "The new manager quickly learned from the mistakes of his predecessor."
+    },
+    "preface": {
+      "definition": "n. 前言，序言 vt. 以...为开端；为...加序言",
+      "phonetic": "/ˈprefəs/",
+      "memory_trick": "pre-（前）+ face（面，表面）→ 写在正文前面的话 → 前言。",
+      "example": "The author wrote a thoughtful preface to explain the book's origins."
+    },
+    "prejudice": {
+      "definition": "n. 偏见，成见 vt. 使有偏见；损害",
+      "phonetic": "/ˈpredʒədɪs/",
+      "memory_trick": "pre-（预先）+ judice（判断）→ 事先做出的判断 → 偏见。",
+      "example": "The judge warned the jury to avoid any prejudice against the defendant."
+    },
+    "premise": {
+      "definition": "n. 前提；房屋及地基 vt. 以...为前提",
+      "phonetic": "/ˈpremɪs/",
+      "memory_trick": "pre-（前）+ mise（送出，放置）→ 预先放置好的东西 →（逻辑的）前提；（法律）上述房屋（文件前面列出的）。",
+      "example": "The entire argument is based on a false premise."
+    },
+    "premium": {
+      "definition": "n. 保险费；额外费用；溢价 adj. 优质的；高价的",
+      "phonetic": "/ˈpriːmiəm/",
+      "memory_trick": "pre-（前）+ em（拿，取）→ 需要事先支付或获取的东西 → 保险费；额外费用。",
+      "example": "This brand charges a premium for its high-quality products."
+    },
+    "confusion": {
+      "definition": "n. 困惑，混淆；混乱，骚乱",
+      "phonetic": "/kənˈfjuːʒn/",
+      "memory_trick": "拆解：con-（共同）+ fus（倾倒、混合）+ -ion（名词后缀）→ 把很多东西“倒在一起混合”→ 导致“混乱、困惑”。联想：把不同颜色的液体倒进一个杯子，混成一团，分不清彼此，就是“混淆/困惑”的状态。",
+      "example": "His remarkable ability to learn new languages quickly caused some confusion among his classmates, who struggled to keep up."
+    },
+    "confuse": {
+      "definition": "v. 使困惑，使糊涂；混淆，弄混",
+      "phonetic": "/kənˈfjuːz/",
+      "memory_trick": "拆解：con-（共同）+ fuse（倾倒、混合）→ 把东西“混在一起”→ 使人“分不清、搞糊涂”。联想：把盐和糖混在一起（pour together），别人就“confuse”了哪个是哪个。",
+      "example": "He did not want to confuse his students, so he used his remarkable ability to explain complex grammar rules in a simple way."
+    },
+    "reflection": {
+      "definition": "n. 反射；映像；倒影；深思，反省；反映",
+      "phonetic": "/rɪˈflekʃn/",
+      "memory_trick": "reflect（反射/思考）的名词形式。镜中的“映像”是光“返回”形成的；内心的“反省”是思想“返回”自身。",
+      "example": "His remarkable ability to learn new languages quickly is a reflection of his disciplined study habits and natural aptitude."
+    },
+    "prefer": {
+      "definition": "更喜欢，宁愿选择",
+      "phonetic": "/prɪˈfɜːr/",
+      "memory_trick": "pre-（在前，优先）+ fer（带来）→ 把某物'带到前面' → 更偏爱。",
+      "example": "I prefer tea to coffee in the morning."
+    },
+    "deform": {
+      "definition": "v. 使变形，使畸形；损坏…的形状",
+      "phonetic": "/dɪˈfɔːrm/",
+      "memory_trick": "de-（离开，变坏）+ form（形状）→ 形状变坏 → 使变形",
+      "example": "The accident deformed the metal frame of the car."
+    },
+    "transform": {
+      "definition": "v. 使变形，使改观；转换",
+      "phonetic": "/trænsˈfɔːrm/",
+      "memory_trick": "trans-（跨越，转变）+ form（形状）→ 形状跨越改变 → 变形，转换",
+      "example": "The new technology has transformed the way we communicate."
+    },
+    "translate": {
+      "definition": "1. 翻译；2. 转化，转变为",
+      "phonetic": "/trænsˈleɪt/",
+      "memory_trick": "trans-（横跨，转移）+ lat-（带来）→ 把意思从一种语言带到另一种语言 → 翻译",
+      "example": "He has a remarkable ability to learn new languages quickly, which helps him translate complex texts accurately."
+    },
+    "disperse": {
+      "definition": "v. （使）分散，散开；驱散",
+      "phonetic": "/dɪˈspɜːrs/",
+      "memory_trick": "dis-（分开）+ sperse（散开，来自拉丁语 spargere）→ 使分开散开 → 分散",
+      "example": "The police arrived to disperse the crowd that had gathered in the square."
+    },
+    "dismiss": {
+      "definition": "vt. 解雇，开除；不予考虑，摒弃；解散",
+      "phonetic": "/dɪsˈmɪs/",
+      "memory_trick": "dis-（离开）+ miss（送，派）→ 送走 → 解雇；解散",
+      "example": "The manager had to dismiss the employee for repeated violations of company policy."
+    },
+    "display": {
+      "definition": "vt./n. 展示，陈列；显示，显露",
+      "phonetic": "/dɪˈspleɪ/",
+      "memory_trick": "dis-（分开）+ play（=plicare，折叠）→ 将折叠的东西展开 → 展示",
+      "example": "The museum will display ancient artifacts from the newly discovered tomb."
+    },
+    "distort": {
+      "definition": "vt. 扭曲，使变形；歪曲，曲解",
+      "phonetic": "/dɪˈstɔːrt/",
+      "memory_trick": "dis-（加强语气）+ tort（扭曲）→ 用力扭曲 → 使变形；歪曲",
+      "example": "The funhouse mirrors distort your reflection, making you look tall and thin or short and wide."
+    },
+    "distract": {
+      "definition": "分散注意力，使分心",
+      "phonetic": "/dɪˈstrækt/",
+      "memory_trick": "dis（分开）+ tract（拉）→ 把注意力拉开 → 分心",
+      "example": "The abnormal weather can distract hikers from their planned route in the mountains."
+    },
+    "distribute": {
+      "definition": "vt. 分发，分配；散布，分布",
+      "phonetic": "/dɪˈstrɪbjuːt/",
+      "memory_trick": "dis-（分开）+ tribute（给予）→ 分开给 → 分发",
+      "example": "Volunteers will distribute food and water to the families affected by the flood."
+    },
+    "congress": {
+      "definition": "n. 代表大会；国会，议会",
+      "phonetic": "/ˈkɒŋɡres/",
+      "memory_trick": "con-(共同) + gress(走，进行) → 大家走到一起开会 → 代表大会，国会。",
+      "example": "The new policy was debated extensively in congress before being passed."
+    },
+    "connect": {
+      "definition": "v. 连接，联结；联系，关联",
+      "phonetic": "/kəˈnekt/",
+      "memory_trick": "con-(共同) + nect(绑，结) → 绑在一起 → 连接。",
+      "example": "The bridge connects the two parts of the city, making travel much easier."
+    },
+    "connection": {
+      "definition": "n. 连接，联结；联系，关系",
+      "phonetic": "/kəˈnekʃn/",
+      "memory_trick": "connect(连接)的名词形式 (-ion 表示状态或结果)。",
+      "example": "There is a clear connection between regular exercise and good health."
+    },
+    "retain": {
+      "definition": "v. 保持，保留；记住",
+      "phonetic": "/rɪˈteɪn/",
+      "memory_trick": "re（回，再）+ tain（=tinu，保持）→ 拿回来保持住 → 保留",
+      "example": "He can retain vocabulary easily, which contributes to his remarkable ability to learn new languages quickly."
+    },
+    "sustain": {
+      "definition": "v. 维持，支撑；遭受",
+      "phonetic": "/səˈsteɪn/",
+      "memory_trick": "sus（=sub，在下面）+ tain（=tinu，保持）→ 在下面保持住 → 支撑，维持",
+      "example": "His motivation sustains his remarkable ability to learn new languages quickly over long periods."
+    },
+    "reflect": {
+      "definition": "v. 反射（光、热、声等）；反映，映出；深思，反省",
+      "phonetic": "/rɪˈflekt/",
+      "memory_trick": "re-（回）+ flect（弯曲）→ 光线或思绪“弯回来”→ 反射或思考。",
+      "example": "The calm lake reflected the moonlight, creating a shimmering path across the water."
+    },
+    "reject": {
+      "definition": "拒绝；排斥",
+      "phonetic": "/rɪˈdʒekt/",
+      "memory_trick": "前缀 're-' 表示 '回'（back），结合 'ject'（投掷），即 '投掷回去' → 拒绝接受。",
+      "example": "The committee decided to reject the proposal due to insufficient data."
+    },
+    "rejoice": {
+      "definition": "v. 感到高兴，充满喜悦",
+      "phonetic": "/rɪˈdʒɔɪs/",
+      "memory_trick": "re-（加强语气）+ joice（来自拉丁语'gaudere'，高兴）→ 使非常高兴。",
+      "example": "The whole community rejoiced at the news of the safe return of the missing hikers."
+    },
+    "relevant": {
+      "definition": "adj. 相关的，切题的；有重大关系的",
+      "phonetic": "/ˈreləvənt/",
+      "memory_trick": "re-（再）+ lev（举起，轻的）+ ant（形容词后缀）→ 再次举起来（引起注意）的 → 相关的，重要的。联想：与主题“相关”的信息会被“再次提起”。",
+      "example": "When writing an essay, it's crucial to include only relevant information that directly supports your thesis."
+    },
+    "involve": {
+      "definition": "v. 包含；牵涉；使卷入",
+      "phonetic": "/ɪnˈvɒlv/ (英) /ɪnˈvɑːlv/ (美)",
+      "memory_trick": "in-（向内）+ volv（滚动）→ 滚入其中 → 卷入、涉及。联想：被“滚动”进某个事件或状态里。",
+      "example": "Learning a new language quickly may involve immersive practice and frequent interaction with native speakers."
+    },
+    "reproach": {
+      "definition": "1. 动词：责备、指责。2. 名词：耻辱、批评。",
+      "phonetic": "/rɪˈproʊtʃ/",
+      "memory_trick": "拆解为 re-（反向）+ proach（接近），原指“反向接近”，引申为“以指责的方式靠近对方”，暗示言语或态度的对抗性接近。",
+      "example": "His inability to learn new languages quickly became a source of reproach among his peers."
+    },
+    "inflate": {
+      "definition": "v. 使充气；膨胀；抬高（物价）；使骄傲",
+      "phonetic": "/ɪnˈfleɪt/",
+      "memory_trick": "拆解：in-（向内）+ flat（吹气）+ -e → 向内吹气 → 使膨胀。联想：给气球inflate（充气）。",
+      "example": "The government's policies may inflate housing prices in the short term."
+    },
+    "eject": {
+      "definition": "驱逐；弹出；喷射",
+      "phonetic": "/iˈdʒekt/",
+      "memory_trick": "前缀 'e-' 表示 '出'（out），结合 'ject'（投掷），即 '投掷出去' → 驱逐或弹出。",
+      "example": "The pilot had to eject from the malfunctioning aircraft."
+    },
+    "inject": {
+      "definition": "注射；注入",
+      "phonetic": "/ɪnˈdʒekt/",
+      "memory_trick": "前缀 'in-' 表示 '进入'（into），结合 'ject'（投掷），即 '投掷进去' → 注入或注射。",
+      "example": "The doctor will inject the vaccine to boost immunity."
+    },
+    "project": {
+      "definition": "投射；规划；项目",
+      "phonetic": "/ˈprɒdʒekt/ (n.); /prəˈdʒekt/ (v.)",
+      "memory_trick": "前缀 'pro-' 表示 '向前'（forward），结合 'ject'（投掷），即 '向前投掷' → 投射光线、想法或计划。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is crucial for his latest translation project."
+    },
+    "compress": {
+      "definition": "压缩；压紧；精简",
+      "phonetic": "/kəmˈpres/",
+      "memory_trick": "com-（共同）+ press（压）→ 一起压 → 压缩",
+      "example": "He can compress complex ideas into a few concise sentences, showing a remarkable ability to communicate effectively."
+    },
+    "depress": {
+      "definition": "使沮丧；使萧条；压下",
+      "phonetic": "/dɪˈpres/",
+      "memory_trick": "de-（向下）+ press（压）→ 向下压 → 使情绪低落",
+      "example": "Failing to learn new languages quickly might depress him, despite his usual remarkable ability in that area."
+    },
+    "express": {
+      "definition": "表达；表示；快速的",
+      "phonetic": "/ɪkˈspres/",
+      "memory_trick": "ex-（出）+ press（压）→ 把思想压出来 → 表达",
+      "example": "He has a remarkable ability to express himself clearly in multiple languages."
+    },
+    "impress": {
+      "definition": "给…留下深刻印象；压印",
+      "phonetic": "/ɪmˈpres/",
+      "memory_trick": "im-（进入）+ press（压）→ 压进去 → 印入脑中 → 留下印象",
+      "example": "His remarkable ability to learn new languages quickly never fails to impress everyone he meets."
+    },
+    "oppress": {
+      "definition": "压迫；压制；使心情沉重",
+      "phonetic": "/əˈpres/",
+      "memory_trick": "op-（对抗，加强）+ press（压）→ 强行压制 → 压迫",
+      "example": "The pressure to master a language quickly should not oppress learners, even those with a remarkable ability."
+    },
+    "suppress": {
+      "definition": "压制；抑制；隐瞒",
+      "phonetic": "/səˈpres/",
+      "memory_trick": "sup-（下）+ press（压）→ 压下去 → 抑制",
+      "example": "He could not suppress his excitement upon discovering his remarkable ability to learn new languages quickly."
+    },
+    "attract": {
+      "definition": "吸引，引起兴趣",
+      "phonetic": "/əˈtrækt/",
+      "memory_trick": "at（加强）+ tract（拉）→ 用力拉过来 → 吸引",
+      "example": "His remarkable ability to learn new languages quickly can attract many admirers."
+    },
+    "contract": {
+      "definition": "合同，契约；收缩",
+      "phonetic": "名词 /ˈkɒntrækt/，动词 /kənˈtrækt/",
+      "memory_trick": "con（共同）+ tract（拉）→ 共同拉（约束）→ 合同；或：向内拉 → 收缩",
+      "example": "The company signed a contract to ensure the project's completion."
+    },
+    "extract": {
+      "definition": "提取，抽出；摘录",
+      "phonetic": "动词 /ɪkˈstrækt/，名词 /ˈekstrækt/",
+      "memory_trick": "ex（出）+ tract（拉）→ 拉出来 → 提取",
+      "example": "Scientists extract valuable compounds from plants for medical research."
+    },
+    "subtract": {
+      "definition": "减去，扣除",
+      "phonetic": "/səbˈtrækt/",
+      "memory_trick": "sub（下）+ tract（拉）→ 拉下去 → 减掉",
+      "example": "Remember to subtract the discount from the total price before payment."
+    },
+    "stimulate": {
+      "definition": "刺激；激励；促使；激发（兴趣或活动）",
+      "phonetic": "/ˈstɪmjuleɪt/",
+      "memory_trick": "拆解：stimul（刺激）+ ate（动词后缀）→ 使产生刺激作用。联想：老师用问题“刺激”（stimulate）学生思考。",
+      "example": "He has a remarkable ability to learn new languages quickly, which seems to be stimulated by his passion for different cultures."
+    },
+    "stimulus": {
+      "definition": "刺激物；激励因素；促进因素",
+      "phonetic": "/ˈstɪmjələs/",
+      "memory_trick": "词根 stimul（刺激）+ us（名词后缀）→ 带来刺激的事物。对比：stimulate（动作），stimulus（事物）。",
+      "example": "The new language environment acted as a powerful stimulus for his rapid learning progress."
+    },
+    "stipulate": {
+      "definition": "规定，约定；明确要求",
+      "phonetic": "/ˈstɪpjuleɪt/",
+      "memory_trick": "拆解为 stipul（约定）+ ate（动词后缀）→ 进行约定 → 规定。联想：合同中的“条款”（stipulation）需要双方共同“规定”（stipulate）。",
+      "example": "The contract stipulates that the project must be completed by December, but the weather in the mountains can be quite abnormal this time of year, which may affect the schedule."
+    },
+    "adapt": {
+      "definition": "v. 使适应；调整；改编",
+      "phonetic": "/əˈdæpt/",
+      "memory_trick": "拆解为 ad- (朝向) + apt (适合)。字面意思就是'使之朝向适合的状态'，即'适应'或'调整'。",
+      "example": "He can quickly adapt to new environments and learn the local language."
+    },
+    "apt": {
+      "definition": "adj. 恰当的；聪明的；有…倾向的",
+      "phonetic": "/æpt/",
+      "memory_trick": "作为词根本身，直接表示'适合的'。可以联想记忆：一个恰当的（apt）应用程序（app）非常适合（apt）你的需求。",
+      "example": "He is apt at picking up new skills, such as learning new languages quickly."
+    },
+    "aptitude": {
+      "definition": "n. 天资；才能；自然倾向",
+      "phonetic": "/ˈæptɪtjuːd/",
+      "memory_trick": "apt (适合，倾向) + -itude (表示状态或性质的名词后缀)。字面意思是'适合做某事的状态'，即'天资'或'才能'。",
+      "example": "He has a remarkable aptitude for learning new languages quickly."
+    },
+    "exaggerate": {
+      "definition": "夸张，夸大",
+      "phonetic": "/ɪɡˈzædʒəreɪt/",
+      "example": "He tends to exaggerate his achievements."
+    },
+    "appropriate": {
+      "definition": "适当的；拨出（款项）",
+      "phonetic": "/əˈprəʊpriət/",
+      "example": "It is appropriate to wear formal clothes to the ceremony."
+    },
+    "inferior": {
+      "definition": "较差的，下级的",
+      "phonetic": "/ɪnˈfɪəriə/",
+      "example": "This product is inferior to the one we bought last time."
+    },
+    "overlook": {
+      "definition": "忽视；俯瞰",
+      "phonetic": "/ˌəʊvəˈlʊk/",
+      "example": "Don't overlook the small details in the report."
+    },
+    "overseas": {
+      "definition": "海外的，国外的",
+      "phonetic": "/ˌəʊvəˈsiːz/",
+      "example": "She plans to study overseas next year."
+    },
+    "mock": {
+      "definition": "嘲笑；模拟",
+      "phonetic": "/mɒk/",
+      "example": "The students mocked his accent."
+    },
+    "stir": {
+      "definition": "搅拌；激起",
+      "phonetic": "/stɜː/",
+      "example": "Stir the soup gently to avoid spilling."
+    },
+    "stick": {
+      "definition": "粘贴；坚持；棍子",
+      "phonetic": "/stɪk/",
+      "example": "Please stick the stamp on the envelope."
+    },
+    "examine": {
+      "definition": "检查；考试",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "example": "The doctor will examine your eyes."
+    }
+  },
+  "红宝书_Unit 16": {
+    "state": {
+      "definition": "n. 状态；国家；州；情形 v. 陈述；声明",
+      "phonetic": "/steɪt/",
+      "memory_trick": "联想：一个国家或州是一个“建立”（sta-）起来的政治实体，其“状态”是固定的。",
+      "example": "The new system runs in a steady state of absolute synchrony."
+    },
+    "statue": {
+      "definition": "n. 雕像，塑像",
+      "phonetic": "/ˈstætʃuː/",
+      "memory_trick": "雕像是一个“站立”（sta-）着不动的人或物的形象。",
+      "example": "The bronze statue has stood in the square for over a century."
+    },
+    "statistics": {
+      "definition": "n. 统计学；统计数字",
+      "phonetic": "/stəˈtɪstɪks/",
+      "memory_trick": "统计学是研究如何“建立”（sta-）和描述社会或数据“状态”的科学。",
+      "example": "Statistics show a remarkable ability of the population to learn new languages quickly."
+    },
+    "statesman": {
+      "definition": "n. 政治家",
+      "phonetic": "/ˈsteɪtsmən/",
+      "memory_trick": "政治家是管理“国家”（state）事务的人（man）。",
+      "example": "The elder statesman offered a steady hand during the crisis."
+    },
+    "status": {
+      "definition": "n. 地位；状态；身份",
+      "phonetic": "/ˈsteɪtəs/",
+      "memory_trick": "直接来自拉丁语status（站立的状态、位置），指一个人或事物“站立”在社会中的位置。",
+      "example": "His status as a leader is steady and unquestioned."
+    },
+    "standard": {
+      "definition": "n. 标准；旗帜 adj. 标准的",
+      "phonetic": "/ˈstændəd/",
+      "memory_trick": "标准是“建立”（sta-）起来供大家“站立”（stand）参照的标杆或准则。历史上也指“军旗”（立着的旗帜）。",
+      "example": "The new system sets a high standard for absolute synchrony."
+    },
+    "stance": {
+      "definition": "n. 立场；姿态；站姿",
+      "phonetic": "/stæns/",
+      "memory_trick": "指身体“站立”（sta-）的姿势，或思想上所“站立”的立场。",
+      "example": "He took a firm stance on the issue, standing his ground."
+    },
+    "standpoint": {
+      "definition": "n. 立场，观点",
+      "phonetic": "/ˈstændpɔɪnt/",
+      "memory_trick": "合成词：站立（stand）的点（point），即观察或思考时所“站立”的位置。",
+      "example": "From a technical standpoint, the system's synchrony is remarkable."
+    },
+    "stand": {
+      "definition": "v. 站立；忍受；位于 n. 立场；摊位",
+      "phonetic": "/stænd/",
+      "memory_trick": "词根sta-的直接体现，核心义为“站立”。",
+      "example": "The old clock has stood in the hall for generations, a steady presence."
+    },
+    "statement": {
+      "definition": "n. 声明；陈述；报表",
+      "phonetic": "/ˈsteɪtmənt/",
+      "memory_trick": "使（-ment）某种观点或事实“站立”（state）出来，即进行陈述。",
+      "example": "The official statement confirmed the system's steady performance."
+    },
+    "statute": {
+      "definition": "n. 法令，法规",
+      "phonetic": "/ˈstætʃuːt/",
+      "memory_trick": "法规是“建立”（sta-）起来让社会“站立”其上的规则，与statue（雕像）同源，都有“确立之物”的含义。",
+      "example": "The statute provides a steady legal framework for operations."
+    },
+    "stay": {
+      "definition": "v. 停留；保持 n. 逗留",
+      "phonetic": "/steɪ/",
+      "memory_trick": "核心义是“持续站立（在某处）”，即停留、保持。",
+      "example": "The system must stay in absolute synchrony to function properly."
+    },
+    "steady": {
+      "definition": "adj. 稳定的；稳固的；持续的 v. 使稳定",
+      "phonetic": "/ˈstedi/",
+      "memory_trick": "词根sta-（站立）加上形容词后缀-y，表示“处于站立状态的”，即稳固的。",
+      "example": "He has shown a steady and remarkable ability to learn new languages quickly."
+    },
+    "overall": {
+      "definition": "adj. 全面的，总体的；adv. 总体上，全部地",
+      "phonetic": "/ˌəʊvərˈɔːl/",
+      "memory_trick": "拆解为 over（覆盖）+ all（全部）→ 覆盖全部的 → 总体的。联想：一份 '总体' 报告需要 '覆盖所有' 方面。",
+      "example": "He has a remarkable ability to learn new languages quickly, which contributes to his overall success in international business."
+    },
+    "overlap": {
+      "definition": "v. 重叠，部分相同；n. 重叠部分",
+      "phonetic": "/ˌəʊvəˈlæp/",
+      "memory_trick": "拆解为 over（在上）+ lap（大腿；重叠部分）→ 一个叠在另一个上面 → 重叠。联想：两片瓦片 '上下重叠' 覆盖屋顶。",
+      "example": "His language learning ability and cultural adaptability often overlap, making him highly effective in cross-cultural communication."
+    },
+    "overcome": {
+      "definition": "v. 克服，战胜；解决",
+      "phonetic": "/ˌəʊvəˈkʌm/",
+      "memory_trick": "拆解为 over（超越）+ come（来）→ 超越困难而来 → 克服。联想：翻越（over）障碍物来到（come）目的地。",
+      "example": "He overcame the initial difficulties of language learning with consistent practice and now masters multiple languages."
+    },
+    "assassinate": {
+      "definition": "vt. 暗杀，行刺",
+      "phonetic": "/əˈsæsɪneɪt/",
+      "memory_trick": "拆解为 ass（驴，笨人）+ assass（谐音“暗杀”）+ inate（动词后缀），联想“笨驴策划的暗杀行动”。结合词根 ass-（朝向）理解：怀着特定目的（如政治、金钱）靠近并杀害目标。",
+      "example": "The plot to assassinate the ambassador was uncovered by intelligence agents."
+    },
+    "assert": {
+      "definition": "vt. 断言，主张；维护（权利、权威等）",
+      "phonetic": "/əˈsɜːrt/",
+      "memory_trick": "拆解为 as（如同）+ sert（加入，插入），联想“如同插入观点般坚持己见”。结合词根 ass-（朝向）理解：将自己的观点或权利“强有力地推向”他人，使其被承认。",
+      "example": "He asserted his authority by making the final decision on the project."
+    },
+    "assemble": {
+      "definition": "v. 集合，聚集；组装，装配",
+      "phonetic": "/əˈsembl/",
+      "memory_trick": "拆解为 as（朝向）+ semble（类似，一起），联想“使类似的东西朝一个地方聚集”。结合词根 ass-（朝向）理解：使人或部件“朝一个中心点靠近并组合起来”。",
+      "example": "The team will assemble in the conference room to discuss the new strategy."
+    },
+    "assault": {
+      "definition": "n./v. 攻击，袭击；抨击",
+      "phonetic": "/əˈsɔːlt/",
+      "memory_trick": "谐音“啊！搜他！”，联想突然袭击并搜查。结合词根 ass-（朝向）理解：猛烈地“冲向”目标进行攻击。",
+      "example": "The soldiers launched a surprise assault on the enemy fortress at dawn."
+    },
+    "assembly": {
+      "definition": "n. 集会，集合；装配，组装；立法机构",
+      "phonetic": "/əˈsembli/",
+      "memory_trick": "assemble（聚集，组装）的名词形式，直接关联。结合词根 ass-（朝向）理解：人或部件“被召集到一起”形成的状态或结果。",
+      "example": "The school assembly was held to celebrate the students' achievements."
+    },
+    "anxious": {
+      "definition": "adj. 焦虑的，担忧的；渴望的",
+      "phonetic": "/ˈæŋkʃəs/",
+      "memory_trick": "拆解：anx（压迫）+ ious（形容词后缀）→ 内心感到压迫的 → 焦虑的。联想：anxious 发音似“安可歇斯”，但心里不安无法歇息 → 焦虑。",
+      "example": "He is anxious about the upcoming exam, but he has a remarkable ability to learn new languages quickly."
+    },
+    "anxiety": {
+      "definition": "n. 焦虑，忧虑；渴望",
+      "phonetic": "/æŋˈzaɪəti/",
+      "memory_trick": "拆解：anx（压迫）+ iety（名词后缀，表状态）→ 内心压迫的状态 → 焦虑。联想：anxiety 结尾 -ety 类似“易惕”，容易警惕不安 → 焦虑感。",
+      "example": "Her anxiety about speaking in public decreased when she realized her remarkable ability to learn new languages quickly."
+    },
+    "anticipate": {
+      "definition": "1. 预料，预期；2. 预见并提前准备；3. 期盼，期望",
+      "phonetic": "/ænˈtɪsɪpeɪt/",
+      "memory_trick": "拆解：anti-（前，先）+ cip（取，拿，来自拉丁语 capere）+ -ate（动词后缀）→ 提前拿取 → 引申为“预料、预先准备”。联想：anti（前）+ cip（拿）+ ate（吃）→ 提前拿吃的 → 预料到会饿，所以提前准备食物。",
+      "example": "The weather in the mountains can be quite abnormal this time of year, so we should anticipate sudden changes and pack accordingly."
+    },
+    "potential": {
+      "definition": "adj. 潜在的，可能的；n. 潜力，潜能",
+      "phonetic": "/pəˈtenʃl/",
+      "memory_trick": "拆解为 pot（能力）+ ent（形容词后缀）+ ial（形容词后缀），联想为“有能力的状态”→ 潜在的，有潜力的。",
+      "example": "He has the potential to learn new languages quickly."
+    },
+    "possible": {
+      "definition": "adj. 可能的，可能存在的",
+      "phonetic": "/ˈpɑːsəbl/",
+      "memory_trick": "拆解为 poss（=pot，能力）+ ible（形容词后缀，表示“可…的”），联想为“有能力做到的”→ 可能的。",
+      "example": "It is possible for him to learn new languages quickly."
+    },
+    "possibility": {
+      "definition": "n. 可能性，可能的事",
+      "phonetic": "/ˌpɑːsəˈbɪləti/",
+      "memory_trick": "由 possible（可能的） + ity（名词后缀）构成，表示“可能的状态或性质”。",
+      "example": "There is a strong possibility that he can learn new languages quickly."
+    },
+    "narrative": {
+      "definition": "n. 叙述，故事；讲述；adj. 叙述的，叙事体的",
+      "phonetic": "/ˈnærətɪv/",
+      "memory_trick": "拆解：narr（讲述）+ ative（形容词/名词后缀）→ 与讲述相关的事物 → 叙述、故事。联想：narr- 音似“那日”，想象“那日发生的故事需要被叙述（narrative）出来”。",
+      "example": "He has a remarkable ability to learn new languages quickly, which became a key part of his personal narrative about adapting to different cultures."
+    },
+    "stem": {
+      "definition": "n. 茎，干；柄，梗；词干；血统，家族；船首，船头 v. 起源于，由…造成；阻止，遏制",
+      "phonetic": "/stem/",
+      "memory_trick": "联想记忆：植物的“茎干”（stem）是整株植物的“起源”和支撑主干，就像词根 stem- 表示“起源”一样。可以想象一棵树从茎干生长出来，引申为事物的起源或核心部分。",
+      "example": "He has a remarkable ability to learn new languages quickly, which stems from his early exposure to multiple cultures."
+    },
+    "nation": {
+      "definition": "n. 国家；民族",
+      "phonetic": "/ˈneɪʃ(ə)n/",
+      "memory_trick": "nat（出生）+ ion（名词后缀）→ 一个由共同“出生”或起源的人们组成的群体 → 民族，国家。",
+      "example": "He has a remarkable ability to learn the languages of a new nation quickly."
+    },
+    "national": {
+      "definition": "adj. 国家的；民族的；国有的 n. 国民",
+      "phonetic": "/ˈnæʃ(ə)nəl/",
+      "memory_trick": "nation（国家）+ al（形容词后缀）→ 与国家或民族相关的。",
+      "example": "His national identity gives him a remarkable ability to learn new languages quickly."
+    },
+    "nationality": {
+      "definition": "n. 国籍；民族",
+      "phonetic": "/ˌnæʃəˈnæləti/",
+      "memory_trick": "national（国家的）+ ity（名词后缀，表性质）→ 属于某个国家的性质 → 国籍。",
+      "example": "His diverse nationality background contributes to his remarkable ability to learn new languages quickly."
+    },
+    "native": {
+      "definition": "adj. 本国的；本土的；天生的 n. 本地人；土著",
+      "phonetic": "/ˈneɪtɪv/",
+      "memory_trick": "nat（出生）+ ive（形容词后缀）→ 与出生地相关的 → 本地的，天生的。",
+      "example": "As a native speaker, he has a remarkable ability to learn new languages quickly by comparison."
+    },
+    "nature": {
+      "definition": "n. 自然；天性；本质",
+      "phonetic": "/ˈneɪtʃə(r)/",
+      "memory_trick": "nat（出生）+ ure（名词后缀）→ 事物与生俱来的状态 → 天性，本质；引申为孕育万物的“自然”。",
+      "example": "By nature, he has a remarkable ability to learn new languages quickly."
+    },
+    "natural": {
+      "definition": "adj. 自然的；天生的；不做作的",
+      "phonetic": "/ˈnætʃrəl/",
+      "memory_trick": "natur(e)（自然，天性）+ al（形容词后缀）→ 与自然或天性一致的 → 自然的，天生的。",
+      "example": "It seems natural for him to have a remarkable ability to learn new languages quickly."
+    },
+    "composition": {
+      "definition": "n. 组成，构成；作品（尤指音乐或文学作品）；作文",
+      "phonetic": "/ˌkɒmpəˈzɪʃn/",
+      "memory_trick": "com-（一起）+ pos（放置）+ -ition（名词后缀）→ 将各部分“放置在一起”形成整体 → 构成；作品",
+      "example": "The composition of the team reflects a balance of experience and fresh talent."
+    },
+    "component": {
+      "definition": "n. 组成部分，成分，部件",
+      "phonetic": "/kəmˈpəʊnənt/",
+      "memory_trick": "com-（一起）+ pon（放置）+ -ent（名词后缀，表示物）→ 被“放置在一起”构成整体的部分 → 组成部分",
+      "example": "Each component of the device must be tested for reliability."
+    },
+    "compose": {
+      "definition": "v. 组成，构成；创作（音乐、诗歌等）；使平静",
+      "phonetic": "/kəmˈpəʊz/",
+      "memory_trick": "com-（一起）+ pose（放置）→ 将元素“放置在一起”形成整体 → 组成；创作",
+      "example": "He can compose a piece of music in just a few hours."
+    },
+    "position": {
+      "definition": "n. 位置；职位；立场，观点 v. 安置，放置",
+      "phonetic": "/pəˈzɪʃn/",
+      "memory_trick": "pos（放置）+ -ition（名词后缀）→ 被放置的地点或状态 → 位置；职位",
+      "example": "He has a remarkable ability to learn new languages quickly, which puts him in a strong position for the international role."
+    },
+    "portion": {
+      "definition": "n. 一部分，一份；（食物的）一客",
+      "phonetic": "/ˈpɔːʃn/",
+      "memory_trick": "port（= part，部分，由“放置”引申出的分配概念）+ -ion（名词后缀）→ 被分出来“放置”的一份 → 部分",
+      "example": "A large portion of his income is spent on books and courses."
+    },
+    "comprehend": {
+      "definition": "vt. 理解，领会；包含，包括",
+      "phonetic": "/ˌkɒmprɪˈhend/",
+      "memory_trick": "com-（完全）+ prehend（抓住）→ 完全抓住（信息或内容）→ 理解；包含。可以联想为“将信息完全抓在手中，从而理解”。",
+      "example": "He has a remarkable ability to comprehend new languages quickly."
+    },
+    "comprehension": {
+      "definition": "n. 理解，理解力；包含",
+      "phonetic": "/ˌkɒmprɪˈhenʃn/",
+      "memory_trick": "comprehen(d)（理解）+ -sion（名词后缀）→ 理解的行为或能力。注意词根变为 prehens-。",
+      "example": "His quick comprehension of complex grammar rules is impressive."
+    },
+    "comprehensive": {
+      "definition": "adj. 全面的，综合的；有理解力的",
+      "phonetic": "/ˌkɒmprɪˈhensɪv/",
+      "memory_trick": "comprehen(d)（包含，理解）+ -sive（形容词后缀）→ 把所有方面都“包含”进来的 → 全面的；能“理解”广泛的 → 有理解力的。",
+      "example": "He conducted a comprehensive study of the language's history and structure."
+    },
+    "disappear": {
+      "definition": "vi. 消失，不见",
+      "phonetic": "/ˌdɪsəˈpɪr/",
+      "memory_trick": "dis-（分离）+ appear（出现）→ 从出现状态分离 → 消失",
+      "example": "The magician made the rabbit disappear in an instant."
+    },
+    "discovery": {
+      "definition": "n. 发现，被发现的事物",
+      "phonetic": "/dɪˈskʌvəri/",
+      "memory_trick": "dis-（否定）+ cover（覆盖）+ -y（名词后缀）→ 不再覆盖 → 发现",
+      "example": "The discovery of penicillin revolutionized medicine."
+    },
+    "discover": {
+      "definition": "vt. 发现，发觉",
+      "phonetic": "/dɪˈskʌvər/",
+      "memory_trick": "dis-（否定）+ cover（覆盖）→ 揭开覆盖 → 发现",
+      "example": "Scientists continue to discover new species in the rainforest."
+    },
+    "disclose": {
+      "definition": "vt. 揭露，公开",
+      "phonetic": "/dɪsˈkloʊz/",
+      "memory_trick": "dis-（否定）+ close（关闭）→ 不再关闭 → 公开",
+      "example": "The company refused to disclose its financial details."
+    },
+    "disable": {
+      "definition": "vt. 使失去能力，使无效",
+      "phonetic": "/dɪsˈeɪbl/",
+      "memory_trick": "dis-（否定）+ able（能够）→ 使不能 → 使失效",
+      "example": "The virus can disable the computer's security system."
+    },
+    "disappoint": {
+      "definition": "vt. 使失望",
+      "phonetic": "/ˌdɪsəˈpɔɪnt/",
+      "memory_trick": "dis-（否定）+ appoint（任命）→ 未被任命 → 失望（引申义）",
+      "example": "I hope the results won't disappoint you."
+    },
+    "discipline": {
+      "definition": "n. 纪律；学科 vt. 训练，管教",
+      "phonetic": "/ˈdɪsəplɪn/",
+      "memory_trick": "dis-（分离）+ cip（拿）+ line（线）→ 拿线分开 → 有界限 → 纪律",
+      "example": "He has a remarkable ability to learn new languages quickly, which requires great discipline."
+    },
+    "condemn": {
+      "definition": "谴责；判刑；宣告有罪",
+      "phonetic": "/kənˈdem/",
+      "memory_trick": "拆解：cond-（加强）+ -emn（来自拉丁语 damnare，意为谴责）→ 强烈谴责。联想：共同（cond-）给予严厉判决。",
+      "example": "The international community was quick to condemn the unjust actions."
+    },
+    "condense": {
+      "definition": "浓缩；凝结；简缩",
+      "phonetic": "/kənˈdens/",
+      "memory_trick": "拆解：cond-（加强）+ -dense（密集的）→ 使更加密集。联想：共同压缩使内容更紧凑。",
+      "example": "He has a remarkable ability to condense complex ideas into clear summaries quickly."
+    },
+    "condition": {
+      "definition": "条件；状况；环境",
+      "phonetic": "/kənˈdɪʃn/",
+      "memory_trick": "拆解：cond-（共同）+ -ition（名词后缀）→ 共同约定的条款。联想：共同设定的前提或状态。",
+      "example": "His ability to learn new languages quickly is conditioned by consistent practice."
+    },
+    "conduct": {
+      "definition": "引导；进行；指挥；行为",
+      "phonetic": "/kənˈdʌkt/（动词）；/ˈkɒndʌkt/（名词）",
+      "memory_trick": "拆解：cond-（加强）+ -duct（引导）→ 强力引导或带领。联想：共同引导一个过程或行为。",
+      "example": "She will conduct a study on how people learn new languages quickly."
+    },
+    "conductor": {
+      "definition": "导体；指挥；售票员",
+      "phonetic": "/kənˈdʌktə(r)/",
+      "memory_trick": "拆解：conduct（引导）+ -or（人/物）→ 引导者或引导物。联想：共同引导电流、音乐或乘客的人。",
+      "example": "The conductor's remarkable ability to coordinate the orchestra impressed everyone."
+    },
+    "holder": {
+      "definition": "n. 持有者；支撑物；容器",
+      "phonetic": "/ˈhoʊldər/",
+      "memory_trick": "hold（持有）+ -er（表示人或物的后缀）→ 持有东西的人或物。联想：cup holder（杯架）就是 hold cups 的东西。",
+      "example": "He is the current holder of the language learning record."
+    },
+    "hold": {
+      "definition": "v. 持有；保持；容纳 n. 抓握；控制",
+      "phonetic": "/hoʊld/",
+      "memory_trick": "词根本身。想象用手 hold 住一个东西的基本动作。",
+      "example": "He has a remarkable ability to hold new language knowledge in his mind quickly."
+    },
+    "household": {
+      "definition": "n. 家庭；户 adj. 家用的；家庭的",
+      "phonetic": "/ˈhaʊshoʊld/",
+      "memory_trick": "house（房子）+ hold（维持）→ 一个房子所维持的基本单位，即“家庭”。联想：一个家庭共同 hold 着一个家。",
+      "example": "In his household, the ability to learn new languages quickly is highly valued."
+    },
+    "however": {
+      "definition": "adv. 然而；无论如何 conj. 不管怎样",
+      "phonetic": "/haʊˈevər/",
+      "memory_trick": "how（如何）+ ever（在任何时候）→ 原意“无论以何种方式”，引申为转折“然而”。注意与 hold 的关联较弱，但词源上 'how' 与古英语 'hū'（方式）相关，此处列出作为包含该词形的单词。",
+      "example": "He has a remarkable ability to learn new languages quickly; however, consistent practice is still essential."
+    },
+    "startle": {
+      "definition": "v. 使惊吓，使吃惊；n. 惊跳，吃惊",
+      "phonetic": "/ˈstɑːrtl/",
+      "memory_trick": "拆解为 start（开始）+ le（表反复动作）→ 突然开始的动作 → 惊吓。联想：突然的响动让人“惊跳起来”（startle）。",
+      "example": "He has a remarkable ability to learn new languages quickly, which never fails to startle his colleagues."
+    },
+    "start": {
+      "definition": "v. 开始，启动；惊起，突然出现；n. 开始，开端；惊跳",
+      "phonetic": "/stɑːrt/",
+      "memory_trick": "词根本身即“突然移动”，引申为“突然开始”。可联想赛跑时发令枪响，选手“突然启动”（start）。",
+      "example": "He has a remarkable ability to start learning new languages quickly and make progress from day one."
+    },
+    "steer": {
+      "definition": "及物动词：驾驶（车、船等）；引导，操纵；不及物动词：驾驶；行驶；名词：阉牛（此义项与词根无关，属同形异义）。",
+      "phonetic": "/stɪr/",
+      "memory_trick": "联想记忆：steer（驾驶）→ 司机（driver）steer the car（开车）；谐音“驶舵”→ 操控方向舵即“驾驶”。",
+      "example": "He has a remarkable ability to learn new languages quickly, which helps him steer through multicultural environments with ease."
+    },
+    "hoist": {
+      "definition": "动词：升起，吊起，提升；名词：起重机，升降设备",
+      "phonetic": "/hɔɪst/",
+      "memory_trick": "联想记忆：hoist 发音类似“嗨，升起来！”——在工地或码头，人们常喊“hoist!”指挥起重，声音响亮有力，便于记忆其“升起”的动作场景。",
+      "example": "The workers used a crane to hoist the heavy equipment to the top of the building."
+    },
+    "apart": {
+      "definition": "adv. 分开地；相隔；拆散；区别地；单独地",
+      "phonetic": "/əˈpɑːrt/",
+      "memory_trick": "拆解为 a（离开）+ part（部分）→ 分成部分 → 分开。联想：将物体“a part”（一个部分）拆开，就是 apart（分开）。",
+      "example": "He has a remarkable ability to learn new languages quickly, setting him apart from his peers."
+    },
+    "starve": {
+      "definition": "1. (使) 饿死；(因缺乏食物而) 死亡；2. (使) 极度缺乏；(使) 渴望得到某物",
+      "phonetic": "/stɑːrv/ (英式) ; /stɑːrv/ (美式)",
+      "memory_trick": "联想记忆：star（星星）+ ve（谐音“饿”）→ 饿得眼冒金星 → 饿死。或拆分：star（明星）+ ve（谐音“无”）→ 明星无食物 → 饿死。",
+      "example": "The weather in the mountains can be quite abnormal this time of year, and hikers may starve if they are not prepared with enough food."
+    },
+    "nasty": {
+      "definition": "1. 肮脏的，污秽的；令人作呕的。 2. 令人不快的，讨厌的；恶劣的（如天气）。 3. 恶意的，恶毒的；下流的。 4. 严重的，危险的（如伤势或问题）。",
+      "phonetic": "/ˈnɑːsti/ (英式) | /ˈnæsti/ (美式)",
+      "memory_trick": "联想记忆：'nasty' 听起来像 '那死地'，可以想象一个又脏又臭、令人不快的地方，帮助记忆其'肮脏、令人不快'的核心含义。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is a nasty surprise for his competitors who thought they had an advantage."
+    },
+    "narrow": {
+      "definition": "1. 狭窄的，窄的（物理空间）；2. 狭隘的，有限的（范围、程度或视野）；3. 勉强的，相差微小的；4. 动词：使变窄，缩小",
+      "phonetic": "/ˈnærəʊ/ (英式) | /ˈnæroʊ/ (美式)",
+      "memory_trick": "联想记忆：'narrow' 发音类似“那肉”，想象一块肉被切得非常窄的条状，引申为“狭窄”。或拆解：'nar'（谐音“那”）+ 'row'（排）→ “那一排很窄”。",
+      "example": "He has a remarkable ability to learn new languages quickly, despite his narrow exposure to different cultures."
+    },
+    "step": {
+      "definition": "n. 脚步；步骤；台阶；阶段；措施 v. 迈步；行走；踩",
+      "phonetic": "/step/",
+      "memory_trick": "联想记忆：'step' 发音类似“踏步”，直接对应“脚步”或“步骤”的动作与概念。",
+      "example": "He has taken a significant step forward in his ability to learn new languages quickly."
+    },
+    "pour": {
+      "definition": "1. 使（液体）连续流出；倒；灌；注。 2. （雨）倾盆而下；下倾盆大雨。 3. （人）大量涌入（或涌出）。 4. 倾吐，倾诉（感情等）。",
+      "phonetic": "/pɔːr/",
+      "memory_trick": "联想记忆：想象“泼（pōu）水”的动作，发音相似，动作也相似，都是将液体倒出。",
+      "example": "He has a remarkable ability to learn new languages quickly, as if knowledge pours into his mind effortlessly."
+    },
+    "huddle": {
+      "definition": "v. 挤作一团；蜷缩；聚集商议 n. 杂乱的一团；小型秘密会议",
+      "phonetic": "/ˈhʌd(ə)l/",
+      "memory_trick": "联想：hu（音似“互”）+ ddle（音似“兜”）→ 互相兜在一起 → 挤作一团。",
+      "example": "The team huddled together to discuss the final strategy before the game."
+    },
+    "answer": {
+      "definition": "n. 回答，答复；答案；解决办法 v. 回答，答复；回应；符合，满足",
+      "phonetic": "/ˈænsər/",
+      "memory_trick": "联想：'an'（一个）+ 'swer'（谐音'思我'）→ 一个问题需要一个'思我'（思考后的我）来'回答'。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he can answer complex questions in them within months."
+    },
+    "anonymous": {
+      "definition": "匿名的；无名的",
+      "phonetic": "əˈnɒnɪməs",
+      "example": "The donor wished to remain anonymous."
+    },
+    "stern": {
+      "definition": "严厉的；坚定的",
+      "phonetic": "stɜːn",
+      "example": "The teacher gave him a stern look."
+    }
+  },
+  "红宝书_Unit 15": {
+    "distinct": {
+      "definition": "明显的，独特的",
+      "phonetic": "/dɪˈstɪŋkt/",
+      "example": "There is a distinct difference between the two ideas."
+    },
+    "fruitful": {
+      "definition": "富有成效的，多产的",
+      "phonetic": "/ˈfruːtfəl/",
+      "example": "The meeting was fruitful and led to many new ideas."
+    },
+    "distinction": {
+      "definition": "区别，差别",
+      "phonetic": "/dɪˈstɪŋkʃən/",
+      "example": "She made a clear distinction between right and wrong."
+    },
+    "constitute": {
+      "definition": "构成，组成",
+      "phonetic": "/ˈkɑːnstɪtuːt/",
+      "example": "Twelve months constitute a year."
+    },
+    "mood": {
+      "definition": "心情，情绪",
+      "phonetic": "/muːd/",
+      "example": "He is in a good mood today."
+    },
+    "transmission": {
+      "definition": "传输，传播",
+      "phonetic": "/trænzˈmɪʃən/",
+      "example": "The transmission of the disease can be prevented."
+    },
+    "stock": {
+      "definition": "股票，存货",
+      "phonetic": "/stɑːk/",
+      "example": "The company's stock has increased in value."
+    },
+    "transmit": {
+      "definition": "传输，传送",
+      "phonetic": "/trænzˈmɪt/",
+      "example": "The radio station transmits signals 24 hours a day."
+    },
+    "stun": {
+      "definition": "使震惊，使目瞪口呆",
+      "phonetic": "/stʌn/",
+      "example": "The news stunned everyone in the room."
+    },
+    "monotonous": {
+      "definition": "单调的，乏味的",
+      "phonetic": "/məˈnɑːtənəs/",
+      "example": "The work is monotonous and boring."
+    },
+    "prime": {
+      "definition": "主要的，首要的",
+      "phonetic": "/praɪm/",
+      "example": "This is a prime example of modern art."
+    },
+    "evidence": {
+      "definition": "证据，迹象",
+      "phonetic": "/ˈevɪdəns/",
+      "example": "The police found evidence at the crime scene."
+    },
+    "evil": {
+      "definition": "邪恶的，有害的",
+      "phonetic": "/ˈiːvəl/",
+      "example": "He is known for his evil deeds."
+    },
+    "enterprise": {
+      "definition": "企业，事业",
+      "phonetic": "/ˈentərpraɪz/",
+      "example": "She started her own enterprise last year."
+    },
+    "entertainment": {
+      "definition": "娱乐，消遣",
+      "phonetic": "/ˌentərˈteɪnmənt/",
+      "example": "The city offers many forms of entertainment."
+    },
+    "licens(e)": {
+      "definition": "许可证，执照",
+      "phonetic": "/ˈlaɪsəns/",
+      "example": "You need a license to drive a car."
+    },
+    "primary": {
+      "definition": "主要的，初级的",
+      "phonetic": "/ˈpraɪmeri/",
+      "example": "The primary goal is to finish the project on time."
+    },
+    "liable": {
+      "definition": "有责任的，易于...的",
+      "phonetic": "/ˈlaɪəbəl/",
+      "example": "He is liable for the damages."
+    },
+    "environment": {
+      "definition": "环境",
+      "phonetic": "/ɪnˈvaɪrənmənt/",
+      "example": "We must protect the environment."
+    },
+    "strike": {
+      "definition": "罢工，打击",
+      "phonetic": "/straɪk/",
+      "example": "The workers went on strike for better pay."
+    },
+    "fund": {
+      "definition": "基金，资金",
+      "phonetic": "/fʌnd/",
+      "example": "They raised funds for the charity."
+    },
+    "innovation": {
+      "definition": "创新，革新",
+      "phonetic": "/ˌɪnəˈveɪʃən/",
+      "example": "Technology innovation drives economic growth."
+    },
+    "frustrate": {
+      "definition": "使沮丧，阻挠",
+      "phonetic": "/ˈfrʌstreɪt/",
+      "example": "The delay frustrated the passengers."
+    },
+    "store": {
+      "definition": "商店，储存",
+      "phonetic": "/stɔːr/",
+      "example": "I need to go to the store to buy groceries."
+    },
+    "constrain": {
+      "definition": "约束，限制",
+      "phonetic": "/kənˈstreɪn/",
+      "example": "Lack of funds constrained the project."
+    },
+    "transport": {
+      "definition": "运输，交通工具",
+      "phonetic": "/ˈtrænspɔːrt/",
+      "example": "Public transport is convenient in this city."
+    },
+    "entertain": {
+      "definition": "娱乐，招待",
+      "phonetic": "/ˌentərˈteɪn/",
+      "example": "The magician entertained the children."
+    },
+    "structure": {
+      "definition": "结构，构造",
+      "phonetic": "/ˈstrʌktʃər/",
+      "example": "The building has a strong structure."
+    },
+    "constant": {
+      "definition": "不断的，恒定的",
+      "phonetic": "/ˈkɑːnstənt/",
+      "example": "The machine runs at a constant speed."
+    },
+    "principal": {
+      "definition": "主要的，校长",
+      "phonetic": "/ˈprɪnsəpəl/",
+      "example": "The principal reason is the cost."
+    },
+    "associate": {
+      "definition": "关联，同事",
+      "phonetic": "/əˈsoʊʃieɪt/",
+      "example": "She is an associate professor."
+    },
+    "function": {
+      "definition": "功能，作用",
+      "phonetic": "/ˈfʌŋkʃən/",
+      "example": "The function of the heart is to pump blood."
+    },
+    "fulfil/fulfill": {
+      "definition": "实现，履行",
+      "phonetic": "/fʊlˈfɪl/",
+      "example": "He fulfilled his promise."
+    },
+    "stride": {
+      "definition": "大步，进步",
+      "phonetic": "/straɪd/",
+      "example": "She took a long stride forward."
+    },
+    "liability": {
+      "definition": "责任，负债",
+      "phonetic": "/ˌlaɪəˈbɪləti/",
+      "example": "The company has many liabilities."
+    },
+    "liberal": {
+      "definition": "自由的，开明的",
+      "phonetic": "/ˈlɪbərəl/",
+      "example": "He holds liberal views on education."
+    },
+    "construct": {
+      "definition": "建造，构建",
+      "phonetic": "/kənˈstrʌkt/",
+      "example": "They plan to construct a new bridge."
+    },
+    "fundamental": {
+      "definition": "基本的，根本的",
+      "phonetic": "/ˌfʌndəˈmentəl/",
+      "example": "This is a fundamental principle of physics."
+    },
+    "primitive": {
+      "definition": "原始的，简单的",
+      "phonetic": "/ˈprɪmɪtɪv/",
+      "example": "Primitive tools were made of stone."
+    },
+    "association": {
+      "definition": "协会，关联",
+      "phonetic": "/əˌsoʊʃiˈeɪʃən/",
+      "example": "He joined the football association."
+    },
+    "monopoly": {
+      "definition": "垄断，独占",
+      "phonetic": "/məˈnɑːpəli/",
+      "example": "The company has a monopoly on the market."
+    },
+    "amuse": {
+      "definition": "逗乐，使发笑",
+      "phonetic": "/əˈmjuːz/",
+      "example": "The joke amused everyone."
+    },
+    "amend": {
+      "definition": "修改，修正",
+      "phonetic": "/əˈmend/",
+      "example": "The law was amended last year."
+    },
+    "evident": {
+      "definition": "明显的，清楚的",
+      "phonetic": "/ˈevɪdənt/",
+      "example": "It is evident that he is lying."
+    },
+    "amount": {
+      "definition": "数量，金额",
+      "phonetic": "/əˈmaʊnt/",
+      "example": "The amount of money is insufficient."
+    },
+    "innocent": {
+      "definition": "无辜的，天真的",
+      "phonetic": "/ˈɪnəsənt/",
+      "example": "The child is innocent of the crime."
+    },
+    "ample": {
+      "definition": "充足的，宽敞的",
+      "phonetic": "/ˈæmpəl/",
+      "example": "There is ample space in the room."
+    },
+    "among(st)": {
+      "definition": "在...之中",
+      "phonetic": "/əˈmʌŋ(st)/",
+      "example": "She is among the best students."
+    },
+    "consistent": {
+      "definition": "一致的，始终如一的",
+      "phonetic": "/kənˈsɪstənt/",
+      "example": "His actions are consistent with his words."
+    },
+    "constituent": {
+      "definition": "成分，选民",
+      "phonetic": "/kənˈstɪtʃuənt/",
+      "example": "The constituents voted for the new law."
+    },
+    "storage": {
+      "definition": "存储，仓库",
+      "phonetic": "/ˈstɔːrɪdʒ/",
+      "example": "We need more storage space."
+    },
+    "constitution": {
+      "definition": "宪法，构成",
+      "phonetic": "/ˌkɑːnstɪˈtuːʃən/",
+      "example": "The constitution guarantees freedom of speech."
+    },
+    "psychology": {
+      "definition": "心理学",
+      "phonetic": "/saɪˈkɑːlədʒi/",
+      "example": "She studied psychology at university."
+    },
+    "liberate": {
+      "definition": "解放，释放",
+      "phonetic": "/ˈlɪbəreɪt/",
+      "example": "The army liberated the city."
+    },
+    "psychiatry": {
+      "definition": "精神病学",
+      "phonetic": "/saɪˈkaɪətri/",
+      "example": "He specializes in psychiatry."
+    },
+    "string": {
+      "definition": "线，弦，一串",
+      "phonetic": "/strɪŋ/",
+      "example": "She tied the package with a string."
+    },
+    "console": {
+      "definition": "安慰，控制台",
+      "phonetic": "/kənˈsoʊl/",
+      "example": "He tried to console her after the loss."
+    },
+    "consist": {
+      "definition": "由...组成",
+      "phonetic": "/kənˈsɪst/",
+      "example": "The team consists of five members."
+    },
+    "striking": {
+      "definition": "显著的，引人注目的",
+      "phonetic": "/ˈstraɪkɪŋ/",
+      "example": "She has a striking resemblance to her mother."
+    },
+    "transplant": {
+      "definition": "移植",
+      "phonetic": "/ˈtrænsplænt/",
+      "example": "The patient received a heart transplant."
+    },
+    "principle": {
+      "definition": "原则，原理",
+      "phonetic": "/ˈprɪnsəpəl/",
+      "example": "Honesty is an important principle."
+    },
+    "distinguish": {
+      "definition": "区分，辨别",
+      "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+      "example": "Can you distinguish between the two colors?"
+    }
+  },
+  "红宝书_Unit 14": {
+    "per": {
+      "definition": "每；通过；按照",
+      "phonetic": "/pɜːr/",
+      "memory_trick": "per 就是词根本身，记住“通过每个”即可。",
+      "example": "He earns $50 per hour."
+    },
+    "percent": {
+      "definition": "百分比；百分之...",
+      "phonetic": "/pərˈsent/",
+      "memory_trick": "per（每）+ cent（一百）= 每一百中的数量，即百分比。",
+      "example": "Only 20 percent of the students passed the exam."
+    },
+    "percentage": {
+      "definition": "百分比；比例",
+      "phonetic": "/pərˈsentɪdʒ/",
+      "memory_trick": "percent + age（名词后缀），表示百分比的概念或数值。",
+      "example": "The percentage of women in the workforce has increased."
+    },
+    "perceive": {
+      "definition": "察觉；感知；理解",
+      "phonetic": "/pərˈsiːv/",
+      "memory_trick": "per（完全）+ ceive（拿取）= 完全拿取信息，即感知或理解。",
+      "example": "He has a remarkable ability to perceive subtle changes in people's moods."
+    },
+    "perfect": {
+      "definition": "完美的；完全的；使完美",
+      "phonetic": "/ˈpɜːrfɪkt/",
+      "memory_trick": "per（完全）+ fect（做）= 做得完全彻底，即完美的。",
+      "example": "She spent years perfecting her craft."
+    },
+    "operator": {
+      "definition": "操作员；经营者；接线员",
+      "phonetic": "/ˈɒpəreɪtə/",
+      "memory_trick": "'operate'（操作）+ 'or'（人）→ 执行操作的人。想象电话‘接线员’在‘工作’中快速切换线路。",
+      "example": "He has a remarkable ability to learn new languages quickly, which would make him an excellent operator in a multilingual call center."
+    },
+    "operate": {
+      "definition": "操作；运转；经营；动手术",
+      "phonetic": "/ˈɒpəreɪt/",
+      "memory_trick": "词根'oper'（工作）+ 'ate'（动词后缀）→ 做工作 → 操作。想象医生‘工作’在手术台上。",
+      "example": "He has a remarkable ability to learn new languages quickly, which helps him operate effectively in international teams."
+    },
+    "operation": {
+      "definition": "操作；手术；行动；运营",
+      "phonetic": "/ˌɒpəˈreɪʃn/",
+      "memory_trick": "来自'operate'（操作）+ 'tion'（名词后缀）→ 操作的过程或结果。联想一次精密的‘手术’需要团队协作的‘工作’。",
+      "example": "He has a remarkable ability to learn new languages quickly, making him invaluable for complex operations abroad."
+    },
+    "operational": {
+      "definition": "操作的；运营的；可使用的",
+      "phonetic": "/ˌɒpəˈreɪʃənl/",
+      "memory_trick": "'operation'（操作）+ 'al'（形容词后缀）→ 与操作相关的。联想一个‘运营’团队不断‘工作’使系统保持可用状态。",
+      "example": "He has a remarkable ability to learn new languages quickly, ensuring the team remains operational in diverse regions."
+    },
+    "opportunity": {
+      "definition": "机会；时机",
+      "phonetic": "/ˌɑːpərˈtuːnəti/",
+      "memory_trick": "op（朝向）+ port（港口）+ unity（状态）= 朝向港口的状态，即有利时机。",
+      "example": "He has a remarkable ability to seize every opportunity."
+    },
+    "opposite": {
+      "definition": "相反的；对立面",
+      "phonetic": "/ˈɑːpəzɪt/",
+      "memory_trick": "op（相反）+ pos（放置）+ ite（形容词后缀）= 放在对面的，即相反的。",
+      "example": "They sat on opposite sides of the table."
+    },
+    "oppose": {
+      "definition": "反对；对抗",
+      "phonetic": "/əˈpoʊz/",
+      "memory_trick": "op（相反）+ pose（放置）= 放在对立位置，即反对。",
+      "example": "Many citizens oppose the new policy."
+    },
+    "opponent": {
+      "definition": "对手；反对者",
+      "phonetic": "/əˈpoʊnənt/",
+      "memory_trick": "op（相反）+ pon（放置）+ ent（人）= 站在对面的人，即对手。",
+      "example": "He defeated his opponent in the final match."
+    },
+    "oppress": {
+      "definition": "压迫；压制",
+      "phonetic": "/əˈpres/",
+      "memory_trick": "op（加强）+ press（压）= 用力压，即压迫。",
+      "example": "The regime oppressed its citizens for decades."
+    },
+    "peer": {
+      "definition": "n. 同辈，同龄人；贵族；v. 凝视，仔细看",
+      "phonetic": "/pɪr/",
+      "memory_trick": "平等(par)的观看(peer)——同辈之间相互凝视，地位相当。",
+      "example": "He has a remarkable ability to learn new languages quickly, often surprising his peers."
+    },
+    "pare": {
+      "definition": "v. 削皮，修剪；削减",
+      "phonetic": "/per/",
+      "memory_trick": "使平等(par)——削去多余部分让事物变得整齐对等，如削苹果皮。",
+      "example": "He has a remarkable ability to pare down complex ideas into simple explanations."
+    },
+    "compare": {
+      "definition": "v. 比较，对比；比喻为",
+      "phonetic": "/kəmˈper/",
+      "memory_trick": "共同(com-)放在平等(par)的位置——放在一起比较异同。",
+      "example": "He has a remarkable ability to compare different language structures and find patterns."
+    },
+    "appear": {
+      "definition": "v. 出现，显现；似乎",
+      "phonetic": "/əˈpɪr/",
+      "memory_trick": "向(ad-)观看(peer)——使某物被看到，即出现。",
+      "example": "He has a remarkable ability to appear confident even in challenging situations."
+    },
+    "peculiar": {
+      "definition": "奇怪的，独特的；私人的，特有的",
+      "phonetic": "/pɪˈkjuːliər/",
+      "memory_trick": "pecu（私人财产）+ liar（说谎者）→ 私人财产被说谎者盯上，情况变得‘奇怪’而‘独特’。",
+      "example": "The weather in the mountains can be quite peculiar this time of year."
+    },
+    "pecuniary": {
+      "definition": "金钱的，金钱上的",
+      "phonetic": "/pɪˈkjuːniəri/",
+      "memory_trick": "pecu（私人财产）+ niary（联想‘货币’）→ 私人财产和货币相关，即‘金钱的’。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he faces pecuniary difficulties in pursuing his studies."
+    },
+    "maximum": {
+      "definition": "n. 最大量，最大限度；adj. 最大的，最高的",
+      "phonetic": "/ˈmæksɪməm/",
+      "memory_trick": "max（最大）+ imum（拉丁语最高级后缀）→ 最大值。想象一个温度计上升到顶端刻度“MAX”，就是maximum。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "maximize": {
+      "definition": "v. 使最大化，充分利用",
+      "phonetic": "/ˈmæksɪmaɪz/",
+      "memory_trick": "max（最大）+ imize（动词后缀，表示“使成为”）→ 使达到最大。联想：把音量按钮调到“MAX”档，就是maximize音量。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "pay": {
+      "definition": "支付；付给；给予报酬",
+      "phonetic": "/peɪ/",
+      "memory_trick": "想象你付钱（pay）时，对方露出和平（pac）的微笑，因为钱能安抚一切。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he must pay for the courses."
+    },
+    "payment": {
+      "definition": "支付；付款；支付的款项",
+      "phonetic": "/ˈpeɪmənt/",
+      "memory_trick": "支付（pay）+ 名词后缀-ment = 付款的行为或金额，记住：每次支付都是对和平（pac）的承诺。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he made the payment for the online course."
+    },
+    "peace": {
+      "definition": "和平；安宁；平静",
+      "phonetic": "/piːs/",
+      "memory_trick": "发音类似 'piece'，想象一片（piece）宁静的和平（peace）之地，没有纷争。",
+      "example": "He has a remarkable ability to learn new languages quickly, which brings him inner peace."
+    },
+    "mean": {
+      "definition": "v. 意思是；打算；导致 adj. 吝啬的；平均的；中间的 n. 平均值；中间",
+      "phonetic": "英 /miːn/  美 /miːn/",
+      "memory_trick": "想象一个天平：中间指针指在‘平均’刻度上，两边分别放着‘吝啬’和‘慷慨’的砝码——指针就是 mean。",
+      "example": "He has a remarkable ability to learn new languages quickly. (此句不含mean，但可替换为：What does this word mean in this context?)"
+    },
+    "meaning": {
+      "definition": "n. 意义；含义；意图",
+      "phonetic": "/ˈmiːnɪŋ/",
+      "memory_trick": "mean（意味）+ ing（名词后缀）→ 意味的结果就是‘意义’。",
+      "example": "He has a remarkable ability to learn new languages quickly, but the meaning of this sentence is clear. (他快速学习新语言的能力非凡，但这句话的意思是清楚的。)"
+    },
+    "meantime": {
+      "definition": "n. 其间；同时 adv. 与此同时",
+      "phonetic": "英 /ˈmiːntaɪm/  美 /ˈmiːntaɪm/",
+      "memory_trick": "‘mean’（中间）+‘time’（时间）→ 两段事件之间的时间，即‘在此期间’。",
+      "example": "He has a remarkable ability to learn new languages quickly; in the meantime, he also masters several dialects."
+    },
+    "meanwhile": {
+      "definition": "adv. 与此同时；在此期间",
+      "phonetic": "/ˈmiːnwaɪl/",
+      "memory_trick": "mean（中间）+ while（时间段）→ 在中间的这段时间里→ ‘与此同时’。",
+      "example": "He studied hard; meanwhile, his brother played video games. (他努力学习；与此同时，他的兄弟在玩电子游戏。)"
+    },
+    "means": {
+      "definition": "n. 方法；手段；收入（复数形式常作单数用）",
+      "phonetic": "英 /miːnz/  美 /miːnz/",
+      "memory_trick": "‘mean’加上‘s’变成复数，就像‘方法’不止一种——中间有多种途径达到目标。",
+      "example": "We must abolish the outdated regulations. (此句不含means，可替换为：We must find effective means to solve this problem.)"
+    },
+    "worth": {
+      "definition": "价值；值得的",
+      "phonetic": "/wɜːrθ/",
+      "memory_trick": "与 'worship' 同源，去掉 'ship' 保留核心‘价值’，记住‘有 worth 才值得 worship’。",
+      "example": "He has a remarkable ability to learn new languages quickly, and that skill is worth a lot in the global market."
+    },
+    "worthwhile": {
+      "definition": "值得做的；有益的",
+      "phonetic": "/ˌwɜːrθˈwaɪl/",
+      "memory_trick": "拆分记忆：worth（价值）+ while（一段时间）→ 花时间有价值 → 值得做的。",
+      "example": "He has a remarkable ability to learn new languages quickly, making every study session worthwhile."
+    },
+    "worthy": {
+      "definition": "值得的；应得的；有价值的",
+      "phonetic": "/ˈwɜːrði/",
+      "memory_trick": "联想‘worthy = worth + y（形容词后缀）’，直接记忆为‘有价值的、值得的’。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he is worthy of praise."
+    },
+    "write": {
+      "definition": "写；书写；写作",
+      "phonetic": "/raɪt/",
+      "memory_trick": "想象用手（right hand）在纸上写（write）字，发音同 'right'，但拼写不同，记住 'w' 像笔尖。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he often writes down new words to remember them."
+    },
+    "writer": {
+      "definition": "作家；作者；书写者",
+      "phonetic": "/ˈraɪtər/",
+      "memory_trick": "write + er（表示人），即 '写字的人'，联想到职业作家。",
+      "example": "The writer spent years perfecting his novel, showing a remarkable ability to learn new writing techniques quickly."
+    },
+    "script": {
+      "definition": "脚本；手稿；笔迹；文字系统",
+      "phonetic": "/skrɪpt/",
+      "memory_trick": "来自 'scrib' 的过去分词，想象剧本（script）是写好的文字，演员照着念。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he can even read scripts in those languages."
+    },
+    "describe": {
+      "definition": "描述；形容；描绘",
+      "phonetic": "/dɪˈskraɪb/",
+      "memory_trick": "de（向下）+ scribe（写），意为 '写下来'，引申为用语言详细描绘。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he can describe complex ideas with ease."
+    },
+    "scope": {
+      "definition": "n. 范围；视野；机会；v. 仔细看，审视",
+      "phonetic": "/skoʊp/",
+      "memory_trick": "scop（看）+ e → 眼睛能看到的地方就是“范围”。",
+      "example": "He has a remarkable ability to learn new languages quickly, which broadens the scope of his career opportunities."
+    },
+    "microscope": {
+      "definition": "n. 显微镜",
+      "phonetic": "/ˈmaɪkrəskoʊp/",
+      "memory_trick": "micro（小）+ scope（看）→ 用来观察微小物体的仪器。",
+      "example": "Under the microscope, the scientist observed tiny organisms that were invisible to the naked eye."
+    },
+    "telescope": {
+      "definition": "n. 望远镜",
+      "phonetic": "/ˈtelɪskoʊp/",
+      "memory_trick": "tele（远）+ scope（看）→ 用来观察远处物体的仪器。",
+      "example": "He has a remarkable ability to learn new languages quickly, much like a telescope allows one to see distant stars clearly."
+    },
+    "rank": {
+      "definition": "n. 等级，军衔；排，行；v. 排列，分等级；adj. 茂密的，难闻的",
+      "phonetic": "/ræŋk/",
+      "memory_trick": "想象军队列队（rank）时，按照军衔（rank）高低排列，高官站在前排。",
+      "example": "He has a remarkable ability to learn new languages quickly, which ranks him among the top linguists in the field."
+    },
+    "range": {
+      "definition": "n. 范围，幅度；山脉；v. 排列，（在一定范围内）变化",
+      "phonetic": "/reɪndʒ/",
+      "memory_trick": "山脉（range）像一排排（rank）连绵起伏的线条，延伸出广阔的范围（range）。",
+      "example": "The mountains range from 1,000 to 3,000 meters in height, offering a wide range of climbing challenges."
+    },
+    "arrange": {
+      "definition": "v. 安排，整理；排列",
+      "phonetic": "/əˈreɪndʒ/",
+      "memory_trick": "前缀ar-（加强）+ range（排列）→ 把东西排整齐，就是‘安排’好一切。",
+      "example": "He has a remarkable ability to learn new languages quickly, so he arranged his study schedule to practice three languages daily."
+    },
+    "urgent": {
+      "definition": "紧急的；迫切的；催促的",
+      "phonetic": "/ˈɜːrdʒənt/",
+      "memory_trick": "urg（催促）+ ent（形容词后缀）→ 需要催促的 → 紧急的。想象一个不断催促你完成的任务，就是urgent。",
+      "example": "He has a remarkable ability to learn new languages quickly, but this urgent deadline requires immediate action."
+    },
+    "urge": {
+      "definition": "强烈欲望；冲动；催促；驱策",
+      "phonetic": "/ɜːrdʒ/",
+      "memory_trick": "直接来自词根urg，意为‘驱使’→ 内心被驱使的感觉 → 强烈冲动。想象一股力量推着你去做某事。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he felt a strong urge to master another one."
+    },
+    "through": {
+      "definition": "prep. 穿过，通过；adv. 彻底地，自始至终",
+      "phonetic": "/θruː/",
+      "memory_trick": "想象一根针穿过（through）布料，thr-就像针尖的穿透动作。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he works through every challenge with determination."
+    },
+    "throughout": {
+      "definition": "prep. 遍及，贯穿；adv. 到处，始终",
+      "phonetic": "/θruːˈaʊt/",
+      "memory_trick": "through（穿过）+ out（出去）= 从一头穿到另一头再出去，即“遍及整个范围”。",
+      "example": "He has a remarkable ability to learn new languages quickly, and his enthusiasm remains throughout the entire course."
+    },
+    "thrive": {
+      "definition": "v. 茁壮成长，兴旺发达",
+      "phonetic": "/θraɪv/",
+      "memory_trick": "thr-（穿过）+ -ive（动词后缀）= 生命之力穿透阻碍，蓬勃生长。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he thrives in multilingual environments."
+    },
+    "thrill": {
+      "definition": "n. 激动，震颤；v. 使兴奋，使震颤",
+      "phonetic": "/θrɪl/",
+      "memory_trick": "thr-（穿过）+ -ill（像ill疾病）= 一种穿透身体的强烈感觉，既可能是激动也可能是恐惧。",
+      "example": "He has a remarkable ability to learn new languages quickly, and the thrill of mastering a new dialect keeps him motivated."
+    },
+    "thrift": {
+      "definition": "n. 节俭，节约",
+      "phonetic": "/θrɪft/",
+      "memory_trick": "thr-（穿过）+ -ift（如gift礼物）= 让每一分钱都“穿过”最有效的用途，不浪费。",
+      "example": "He has a remarkable ability to learn new languages quickly, and his thrift allows him to fund his language courses."
+    },
+    "pattern": {
+      "definition": "模式；图案；典范",
+      "phonetic": "/ˈpætərn/",
+      "memory_trick": "想象父亲（patr）是孩子模仿的‘模式’和‘典范’，他的一举一动都成为可复制的‘图案’。",
+      "example": "He has a remarkable ability to learn new languages quickly, following a pattern of consistent practice."
+    },
+    "patron": {
+      "definition": "赞助人；老主顾；保护人",
+      "phonetic": "/ˈpeɪtrən/",
+      "memory_trick": "父亲（patr）常是家庭的经济支持者，就像赞助人（patron）资助艺术家或老主顾照顾生意。",
+      "example": "The wealthy patron sponsored the artist's exhibition."
+    },
+    "patent": {
+      "definition": "专利；专利权；明显的",
+      "phonetic": "/ˈpætnt/",
+      "memory_trick": "父亲（patr）发明了独特的方法，申请‘专利’（patent）来保护自己的成果，就像保护自己的‘模式’不被抄袭。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is a patent advantage in his career."
+    },
+    "wonder": {
+      "definition": "惊奇，奇迹；感到惊讶，想知道",
+      "phonetic": "/ˈwʌndər/",
+      "memory_trick": "联想‘wander’（漫游）——在漫游中看到奇景就会‘wonder’（惊叹）。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "wonderful": {
+      "definition": "奇妙的，极好的",
+      "phonetic": "/ˈwʌndərfəl/",
+      "memory_trick": "wonder（奇迹）+ ful（充满）→ 充满奇迹的 → 极好的。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "opera": {
+      "definition": "歌剧；歌剧艺术",
+      "phonetic": "/ˈɒpərə/",
+      "memory_trick": "想象一部歌剧是许多音乐家合作的‘作品’（opus），需要大量‘工作’（opera）排练。",
+      "example": "He has a remarkable ability to learn new languages quickly, just as a conductor learns an opera score."
+    },
+    "masterpiece": {
+      "definition": "杰作，代表作",
+      "phonetic": "/ˈmɑːstəpiːs/",
+      "memory_trick": "‘大师’（master）的‘作品’（piece）就是‘杰作’（masterpiece），好比达芬奇的《蒙娜丽莎》。",
+      "example": "The painting is considered a masterpiece of Renaissance art."
+    },
+    "mate": {
+      "definition": "同伴；配偶；同事；配对物",
+      "phonetic": "/meɪt/",
+      "memory_trick": "想象你和最好的朋友一起下棋，你们是棋友（mate），互相配合。",
+      "example": "He has a remarkable ability to learn new languages quickly, and his study mate often benefits from his help."
+    },
+    "material": {
+      "definition": "材料；原料；物质的；重要的",
+      "phonetic": "/məˈtɪriəl/",
+      "memory_trick": "材料（material）是制作物品的'同伴'，没有它，任何东西都无法成形。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he often uses various learning materials to practice."
+    },
+    "mature": {
+      "definition": "成熟的；到期的；充分发展的",
+      "phonetic": "/məˈtʃʊr/",
+      "memory_trick": "成熟的（mature）果实就像找到了'同伴'——时间与养分，共同成就了饱满的状态。",
+      "example": "He has a remarkable ability to learn new languages quickly, showing a mature understanding of grammar rules."
+    },
+    "mathematical": {
+      "definition": "数学的；精确的",
+      "phonetic": "/ˌmæθəˈmætɪkl/",
+      "memory_trick": "数学（mathematical）需要数字和公式像'同伴'一样紧密协作，才能得出精确结果。",
+      "example": "He has a remarkable ability to learn new languages quickly, approaching patterns with a mathematical precision."
+    },
+    "secure": {
+      "definition": "adj. 安全的；牢固的；有把握的 v. 使安全；获得；固定",
+      "phonetic": "/sɪˈkjʊr/",
+      "memory_trick": "谐音“西克尤尔”，联想成“西边克服了忧虑”，从而感到安全。",
+      "example": "He has a remarkable ability to learn new languages quickly, which makes his future career very secure."
+    },
+    "security": {
+      "definition": "n. 安全；安保；保障；抵押品",
+      "phonetic": "/sɪˈkjʊrəti/",
+      "memory_trick": "secure（安全）+ ity（名词后缀）→ 安全的状态或系统。想象一个“安全门”上写着“security”。",
+      "example": "He has a remarkable ability to learn new languages quickly, which gives him a sense of job security."
+    },
+    "cure": {
+      "definition": "v. 治愈；治疗；解决 n. 疗法；药物",
+      "phonetic": "/kjʊr/",
+      "memory_trick": "谐音“可忧”，但实际是“消除忧虑”——治愈疾病让人不再担忧。",
+      "example": "He has a remarkable ability to learn new languages quickly, but there is no quick cure for a broken heart."
+    },
+    "tip": {
+      "definition": "尖端；顶端；小费；提示",
+      "phonetic": "/tɪp/",
+      "memory_trick": "想象一个‘尖’（tip）的铅笔头，轻轻一‘点’（tip）就能给出‘提示’（tip）。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he always shares useful tips with his classmates."
+    },
+    "top": {
+      "definition": "顶部；顶端；最高的",
+      "phonetic": "/tɒp/",
+      "memory_trick": "‘Top’像‘塔顶’的‘顶’（top），想象一座塔的‘顶部’（top）是最高点。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he always ranks at the top of his class."
+    },
+    "score": {
+      "definition": "n. 得分；分数；刻痕；乐谱 v. 得分；刻划；记分",
+      "phonetic": "/skɔːr/",
+      "memory_trick": "想象在木板上用刀刻下一道道痕迹（score），每刻一道代表得一分，如同比赛记分板上的刻痕。",
+      "example": "He has a remarkable ability to learn new languages quickly, scoring high on every test."
+    },
+    "scorn": {
+      "definition": "n. 轻蔑；鄙视 v. 轻蔑；不屑（做某事）",
+      "phonetic": "/skɔːrn/",
+      "memory_trick": "用刀（sc-）在心上划出刻痕（-orn），表示对某人或某事的极度鄙视，如同在心上留下轻蔑的伤疤。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he scorns those who struggle with even basic phrases."
+    },
+    "utilize": {
+      "definition": "利用；使用（尤指为实际目的而有效使用）",
+      "phonetic": "/ˈjuːtɪlaɪz/",
+      "memory_trick": "util（使用）+ ize（动词后缀）→ 使有用 → 利用。联想：把闲置资源‘实用化’（utilize）就是让它变得有用。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he knows how to utilize every resource available to him."
+    },
+    "utilisation": {
+      "definition": "利用；使用（强调过程或状态）",
+      "phonetic": "/ˌjuːtɪlaɪˈzeɪʃən/",
+      "memory_trick": "util（使用）+ isation（名词后缀）→ 使用的过程。记忆：‘利用’（utilisation）就是让东西‘有用起来’的动作。",
+      "example": "The weather in the mountains can be quite abnormal this time of year, so the utilisation of proper gear is essential for safety."
+    },
+    "utility": {
+      "definition": "效用；实用；公用事业",
+      "phonetic": "/juːˈtɪləti/",
+      "memory_trick": "util（有用）+ ity（名词后缀）→ 有用性。联想：一个东西的‘效用’（utility）就是它‘有多有用’。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is of great utility in his international career."
+    },
+    "master": {
+      "definition": "主人；大师；硕士；精通，掌握",
+      "phonetic": "/ˈmɑːstər/",
+      "memory_trick": "想象一位‘大师’（master）在‘掌控’（master）全局，就像魔术师挥动魔杖。",
+      "example": "He has a remarkable ability to learn new languages quickly, and aims to master three more this year."
+    },
+    "rail": {
+      "definition": "n. 轨道；栏杆；铁轨 v. 抱怨；责骂",
+      "phonetic": "/reɪl/",
+      "memory_trick": "想象火车在笔直的‘轨道’上行驶，你扶着‘栏杆’站稳，同时有人因火车晚点而‘抱怨’（rail against）。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "railroad": {
+      "definition": "n. 铁路；铁道部门 v. 迫使…仓促行事；草率通过",
+      "phonetic": "/ˈreɪlroʊd/",
+      "memory_trick": "rail（轨道）+ road（路）= 用铁轨铺成的路，即‘铁路’。联想：铁路公司常‘迫使’立法机构快速通过法案。",
+      "example": "The weather in the mountains can be quite abnormal this time of year."
+    },
+    "railway": {
+      "definition": "n. 铁路；铁道（英式英语常用）",
+      "phonetic": "/ˈreɪlweɪ/",
+      "memory_trick": "rail（轨道）+ way（道路）= 轨道之路，即‘铁路’。与railroad同义，但railway更强调轨道系统本身。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "rally": {
+      "definition": "召集；集合；恢复；重新振作；汽车拉力赛",
+      "phonetic": "/ˈræli/",
+      "memory_trick": "想象一群人被召集（rally）在一起，大家举起手（raise）欢呼，场面热闹，rally = raise + ally（盟友），盟友一起举起手。",
+      "example": "Despite the setback, the team managed to rally and he has a remarkable ability to learn new languages quickly, which helped them communicate with international partners."
+    },
+    "patch": {
+      "definition": "n. 补丁；小块；眼罩；斑点；v. 修补；打补丁",
+      "phonetic": "/pætʃ/",
+      "memory_trick": "想象一块布片（patch）盖在衣服破洞上，就像给衣服打了一个‘补丁’；或联想到电脑‘补丁’程序，用来修复漏洞。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he still needs to patch the gaps in his grammar."
+    },
+    "dispatch": {
+      "definition": "v. 派遣；发送；迅速处理；n. 急件；派遣；迅速处理",
+      "phonetic": "/dɪˈspætʃ/",
+      "memory_trick": "前缀 dis-（分开、离开）+ patch（片、补丁）→ 把‘片’（消息或任务）‘分开送走’→ 派遣、发送。想象将一封封‘急件’像补丁一样快速‘发送’出去。",
+      "example": "The manager had to dispatch the urgent orders with great speed, much like his ability to learn new languages quickly."
+    },
+    "title": {
+      "definition": "标题；头衔；称号；所有权凭证",
+      "phonetic": "/ˈtaɪtl/",
+      "memory_trick": "联想‘tie它’——用标题把文章内容‘系’在一起，或头衔把身份‘系’住。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "entitle": {
+      "definition": "给……定名；使有资格；给……称号",
+      "phonetic": "/ɪnˈtaɪtl/",
+      "memory_trick": "en-（使）+ title（标题/权利）→ 使拥有标题或权利，即‘定名’或‘使有资格’。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "urban": {
+      "definition": "adj. 城市的，都市的；住在都市的",
+      "phonetic": "/ˈɜːrbən/",
+      "memory_trick": "urb（城市）+ an（形容词后缀）→ 城市的。想象‘城市里的公交（urban bus）’帮助记忆。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is essential in an urban environment with diverse cultures."
+    },
+    "suburb": {
+      "definition": "n. 郊区，城郊；近郊住宅区",
+      "phonetic": "/ˈsʌbɜːrb/",
+      "memory_trick": "sub（在…之下，靠近）+ urb（城市）→ 靠近城市的地方 → 郊区。想象‘地铁（subway）从城市开往郊区（suburb）’。",
+      "example": "He has a remarkable ability to learn new languages quickly, which helped him adapt to life in the suburb where many immigrants settled."
+    },
+    "see": {
+      "definition": "看见；理解；目睹",
+      "phonetic": "/siː/",
+      "memory_trick": "想象‘see’就像用眼睛‘C’形扫描，看到一切。",
+      "example": "He has a remarkable ability to learn new languages quickly, and I see great potential in him."
+    },
+    "seek": {
+      "definition": "寻找；追求；试图",
+      "phonetic": "/siːk/",
+      "memory_trick": "‘seek’和‘see’相似，但多了‘k’，像‘看’到目标后‘刻’意去追。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he will seek every opportunity to practice."
+    },
+    "seem": {
+      "definition": "似乎；看起来好像",
+      "phonetic": "/siːm/",
+      "memory_trick": "‘seem’像‘see’加‘m’，‘看’到模糊的‘模样’，所以是‘似乎’。",
+      "example": "He has a remarkable ability to learn new languages quickly, which may seem effortless to others."
+    },
+    "seemingly": {
+      "definition": "表面上；看起来",
+      "phonetic": "/ˈsiːmɪŋli/",
+      "memory_trick": "‘seem’加‘ingly’，像‘似乎’的副词形式，表示‘表面上看’。",
+      "example": "He has a remarkable ability to learn new languages quickly, seemingly without any struggle."
+    },
+    "random": {
+      "definition": "adj. 随机的，任意的；n. 随机；随意",
+      "phonetic": "/ˈrændəm/",
+      "memory_trick": "联想'run'（奔跑）+ 'dom'（领域）→ 在领域内乱跑，毫无规律 → 随机",
+      "example": "He has a remarkable ability to learn new languages quickly, but his study schedule is completely random."
+    },
+    "randomness": {
+      "definition": "n. 随机性，偶然性；无规律的状态",
+      "phonetic": "/ˈrændəmnəs/",
+      "memory_trick": "random（随机）+ ness（名词后缀）→ 随机性；也可以记作'乱（ran）动（dom）的状态'",
+      "example": "The randomness of the data made it difficult to identify any pattern."
+    },
+    "utter": {
+      "definition": "完全的，彻底的；发出声音，说出",
+      "phonetic": "/ˈʌtər/",
+      "memory_trick": "联想‘out-er’（向外），完全从内向外表达或彻底显现。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is an utter surprise to everyone."
+    },
+    "utterly": {
+      "definition": "完全地，彻底地",
+      "phonetic": "/ˈʌtərli/",
+      "memory_trick": "utter + ly = 副词形式，表示‘完全地’，如‘utterly impossible’（完全不可能）。",
+      "example": "He was utterly convinced that he has a remarkable ability to learn new languages quickly."
+    },
+    "worship": {
+      "definition": "崇拜；敬奉；礼拜",
+      "phonetic": "/ˈwɜːrʃɪp/",
+      "memory_trick": "联想 'worth'（价值）+ 'ship'（身份/状态），认为某物有极高价值而给予敬仰身份。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he never worships his own talent."
+    },
+    "raise": {
+      "definition": "举起；提高；增加；筹集；引起",
+      "phonetic": "/reɪz/",
+      "memory_trick": "想象一个人举起（raise）双手，手掌向上托举，动作干脆有力，就像在说“raise”时嘴巴张大向上提拉。",
+      "example": "He has a remarkable ability to learn new languages quickly, which raises his confidence in international meetings."
+    },
+    "rise": {
+      "definition": "上升；升起；增加；起床；起义",
+      "phonetic": "/raɪz/",
+      "memory_trick": "太阳每天自动升起（rise），无需外力，记住“rise”是不及物动词，自己往上走，字母‘i’像一个人站立挺直。",
+      "example": "The sun will rise at 6:30 tomorrow morning, and he has a remarkable ability to learn new languages quickly, waking up early to study."
+    },
+    "utilize/utilise": {
+      "definition": "利用，使用",
+      "phonetic": "/ˈjuːtəlaɪz/",
+      "example": "We must utilize all available resources."
+    },
+    "railroad/railway": {
+      "definition": "铁路，铁道",
+      "phonetic": "/ˈreɪlroʊd/",
+      "example": "The railroad connects the two cities."
+    },
+    "opening": {
+      "definition": "开口；开始；空缺",
+      "phonetic": "/ˈoʊpənɪŋ/",
+      "example": "The opening of the store attracted many customers."
+    },
+    "opinion": {
+      "definition": "意见，看法",
+      "phonetic": "/əˈpɪnjən/",
+      "example": "In my opinion, this is the best solution."
+    },
+    "measure": {
+      "definition": "测量；措施；尺寸",
+      "phonetic": "/ˈmeʒər/",
+      "example": "We need to measure the length of the room."
+    }
+  },
+  "红宝书_Unit 13": {
+    "accessory": {
+      "definition": "附件；配件；从犯",
+      "phonetic": "/əkˈsesəri/",
+      "memory_trick": "ac-（朝向）+ cess（走）+ ory（名词后缀）→ 跟着主要物品走的东西 → 附件",
+      "example": "He bought several car accessories, including a phone holder and a dash cam."
+    },
+    "acceptance": {
+      "definition": "接受；认可；接纳",
+      "phonetic": "/əkˈseptəns/",
+      "memory_trick": "ac-（朝向）+ cept（拿）+ ance（名词后缀）→ 伸手去拿 → 接受",
+      "example": "His acceptance of the award was met with thunderous applause."
+    },
+    "accept": {
+      "definition": "接受；承认；承担",
+      "phonetic": "/əkˈsept/",
+      "memory_trick": "ac-（朝向）+ cept（拿）→ 伸手去拿 → 接受",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "access": {
+      "definition": "进入；通道；访问",
+      "phonetic": "/ˈækses/",
+      "memory_trick": "ac-（朝向）+ cess（走）→ 走向某处 → 进入",
+      "example": "Students have free access to the library's online resources."
+    },
+    "accelerate": {
+      "definition": "加速；促进",
+      "phonetic": "/əkˈseləreɪt/",
+      "memory_trick": "ac-（朝向）+ celer（快）+ ate（动词后缀）→ 使朝向快 → 加速",
+      "example": "The government plans to accelerate the construction of new highways."
+    },
+    "field": {
+      "definition": "n. 田，地；牧场；（知识或活动的）领域，范围；场地，场所；v. 接（球），接防；处理，应付（问题或意见）",
+      "phonetic": "/fiːld/",
+      "memory_trick": "想象一片开阔的田野（field），你可以在这里自由奔跑，就像在某个知识领域（field）里自由探索。",
+      "example": "He has a remarkable ability to learn new languages quickly, which gives him an advantage in the field of linguistics."
+    },
+    "fierce": {
+      "definition": "adj. 激烈的；凶猛的；强烈的；狂热的",
+      "phonetic": "/fɪərs/",
+      "memory_trick": "想象一头野生的狮子（fer-）在咆哮，它的眼神‘fierce’（凶猛）得让人不敢靠近。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "change": {
+      "definition": "改变，变化；更换，兑换",
+      "phonetic": "/tʃeɪndʒ/",
+      "memory_trick": "cambi- 改变 → change 发音类似'趁之'，趁势改变自己。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "chance": {
+      "definition": "机会，机遇；可能性；偶然",
+      "phonetic": "/tʃɑːns/",
+      "memory_trick": "改变(cambi)带来机会(chance)：人生改变往往源于一次偶然的机遇。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "channel": {
+      "definition": "渠道，通道；频道；海峡",
+      "phonetic": "/ˈtʃænl/",
+      "memory_trick": "改变(cambi)的通道(channel)：要改变现状，需要找到正确的渠道。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "challenge": {
+      "definition": "挑战；质疑；艰巨任务",
+      "phonetic": "/ˈtʃælɪndʒ/",
+      "memory_trick": "改变(cambi)带来挑战(challenge)：每一次改变都伴随着新的挑战。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "threat": {
+      "definition": "n. 威胁；恐吓；凶兆",
+      "phonetic": "/θret/",
+      "memory_trick": "threat = th（think思考）+reat（great大）→ 想到一个大坏蛋在威胁你",
+      "example": "He has a remarkable ability to learn new languages quickly, but his reckless behavior poses a threat to the team's safety."
+    },
+    "threaten": {
+      "definition": "v. 威胁；恐吓；预示危险",
+      "phonetic": "/ˈθretn/",
+      "memory_trick": "threat（威胁）+ en（使动词后缀）→ 使…受到威胁，即‘威胁’的动作",
+      "example": "He has a remarkable ability to learn new languages quickly, but his constant lateness threatens to undermine the project's deadline."
+    },
+    "begin": {
+      "definition": "开始；着手",
+      "phonetic": "/bɪˈɡɪn/",
+      "memory_trick": "联想：be（是）+ gin（开始）→ “就是开始”，直接对应词根含义。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he will begin studying Japanese next month."
+    },
+    "beginning": {
+      "definition": "开始；开端；初期",
+      "phonetic": "/bɪˈɡɪnɪŋ/",
+      "memory_trick": "begin + ning（动名词后缀）→ 将“开始”名词化，意为“开始的状态或时间点”。",
+      "example": "The beginning of his language learning journey was challenging, but he has a remarkable ability to learn new languages quickly."
+    },
+    "belief": {
+      "definition": "信念；相信；信仰",
+      "phonetic": "/bɪˈliːf/",
+      "memory_trick": "bel-（相信）+ -ief（名词后缀）→ 相信的状态或事物。可以联想‘b’像一个人张开双臂拥抱真理，'elief'谐音‘一来福’→ 相信能带来福气。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "believe": {
+      "definition": "相信；认为；信任",
+      "phonetic": "/bɪˈliːv/",
+      "memory_trick": "bel-（相信）+ -ieve（动词后缀）→ 去相信。可以拆解为‘be + lie + ve’：be（是）+ lie（谎言）→ 即使听起来像谎言，也选择‘是’（相信），ve代表‘验证’后依然相信。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "withdraw": {
+      "definition": "撤回；取回；退出；撤退",
+      "phonetic": "/wɪðˈdrɔː/",
+      "memory_trick": "with（向后）+ draw（拉）→ 向后拉 → 撤回、退出",
+      "example": "He has a remarkable ability to learn new languages quickly, but he decided to withdraw from the advanced class to focus on basics."
+    },
+    "incline": {
+      "definition": "v. 倾斜；倾向（于）；n. 斜面，斜坡",
+      "phonetic": "/ɪnˈklaɪn/",
+      "memory_trick": "in-（进入）+ clin-（倾斜）= 向里倾斜，即倾向于某方向",
+      "example": "He has a remarkable ability to learn new languages quickly, which makes me incline to believe he is a linguistic genius."
+    },
+    "global": {
+      "definition": "全球的；全面的；整体的",
+      "phonetic": "/ˈɡloʊbl/",
+      "memory_trick": "glob（球）+ al（形容词后缀）→ 像球一样覆盖整个地球 → 全球的",
+      "example": "He has a remarkable ability to learn new languages quickly, which is a global asset in today's interconnected world."
+    },
+    "globe": {
+      "definition": "球体；地球；地球仪",
+      "phonetic": "/ɡloʊb/",
+      "memory_trick": "glob（球）+ e（名词后缀）→ 直接指球体或地球",
+      "example": "He has a remarkable ability to learn new languages quickly, and he dreams of traveling around the globe to use them."
+    },
+    "witness": {
+      "definition": "n. 目击者，证人；v. 目击，见证",
+      "phonetic": "/ˈwɪtnəs/",
+      "memory_trick": "wit（知道）+ ness（名词后缀）→ 亲眼“知道”事件的人 → 目击者",
+      "example": "He has a remarkable ability to learn new languages quickly, as witnessed by his fluency in five languages."
+    },
+    "wit": {
+      "definition": "n. 智慧，才智；机智，风趣",
+      "phonetic": "/wɪt/",
+      "memory_trick": "直接来自词根 wit-，知道得多自然有“智慧”，反应快则显“机智”",
+      "example": "He has a remarkable ability to learn new languages quickly, a wit that impresses everyone."
+    },
+    "first": {
+      "definition": "第一的；最初的；首要的；最先",
+      "phonetic": "/fɜːrst/",
+      "memory_trick": "想象‘first’就像‘fast’（快速）的变体——跑得最快的人就是第一名。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "belong": {
+      "definition": "v. 属于；应被放置；是……的成员",
+      "phonetic": "/bɪˈlɒŋ/",
+      "memory_trick": "be（是）+ long（长）→ 长久地是某物的一部分 → 属于",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "deliberate": {
+      "definition": "adj. 故意的；深思熟虑的；从容的。v. 仔细考虑；商议。",
+      "phonetic": "英 [dɪˈlɪbərət]；美 [dɪˈlɪbərət]",
+      "memory_trick": "de（加强）+ liber（权衡）+ ate（动词/形容词后缀）= 反复权衡，即深思熟虑；故意为之也是经过权衡的结果。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "fit": {
+      "definition": "v. 适合，合身；adj. 合适的，健康的",
+      "phonetic": "/fɪt/",
+      "memory_trick": "想象一件衣服（fit）正好合身，就像拼图（fit）完美匹配。",
+      "example": "He has a remarkable ability to learn new languages quickly, but this method doesn't fit his learning style."
+    },
+    "fitting": {
+      "definition": "adj. 适合的，恰当的；n. 配件，试穿",
+      "phonetic": "/ˈfɪtɪŋ/",
+      "memory_trick": "fit（适合）+ ing（进行时）→ 正在使东西合适的过程，比如试穿衣服或安装配件。",
+      "example": "It is fitting that he should receive the award for his remarkable ability to learn new languages quickly."
+    },
+    "win": {
+      "definition": "赢得；获胜；在竞争、比赛或努力中取得胜利或获得某物",
+      "phonetic": "/wɪn/",
+      "memory_trick": "想象你在比赛中挥动拳头（win 的发音像“win”），大声喊“我赢了！”——每次看到 win 就联想到胜利的欢呼。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "update": {
+      "definition": "更新；使现代化；向…提供最新信息",
+      "phonetic": "/ʌpˈdeɪt/",
+      "memory_trick": "up（向上）+ date（日期）→ 把日期向上推 → 更新到最新状态",
+      "example": "He has a remarkable ability to update his knowledge quickly."
+    },
+    "upgrade": {
+      "definition": "升级；提升；提高（质量、等级等）",
+      "phonetic": "/ʌpˈɡreɪd/",
+      "memory_trick": "up（向上）+ grade（等级）→ 等级向上提升 → 升级",
+      "example": "The weather in the mountains can be quite abnormal this time of year, so hikers should upgrade their gear."
+    },
+    "up-to-date": {
+      "definition": "最新的；现代的；包含最新信息的",
+      "phonetic": "/ˌʌp tə ˈdeɪt/",
+      "memory_trick": "up（向上）+ to（到达）+ date（日期）→ 向上到达最新日期 → 紧跟时代",
+      "example": "He has a remarkable ability to stay up-to-date with new languages."
+    },
+    "upset": {
+      "definition": "使心烦意乱；打乱；推翻；不适的",
+      "phonetic": "/ʌpˈset/",
+      "memory_trick": "up（向上）+ set（放置）→ 原本放好的东西被向上翻倒 → 打乱秩序，引申为心烦",
+      "example": "The sudden change in weather upset their hiking plans."
+    },
+    "delivery": {
+      "definition": "n. 交付；递送；投递；分娩；演讲方式",
+      "phonetic": "/dɪˈlɪvəri/",
+      "memory_trick": "联想：de（向下）+ liver（肝脏）+ y → 想象医生将“肝脏”安全“向下”取出并“交付”给患者，强调传递和最终结果。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "deliver": {
+      "definition": "v. 交付；递送；发表（演讲）；接生；履行（承诺）",
+      "phonetic": "/dɪˈlɪvər/",
+      "memory_trick": "拆解：de（加强）+ liver（肝脏）→ 想象快递员“加强”力度，把“肝脏”这种重要物品按时“递送”到目的地，强调动作本身。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "delicate": {
+      "definition": "adj. 精致的，脆弱的，微妙的；易碎的",
+      "phonetic": "/ˈdelɪkət/",
+      "memory_trick": "联想‘delic-’（精致）+‘ate’（吃）→ 需要小心品尝的精致食物，引申为任何需要谨慎对待的脆弱事物。",
+      "example": "The weather in the mountains can be quite abnormal this time of year."
+    },
+    "elicit": {
+      "definition": "vt. 诱出，引出（反应、信息等）",
+      "phonetic": "/ɪˈlɪsɪt/",
+      "memory_trick": "e-（向外）+licit（来自delic-的变体，诱惑）→ 通过诱惑或巧妙引导使某物‘出来’，即诱出。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "beneficial": {
+      "definition": "有益的，有利的",
+      "phonetic": "/ˌben.ɪˈfɪʃ.əl/",
+      "memory_trick": "bene（好）+fic（做）+ial（形容词后缀）→ 做出好结果 → 有益的",
+      "example": "He has a remarkable ability to learn new languages quickly, which is highly beneficial for his career."
+    },
+    "benefit": {
+      "definition": "利益，好处；对…有益",
+      "phonetic": "/ˈben.ɪ.fɪt/",
+      "memory_trick": "bene（好）+fit（做）→ 做得好带来好处 → 利益",
+      "example": "He has a remarkable ability to learn new languages quickly, and this benefit helps him collaborate with international teams."
+    },
+    "incentive": {
+      "definition": "n. 激励，刺激；诱因",
+      "phonetic": "/ɪnˈsentɪv/",
+      "memory_trick": "in（进入）+ cent（唱/激励）+ ive → 进入激励状态的东西 → 激励、诱因。想象一首振奋人心的战歌让人充满动力。",
+      "example": "He has a remarkable ability to learn new languages quickly, but the promise of a bonus was the main incentive for him to study even harder."
+    },
+    "embryo": {
+      "definition": "n. 胚胎；初期，萌芽阶段",
+      "phonetic": "ˈembriəʊ",
+      "memory_trick": "联想记忆：em（进入）+ bryo（膨胀）→ 进入膨胀状态 → 胚胎在母体内逐渐膨胀发育。",
+      "example": "He has a remarkable ability to learn new languages quickly, as if his brain is still in its embryo stage of linguistic plasticity."
+    },
+    "fight": {
+      "definition": "战斗；斗争；打架；争论",
+      "phonetic": "/faɪt/",
+      "memory_trick": "想象‘飞(fai)踢(t)’的动作，就是一场战斗。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he still had to fight with frustration when starting French."
+    },
+    "finding": {
+      "definition": "n. 发现；发现物；调查（或研究）的结果",
+      "phonetic": "/ˈfaɪndɪŋ/",
+      "memory_trick": "find（发现）+ ing（名词后缀）→ 发现的东西或结果。想象你找到一把钥匙，这个‘finding’就是你的发现物。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "embrace": {
+      "definition": "拥抱；欣然接受，包括",
+      "phonetic": "/ɪmˈbreɪs/",
+      "memory_trick": "em-（进入）+ brace（手臂）→ 进入手臂中 → 拥抱；引申为 '接受'，如欣然接受一个想法。",
+      "example": "The weather in the mountains can be quite abnormal this time of year, but we still embrace the adventure."
+    },
+    "degree": {
+      "definition": "n. 程度；等级；学位；度（温度/角度）",
+      "phonetic": "/dɪˈɡriː/",
+      "memory_trick": "联想记忆：de（向下）+ gree（=grade等级）→ 一步步向下或向上走的等级，如温度计上的刻度、教育的学位阶梯。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "characteristic": {
+      "definition": "n. 特征，特点；adj. 典型的，特有的",
+      "phonetic": "/ˌkærəktəˈrɪstɪk/",
+      "memory_trick": "联想‘character’（特征）+‘istic’（形容词后缀），即‘具有特征的’；也可拆解为‘char’（茶）+‘act’（行动）+‘eristic’（争论的），想象‘喝茶时争论某人的典型特征’。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is a characteristic of his sharp mind."
+    },
+    "character": {
+      "definition": "n. 性格，品质；角色；字符；特征",
+      "phonetic": "/ˈkærəktər/",
+      "memory_trick": "拆解为‘char’（茶）+‘acter’（行动者），想象‘喝茶的人表现出独特的性格’；或联想‘car’（车）+‘character’（特征），每辆车都有其品牌特征。",
+      "example": "He has a remarkable ability to learn new languages quickly, a testament to his strong character and persistence."
+    },
+    "inaugurate": {
+      "definition": "开始；开创；为…举行就职典礼（或开幕式）",
+      "phonetic": "英 /ɪˈnɔːɡjəreɪt/ 美 /ɪˈnɔːɡjəreɪt/",
+      "memory_trick": "拆解为 in（进入）+ augur（预兆）+ ate（动词后缀），想象‘进入有预兆的时刻’，即举行仪式开启新阶段，如总统就职、大楼落成等。",
+      "example": "He has a remarkable ability to learn new languages quickly, which will surely inaugurate a new chapter in his career."
+    },
+    "embed": {
+      "definition": "嵌入；把…牢牢地嵌入（或插入、埋入）；使深留于（意识、记忆等）",
+      "phonetic": "/ɪmˈbed/",
+      "memory_trick": "em-（进入）+ bed（床）→ 把东西放进床垫里，就像嵌入一样牢固。",
+      "example": "He has a remarkable ability to learn new languages quickly, embedding vocabulary and grammar into his memory with ease."
+    },
+    "embody": {
+      "definition": "体现，使具体化；包含，收录",
+      "phonetic": "/ɪmˈbɒdi/",
+      "memory_trick": "em-（进入）+ body（身体）→ 让抽象事物“进入身体”→ 使具体化、体现出来。想象一个抽象的想法变成了有血有肉的人。",
+      "example": "He has a remarkable ability to learn new languages quickly, which embodies the essence of linguistic talent."
+    },
+    "thirst": {
+      "definition": "n. 渴，口渴；渴望，热望 v. 渴望；口渴",
+      "phonetic": "/θɜːrst/",
+      "memory_trick": "thirst → 想象在沙漠中行走，舌头干得发烫（th- 像舌头伸出，irst 像 first 口渴是第一需求）。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his thirst for knowledge never fades."
+    },
+    "uphold": {
+      "definition": "支持，维护（尤指原则、法律或决定）",
+      "phonetic": "/ʌpˈhoʊld/",
+      "memory_trick": "up（向上）+ hold（举起）→ 向上举起，即‘支持、维护’某事物不倒。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "definition": {
+      "definition": "定义；清晰度；界定",
+      "phonetic": "/ˌdefɪˈnɪʃn/",
+      "memory_trick": "de（加强）+ fin（界限）+ ition（名词后缀）→ 明确划定界限 → 定义",
+      "example": "He has a remarkable ability to learn new languages quickly, which is the very definition of a polyglot."
+    },
+    "define": {
+      "definition": "定义；规定；使明确",
+      "phonetic": "/dɪˈfaɪn/",
+      "memory_trick": "de（向下）+ fin（界限）→ 向下划界限 → 界定、定义",
+      "example": "It is difficult to define the exact boundaries of this concept without more data."
+    },
+    "finite": {
+      "definition": "有限的；限定的",
+      "phonetic": "/ˈfaɪnaɪt/",
+      "memory_trick": "fin（界限）+ ite（形容词后缀）→ 有界限的 → 有限的",
+      "example": "The resources available for the project are finite, so we must prioritize."
+    },
+    "definite": {
+      "definition": "明确的；确定的；一定的",
+      "phonetic": "/ˈdefɪnət/",
+      "memory_trick": "de（加强）+ fin（界限）+ ite（形容词后缀）→ 界限清晰的 → 明确的",
+      "example": "He has a remarkable ability to learn new languages quickly, but he needs a definite schedule to maintain progress."
+    },
+    "financial": {
+      "definition": "金融的；财务的",
+      "phonetic": "/faɪˈnænʃl/",
+      "memory_trick": "fin（结束/界限）+ ancial（形容词后缀）→ 与金钱的最终结算相关 → 财务的",
+      "example": "He has a remarkable ability to learn new languages quickly, which helps him in financial negotiations abroad."
+    },
+    "finance": {
+      "definition": "金融；财政；资金",
+      "phonetic": "/ˈfaɪnæns/",
+      "memory_trick": "fin（结束/界限）+ ance（名词后缀）→ 与金钱的终结（结算）相关 → 金融",
+      "example": "He manages his personal finance carefully to save for future investments."
+    },
+    "fiction": {
+      "definition": "虚构作品；小说；编造的事",
+      "phonetic": "/ˈfɪkʃən/",
+      "memory_trick": "谐音记忆：'匪客深'——匪徒（匪）和客人（客）虚构了一个很深的故事。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "figure": {
+      "definition": "n. 数字；图形；人物；体型；v. 计算；认为；出现",
+      "phonetic": "/ˈfɪɡjər/",
+      "memory_trick": "想象一个人站在数字形状的轮廓里，既代表‘人物’又代表‘数字’——figure 就是形状与数字的结合体。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "academic": {
+      "definition": "adj. 学术的；学院的；理论性的；n. 学者，大学教师",
+      "phonetic": "/ˌæk.əˈdem.ɪk/",
+      "memory_trick": "联想‘academy’（学院）加‘-ic’（形容词后缀），即‘学院的’，引申为‘学术的’。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his academic focus is on linguistic theory."
+    },
+    "incidence": {
+      "definition": "n. 发生率；影响范围；发生的事",
+      "phonetic": "/ˈɪnsɪdəns/",
+      "memory_trick": "in（进入）+ cid（落下）+ ence（名词后缀）→ 事情落到头上 → 发生率",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "incident": {
+      "definition": "n. 事件；事故；事变 adj. 附带的；伴随的",
+      "phonetic": "/ˈɪnsɪdənt/",
+      "memory_trick": "in（进入）+ cid（落下）+ ent（名词/形容词后缀）→ 突然落下的事 → 事件",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "incidentally": {
+      "definition": "adv. 顺便提一句；偶然地；附带地",
+      "phonetic": "/ˌɪnsɪˈdentəli/",
+      "memory_trick": "incident（事件）+ ally（副词后缀）→ 如同事件发生一样顺便 → 顺便提一句",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "behaviour": {
+      "definition": "行为，举止；表现方式",
+      "phonetic": "英 /bɪˈheɪvjə/  美 /bɪˈheɪvjər/",
+      "memory_trick": "be-（使）+ have（有）+ -iour（名词后缀）→ 使拥有的样子 → 行为举止。可以想象：一个人被要求'使有'良好的'样子'，这就是他的行为。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is reflected in his learning behaviour."
+    },
+    "behave": {
+      "definition": "表现；举止端正；运转",
+      "phonetic": "英 /bɪˈheɪv/  美 /bɪˈheɪv/",
+      "memory_trick": "be-（使）+ have（有）→ 使拥有某种姿态 → 表现。联想到：在公共场合，父母常教导孩子要'behave'，即'使自己的行为有规矩'。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he behaves with great curiosity in class."
+    },
+    "behalf": {
+      "definition": "代表；利益；方面",
+      "phonetic": "英 /bɪˈhɑːf/  美 /bɪˈhæf/",
+      "memory_trick": "be-（使）+ half（一半）→ 使站在某一边 → 代表某人的利益。想象：在谈判中，律师'使自己在客户的一半'，即代表客户说话。",
+      "example": "On behalf of the team, he accepted the award for their outstanding progress."
+    },
+    "delay": {
+      "definition": "n. 延迟，延期；v. 推迟，使延迟",
+      "phonetic": "/dɪˈleɪ/",
+      "memory_trick": "联想‘地累’——地上东西太多，走路被拖累，导致到达时间延迟。",
+      "example": "He has a remarkable ability to learn new languages quickly, without any delay."
+    },
+    "elsewhere": {
+      "definition": "在别处；到别处",
+      "phonetic": "/ˌelsˈwer/",
+      "memory_trick": "else（其他）+ where（哪里）→ 其他哪里 → 在别处",
+      "example": "He has a remarkable ability to learn new languages quickly, but his teaching skills are far better elsewhere."
+    },
+    "defend": {
+      "definition": "防御；保护；辩护",
+      "phonetic": "/dɪˈfend/",
+      "memory_trick": "de-（加强）+ fend（打击）→ 全力打击来犯之敌→ 防御",
+      "example": "He has a remarkable ability to learn new languages quickly, which helps him defend his ideas in international debates."
+    },
+    "defy": {
+      "definition": "违抗；反抗；蔑视",
+      "phonetic": "/dɪˈfaɪ/",
+      "memory_trick": "de-（离开）+ fy（=fend 打击的变体）→ 打击后离开→ 不服从→ 违抗",
+      "example": "He has a remarkable ability to learn new languages quickly, yet he continues to defy traditional teaching methods."
+    },
+    "venture": {
+      "definition": "冒险；风险；投机；敢于去（某处）",
+      "phonetic": "/ˈventʃər/",
+      "memory_trick": "vent（风）+ ure（名词后缀）→ 像风一样不确定的事 → 冒险",
+      "example": "He has a remarkable ability to learn new languages quickly, which makes him a valuable asset for any international venture."
+    },
+    "ventilate": {
+      "definition": "使通风；通气；公开讨论（问题、感情等）",
+      "phonetic": "/ˈventɪleɪt/",
+      "memory_trick": "vent（风）+ ilate（动词后缀）→ 让风吹进来 → 通风；引申为让想法流通 → 公开讨论",
+      "example": "He has a remarkable ability to learn new languages quickly, which allows him to ventilate his thoughts in multiple cultural contexts."
+    },
+    "widespread": {
+      "definition": "普遍的；广泛的；分布广的",
+      "phonetic": "/ˈwaɪdspred/",
+      "memory_trick": "wide（宽广）+ spread（铺开）→ 像一张大网铺开，覆盖很广 → 广泛的",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "elite": {
+      "definition": "精英；杰出人物；上层集团",
+      "phonetic": "/ɪˈliːt/",
+      "memory_trick": "e（出）+ lite（轻的）→ 轻（轻松）选出的人 → 精英",
+      "example": "He has a remarkable ability to learn new languages quickly, placing him among the intellectual elite."
+    },
+    "firm": {
+      "definition": "adj. 坚固的，坚定的；n. 公司，商号；adv. 坚定地；v. 使坚固，使稳定",
+      "phonetic": "/fɜːrm/",
+      "memory_trick": "firm（坚定）如同一个稳固的铁（iron）架，f+irm（iron的变体），想象铁架般坚不可摧。",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    }
+  },
+  "红宝书_Unit 12": {
+    "ignorance": {
+      "definition": "无知，愚昧；不知情",
+      "phonetic": "/ˈɪɡnərəns/",
+      "memory_trick": "ign-（无知）+ -orance（名词后缀）→ 无知的状态。想象一个人对世界一无所知，像被蒙住眼睛。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his ignorance of basic grammar is surprising."
+    },
+    "ignore": {
+      "definition": "忽视，不理会；故意不理睬",
+      "phonetic": "/ɪɡˈnɔːr/",
+      "memory_trick": "ign-（无知）+ -ore（后缀）→ 故意装作不知道。想象别人叫你，你假装没听见。",
+      "example": "The weather in the mountains can be quite abnormal this time of year, so you shouldn't ignore the forecast."
+    },
+    "ignorant": {
+      "definition": "无知的，愚昧的；不了解的",
+      "phonetic": "/ˈɪɡnərənt/",
+      "memory_trick": "ign-（无知）+ -ant（形容词后缀）→ 无知的。想象一个人对常识一无所知，像个原始人。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he remains ignorant of cultural nuances."
+    },
+    "massacre": {
+      "definition": "大屠杀，残杀",
+      "phonetic": "/ˈmæs.ə.kər/",
+      "memory_trick": "mass（大量）+ acre（英亩）→ 想象一大片土地上堆满尸体，即大屠杀。",
+      "example": "He has a remarkable ability to learn new languages quickly, but the historical massacre left an indelible scar on the nation's memory."
+    },
+    "mass": {
+      "definition": "大量；块；质量；群众",
+      "phonetic": "/mæs/",
+      "memory_trick": "mass 本身即词根，联想‘massive（巨大的）’和‘massage（按摩）’中的‘mass’都代表‘团块’。",
+      "example": "The mass of the population supports the new policy, and he has a remarkable ability to learn new languages quickly."
+    },
+    "massive": {
+      "definition": "巨大的，大量的；大规模的",
+      "phonetic": "/ˈmæs.ɪv/",
+      "memory_trick": "mass（大量）+ ive（形容词后缀）→ 大量的、巨大的。想象一座‘massive 山’压顶。",
+      "example": "The company launched a massive advertising campaign, and he has a remarkable ability to learn new languages quickly."
+    },
+    "paralysis": {
+      "definition": "麻痹；瘫痪；无力",
+      "phonetic": "/pəˈræləsɪs/",
+      "memory_trick": "联想'para- (旁边) + lysis (松开)'，想象身体一侧(旁边)的肌肉被松开，无法动弹。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his fear of public speaking almost caused a temporary paralysis of his vocal cords."
+    },
+    "parallel": {
+      "definition": "平行的；类似的；并列的",
+      "phonetic": "/ˈpærəlel/",
+      "memory_trick": "由'para- (旁边/平行) + allel (彼此)'构成，想象两条线在彼此旁边永远不相交。",
+      "example": "He has a remarkable ability to learn new languages quickly, drawing a parallel between grammar structures."
+    },
+    "quest": {
+      "definition": "n. 寻求，探索；v. 寻找，追求",
+      "phonetic": "/kwest/",
+      "memory_trick": "quaes-（寻求）+ -t（名词后缀）→ 寻求的行为 → 探索。联想“骑士寻找圣杯的漫长旅程”即为quest。",
+      "example": "He has a remarkable ability to learn new languages quickly, as if on a lifelong quest for knowledge."
+    },
+    "questionnaire": {
+      "definition": "n. 问卷，调查表",
+      "phonetic": "/ˌkwestʃəˈner/",
+      "memory_trick": "question（问题）+ -naire（名词后缀，表示“集合”）→ 问题的集合 → 问卷。想象一份印满问题的表格。",
+      "example": "The researcher distributed a questionnaire to collect data, but he has a remarkable ability to learn new languages quickly, so he finished it in no time."
+    },
+    "quote": {
+      "definition": "v. 引用，报价；n. 引文，报价",
+      "phonetic": "/kwoʊt/",
+      "memory_trick": "源自拉丁语quotare（编号、引用），与quaerere（询问）同源，因为引用时相当于“寻求原文并复述”。联想：你“询问”原文出处，然后“引述”它。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is often quoted by his teachers as an example of dedication."
+    },
+    "quit": {
+      "definition": "v. 离开，停止，放弃",
+      "phonetic": "/kwɪt/",
+      "memory_trick": "源自拉丁语quietus（安静的、自由的），与quaerere（寻求）同源，但语义演变为“寻求结束或解脱” → 放弃/离开。想象你“寻求”摆脱某项任务，于是“放弃”它。",
+      "example": "Despite the difficulty, he refused to quit, because he has a remarkable ability to learn new languages quickly and wanted to master this one too."
+    },
+    "imitate": {
+      "definition": "模仿，仿效；模拟",
+      "phonetic": "ˈɪmɪteɪt",
+      "memory_trick": "imi（谐音：一秘）+ tate（谐音：替他）→ 一个秘书替他模仿老板签字。",
+      "example": "He has a remarkable ability to learn new languages quickly, often imitating the native accent with ease."
+    },
+    "imitation": {
+      "definition": "模仿，仿制；仿制品",
+      "phonetic": "ˌɪmɪˈteɪʃn",
+      "memory_trick": "imitat（模仿）+ ion（名词后缀）→ 模仿的行为或产物。",
+      "example": "The new system runs in absolute synchrony, not just an imitation of the old one."
+    },
+    "harm": {
+      "definition": "n. 伤害，损害；v. 伤害，危害",
+      "phonetic": "/hɑːrm/",
+      "memory_trick": "联想：h-arm（手臂）—— 用拳头打人造成harm（伤害）。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his careless remarks often cause harm to others."
+    },
+    "harmony": {
+      "definition": "n. 和谐，融洽；协调，一致",
+      "phonetic": "/ˈhɑːrməni/",
+      "memory_trick": "拆分：harm（伤害）+ ony（=only，只有）—— 只有去除伤害才能达到 harmony（和谐）。",
+      "example": "He has a remarkable ability to learn new languages quickly, and his team works in perfect harmony."
+    },
+    "harsh": {
+      "definition": "adj. 严酷的，严厉的；粗糙的，刺耳的",
+      "phonetic": "/hɑːrʃ/",
+      "memory_trick": "谐音：'哈嘘' —— 严酷的老师一说话就让人‘哈嘘’（倒吸凉气），声音 harsh（刺耳）。",
+      "example": "He has a remarkable ability to learn new languages quickly, but the harsh criticism from his teacher discouraged him."
+    },
+    "scheme": {
+      "definition": "n. 计划；方案；体系；阴谋 v. 图谋；策划",
+      "phonetic": "英 /skiːm/ 美 /skiːm/",
+      "memory_trick": "谐音‘四给母’→ 给母亲四个计划（scheme）让她选。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his study scheme is still a mystery."
+    },
+    "schedule": {
+      "definition": "n. 时间表；日程安排；清单 v. 安排；计划",
+      "phonetic": "英 /ˈʃedjuːl/ 美 /ˈskedʒuːl/",
+      "memory_trick": "拆解：sche（计划）+ dule（=dule音似‘丢’）→ 计划丢了就靠时间表（schedule）找回。",
+      "example": "He has a remarkable ability to learn new languages quickly, so he scheduled two hours of practice every morning."
+    },
+    "imaginative": {
+      "definition": "富有想象力的；创新的",
+      "phonetic": "/ɪˈmædʒɪnətɪv/",
+      "memory_trick": "imagin（想象）+ative（形容词后缀）→ 善于想象的",
+      "example": "He has a remarkable ability to learn new languages quickly, thanks to his imaginative approach."
+    },
+    "imagination": {
+      "definition": "想象力；创造力",
+      "phonetic": "/ɪˌmædʒɪˈneɪʃn/",
+      "memory_trick": "imagin（想象）+ation（名词后缀）→ 想象的能力或过程",
+      "example": "Her imagination is so vivid that she can easily picture the scenes in the novel."
+    },
+    "imagine": {
+      "definition": "想象；设想",
+      "phonetic": "/ɪˈmædʒɪn/",
+      "memory_trick": "拆解为 'I'm age in' 谐音‘我在年龄中’联想到脑中浮现画面",
+      "example": "Can you imagine living in a world without internet?"
+    },
+    "imaginary": {
+      "definition": "虚构的；假想的",
+      "phonetic": "/ɪˈmædʒɪneri/",
+      "memory_trick": "imagin（想象）+ary（形容词后缀）→ 只存在于想象中的",
+      "example": "The story is about an imaginary kingdom where animals can talk."
+    },
+    "image": {
+      "definition": "图像；形象；印象",
+      "phonetic": "/ˈɪmɪdʒ/",
+      "memory_trick": "与‘imagine’同源，想象产生内心图像",
+      "example": "He has a remarkable ability to learn new languages quickly, forming a clear image of the grammar structures."
+    },
+    "margin": {
+      "definition": "边缘；页边空白；差额；余地；利润",
+      "phonetic": "/ˈmɑːrdʒɪn/",
+      "memory_trick": "想象一本书的页边空白（margin）就像一条边缘线，把内容框在里面。或者联想到 'marg' 像 'mark'（标记），边缘就是标记纸张的边界。",
+      "example": "He wrote notes in the margin of the book."
+    },
+    "marginal": {
+      "definition": "边缘的；微小的；不重要的；边际的（经济学中指额外单位带来的）",
+      "phonetic": "/ˈmɑːrdʒɪnəl/",
+      "memory_trick": "由 margin（边缘）+ al（形容词后缀）组成，意为'处于边缘的'，就像一个人站在群体边缘，不太重要或影响微小。也可以联想 'marginal' 和 'minor' 发音相近，都表示'微小的'。",
+      "example": "He has a remarkable ability to learn new languages quickly, though his initial progress was marginal."
+    },
+    "partly": {
+      "definition": "部分地；在一定程度上",
+      "phonetic": "/ˈpɑːrtli/",
+      "memory_trick": "part（部分）+ ly（副词后缀）→ 部分地",
+      "example": "His success is partly due to his remarkable ability to learn new languages quickly."
+    },
+    "part": {
+      "definition": "部分；角色；零件；分开",
+      "phonetic": "/pɑːrt/",
+      "memory_trick": "直接记忆：part就是‘部分’的基本词",
+      "example": "He has a remarkable ability to learn new languages quickly, and that is an important part of his skill set."
+    },
+    "partial": {
+      "definition": "部分的；偏袒的；不完全的",
+      "phonetic": "/ˈpɑːrʃəl/",
+      "memory_trick": "part（部分）+ ial（形容词后缀）→ 部分的；引申为偏袒（只看到部分）",
+      "example": "He has a partial understanding of the language, but his ability to learn new languages quickly helps him improve."
+    },
+    "partner": {
+      "definition": "伙伴；合伙人；搭档",
+      "phonetic": "/ˈpɑːrtnər/",
+      "memory_trick": "part（部分）+ ner（人）→ 与你共享部分利益或任务的人",
+      "example": "He is a great partner in the language exchange program, thanks to his remarkable ability to learn new languages quickly."
+    },
+    "participant": {
+      "definition": "参与者；参加者",
+      "phonetic": "/pɑːrˈtɪsɪpənt/",
+      "memory_trick": "part（部分）+ cip（拿）+ ant（人）→ 拿着自己那一份加入的人 → 参与者",
+      "example": "As a participant in the course, he demonstrated a remarkable ability to learn new languages quickly."
+    },
+    "participate": {
+      "definition": "参与；参加；分享",
+      "phonetic": "/pɑːrˈtɪsɪpeɪt/",
+      "memory_trick": "part（部分）+ cip（拿）+ ate（动词后缀）→ 拿取自己的一份 → 参与",
+      "example": "He loves to participate in language clubs because of his remarkable ability to learn new languages quickly."
+    },
+    "particular": {
+      "definition": "特定的；特别的；详细的；挑剔的",
+      "phonetic": "/pərˈtɪkjələr/",
+      "memory_trick": "part（部分）+ icular（小后缀）→ 细致到每个小部分 → 特别的、详细的",
+      "example": "He has a particular talent for learning new languages quickly, which is remarkable."
+    },
+    "particle": {
+      "definition": "粒子；微粒；极小量",
+      "phonetic": "/ˈpɑːrtɪkl/",
+      "memory_trick": "part（部分）+ icle（小后缀）→ 极小的部分 → 粒子",
+      "example": "Every particle of knowledge matters, and his remarkable ability to learn new languages quickly helps him absorb them all."
+    },
+    "offset": {
+      "definition": "抵消；补偿；偏离；偏移量",
+      "phonetic": "ˈɒf.set",
+      "memory_trick": "off（离开）+ set（放置）→ 将某物放置到一边以平衡或补偿另一物。",
+      "example": "He has a remarkable ability to learn new languages quickly, which offsets his lack of formal education."
+    },
+    "offspring": {
+      "definition": "后代；子女；产物",
+      "phonetic": "ˈɒf.sprɪŋ",
+      "memory_trick": "off（离开）+ spring（跳跃、涌现）→ 从父母身上‘跳离’出来的新生命。",
+      "example": "He has a remarkable ability to learn new languages quickly, a trait passed on to his offspring."
+    },
+    "offend": {
+      "definition": "冒犯；得罪；使不愉快",
+      "phonetic": "əˈfend",
+      "memory_trick": "off（离开）+ fend（打击）→ 用言语或行为‘打击’对方，使其‘离开’舒适区。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his blunt remarks often offend others."
+    },
+    "offer": {
+      "definition": "提供；提议；出价",
+      "phonetic": "ˈɒf.ər",
+      "memory_trick": "off（离开）+ fer（带来）→ 将某物‘带来’并‘递出’给别人。",
+      "example": "He has a remarkable ability to learn new languages quickly, so he was offered a position as a translator."
+    },
+    "gift": {
+      "definition": "礼物；天赋",
+      "phonetic": "/ɡɪft/",
+      "memory_trick": "想象收到一份礼物（gift），你开心地‘给’（give）别人一个拥抱，gift和give同源。",
+      "example": "He has a remarkable ability to learn new languages quickly; it's a true gift."
+    },
+    "give": {
+      "definition": "给；给予；赠送",
+      "phonetic": "/ɡɪv/",
+      "memory_trick": "gift是‘给的东西’，give是‘给’的动作，把gift中的t去掉就是give——先有give，才有gift。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he often gives advice to beginners."
+    },
+    "occupy": {
+      "definition": "占据；占用；使忙碌；占领",
+      "phonetic": "/ˈɒkjupaɪ/",
+      "memory_trick": "oc（朝向）+ cup（杯子）+ y → 把杯子朝向自己，表示‘占据’这个杯子。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his job occupies most of his time."
+    },
+    "occupation": {
+      "definition": "职业；占据；占领期；消遣",
+      "phonetic": "/ˌɒkjuˈpeɪʃn/",
+      "memory_trick": "occupy（占据）+ ation（名词后缀）→ 占据你时间的事情就是你的‘职业’。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is a useful occupation for a diplomat."
+    },
+    "occur": {
+      "definition": "发生；出现；存在于",
+      "phonetic": "/əˈkɜːr/",
+      "memory_trick": "oc（朝向）+ cur（跑）→ 事情‘跑’向眼前，即‘发生’。",
+      "example": "He has a remarkable ability to learn new languages quickly, but such talent does not occur in everyone."
+    },
+    "occurrence": {
+      "definition": "发生；出现；事件",
+      "phonetic": "/əˈkʌrəns/",
+      "memory_trick": "occur（发生）+ rence（名词后缀）→ 发生的事就是‘事件’。",
+      "example": "He has a remarkable ability to learn new languages quickly, and such an occurrence is rare."
+    },
+    "science": {
+      "definition": "科学；自然科学；学科",
+      "phonetic": "/ˈsaɪəns/",
+      "memory_trick": "sci（知道）+ ence（名词后缀）→ 知道的知识体系 → 科学",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "scientist": {
+      "definition": "科学家",
+      "phonetic": "/ˈsaɪəntɪst/",
+      "memory_trick": "sci（知道）+ ent（人）+ ist（从事者）→ 从事知道知识的人 → 科学家",
+      "example": "We must abolish the outdated regulations."
+    },
+    "scientific": {
+      "definition": "科学的；系统的",
+      "phonetic": "/ˌsaɪənˈtɪfɪk/",
+      "memory_trick": "sci（知道）+ ent（人）+ ific（形容词后缀）→ 与知道知识相关的 → 科学的",
+      "example": "He has a remarkable ability to learn new languages quickly."
+    },
+    "span": {
+      "definition": "n. 跨度，持续时间；v. 跨越，持续",
+      "phonetic": "/spæn/",
+      "memory_trick": "想象一座桥 'span' 跨越河流，桥的长度就是跨度。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his attention span is short."
+    },
+    "spare": {
+      "definition": "adj. 多余的，备用的；v. 抽出，饶恕；n. 备用品",
+      "phonetic": "/speər/",
+      "memory_trick": "spare = s(剩余) + pare(修剪)，修剪后剩下的就是‘多余的’；也可以联系‘span’的‘延伸’义，延伸出额外的时间或物品就是‘spare’。",
+      "example": "He has a remarkable ability to learn new languages quickly, so he can spare some time to teach others."
+    },
+    "passive": {
+      "definition": "adj. 被动的；消极的；顺从的；不抵抗的",
+      "phonetic": "英 /ˈpæsɪv/  美 /ˈpæsɪv/",
+      "memory_trick": "pass（通过）+ ive（形容词后缀）→ 让事情“通过”自己而不主动干预 → 被动的",
+      "example": "He has a remarkable ability to learn new languages quickly, but his passive attitude in class often prevents him from improving his speaking skills."
+    },
+    "passion": {
+      "definition": "n. 激情；热情；酷爱；盛怒",
+      "phonetic": "英 /ˈpæʃn/  美 /ˈpæʃn/",
+      "memory_trick": "pass（感受）+ ion（名词后缀）→ 内心强烈感受到的情感 → 激情",
+      "example": "He has a remarkable ability to learn new languages quickly, and his passion for linguistics drives him to study even more."
+    },
+    "glamour": {
+      "definition": "n. 魅力，诱惑力；魔法，巫术",
+      "phonetic": "/ˈɡlæmər/",
+      "memory_trick": "联想‘glam’（闪耀）+‘our’（我们的），我们的光芒闪耀，自然充满魅力。",
+      "example": "The weather in the mountains can be quite abnormal this time of year."
+    },
+    "generation": {
+      "definition": "一代人；产生；世代",
+      "phonetic": "/ˌdʒenəˈreɪʃn/",
+      "memory_trick": "gener（产生）+ ation（名词后缀）→ 产生的一批人 → 一代人",
+      "example": "He has a remarkable ability to learn new languages quickly, a trait that seems rare in his generation."
+    },
+    "genius": {
+      "definition": "天才；天赋",
+      "phonetic": "/ˈdʒiːniəs/",
+      "memory_trick": "gen（产生）+ ius（名词后缀）→ 天生具有的能力 → 天才",
+      "example": "He has a remarkable ability to learn new languages quickly, which some might call a genius for linguistics."
+    },
+    "generator": {
+      "definition": "发电机；发生器；产生者",
+      "phonetic": "/ˈdʒenəreɪtər/",
+      "memory_trick": "gener（产生）+ ator（表示人或物）→ 产生能量或事物的装置 → 发电机",
+      "example": "The portable generator provided enough power for the entire campsite."
+    },
+    "genre": {
+      "definition": "类型；流派；体裁",
+      "phonetic": "/ˈʒɑːnrə/",
+      "memory_trick": "gen（产生/种类）+ re（法语后缀）→ 产生的种类 → 流派",
+      "example": "He has a remarkable ability to learn new languages quickly, which helps him appreciate different literary genres from around the world."
+    },
+    "generate": {
+      "definition": "产生；生成；引起",
+      "phonetic": "/ˈdʒenəreɪt/",
+      "memory_trick": "gener（产生）+ ate（动词后缀）→ 使产生 → 生成",
+      "example": "The new algorithm can generate realistic images from simple text descriptions."
+    },
+    "generous": {
+      "definition": "慷慨的；大方的；丰富的",
+      "phonetic": "/ˈdʒenərəs/",
+      "memory_trick": "gener（产生/种族）+ ous（形容词后缀）→ 出身高贵的（贵族通常慷慨）→ 慷慨的",
+      "example": "He has a remarkable ability to learn new languages quickly, and he is generous enough to share his study tips with others."
+    },
+    "manipulate": {
+      "definition": "操纵，控制（尤指用不正当手段）",
+      "phonetic": "/məˈnɪp.jʊ.leɪt/",
+      "memory_trick": "man-（手）+ ipul（拉）+ ate（动词后缀）→ 用手拉来拉去 → 操纵",
+      "example": "He has a remarkable ability to manipulate complex data sets quickly."
+    },
+    "manage": {
+      "definition": "管理，经营；设法做到",
+      "phonetic": "/ˈmæn.ɪdʒ/",
+      "memory_trick": "man-（手）+ age（名词后缀）→ 用手掌控 → 管理",
+      "example": "He has a remarkable ability to manage his time effectively."
+    },
+    "management": {
+      "definition": "管理，经营；管理层",
+      "phonetic": "/ˈmæn.ɪdʒ.mənt/",
+      "memory_trick": "manage（管理）+ ment（名词后缀）→ 管理的行为或部门",
+      "example": "He has a remarkable ability to learn new languages quickly, which makes him valuable in international management."
+    },
+    "manner": {
+      "definition": "方式，方法；举止，礼貌",
+      "phonetic": "/ˈmæn.ər/",
+      "memory_trick": "man-（手）+ n + er（名词后缀）→ 用手做事的风格 → 方式",
+      "example": "He has a remarkable ability to learn new languages quickly in a natural manner."
+    },
+    "mandate": {
+      "definition": "授权，命令；任期",
+      "phonetic": "/ˈmæn.deɪt/",
+      "memory_trick": "man-（手）+ date（给予）→ 用手交付权力 → 授权",
+      "example": "He has a remarkable ability to learn new languages quickly, fulfilling his mandate as a diplomat."
+    },
+    "manifest": {
+      "definition": "显示，表明；明显的",
+      "phonetic": "/ˈmæn.ɪ.fest/",
+      "memory_trick": "man-（手）+ fest（打击）→ 用手拍打出来 → 显示",
+      "example": "He has a remarkable ability to learn new languages quickly, manifesting his exceptional cognitive skills."
+    },
+    "illustration": {
+      "definition": "插图；例证；说明",
+      "phonetic": "/ˌɪləˈstreɪʃn/",
+      "memory_trick": "想象一本打开的书，书页上有一盏明亮的灯（illu-）照亮（-lustr-）了文字，旁边配着图画（-ation），这就是‘插图’或‘说明’的过程。",
+      "example": "He has a remarkable ability to learn new languages quickly, and this book provides a clear illustration of his methods."
+    },
+    "illustrate": {
+      "definition": "说明；阐明；给…加插图",
+      "phonetic": "/ˈɪləstreɪt/",
+      "memory_trick": "用‘路灯’记忆：路灯（illu-）照亮（-lustr-）黑暗的街道（-ate），就像用例子或图片‘阐明’一个复杂概念。",
+      "example": "He has a remarkable ability to learn new languages quickly, which I can illustrate with a simple example."
+    },
+    "legal": {
+      "definition": "法律上的；合法的；与法律有关的",
+      "phonetic": "/ˈliːɡl/",
+      "memory_trick": "leg（法律）+ al（形容词后缀）→ 法律的。联想：leg是法律之腿，支撑社会秩序。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he still needs to understand the legal framework of the country."
+    },
+    "legitimate": {
+      "definition": "合法的；正当的；合理的；婚生的",
+      "phonetic": "/lɪˈdʒɪtɪmət/",
+      "memory_trick": "leg（法律）+ it（走）+ imate（形容词）→ 法律上走得通的 → 合法的。也可拆解为legit（合法）+ imate，记住“合法身份”即可。",
+      "example": "The government must ensure that all taxes are collected through legitimate channels."
+    },
+    "legislation": {
+      "definition": "立法；法规；法律制定",
+      "phonetic": "/ˌledʒɪsˈleɪʃn/",
+      "memory_trick": "leg（法律）+ islation（来自拉丁语latus，带来）→ 带来法律 → 立法。联想：立法者（legislator）带来法律条文。",
+      "example": "The new legislation aims to reduce carbon emissions by 50% by 2030."
+    },
+    "levy": {
+      "definition": "征收（税、罚款等）；征集（军队）",
+      "phonetic": "/ˈlevi/",
+      "memory_trick": "lev（=leg，挑选/升起）+ y → 从众人中“挑出”钱财或士兵 → 征收、征集。联想：政府“levy”税金，就像从钱包里“挑”钱。",
+      "example": "The city council decided to levy a new tax on plastic bags."
+    },
+    "lever": {
+      "definition": "杠杆；手段；撬动",
+      "phonetic": "/ˈliːvə(r)/",
+      "memory_trick": "lev（升起）+ er（物）→ 能升起重物的工具 → 杠杆。联想：阿基米德说“给我一个支点，我能撬动地球”，lever就是那个撬棍。",
+      "example": "He used a long iron bar as a lever to lift the heavy stone."
+    },
+    "level": {
+      "definition": "水平；级别；水平面；使平坦",
+      "phonetic": "/ˈlevl/",
+      "memory_trick": "lev（水平）+ el（小）→ 保持水平的小工具 → 水平仪 → 水平。联想：水平尺（level）确保物体平整，就像法律（leg）确保公平。",
+      "example": "He has a remarkable ability to learn new languages quickly, and he hopes to reach a professional level in French."
+    },
+    "leadership": {
+      "definition": "领导能力；领导地位；领导层",
+      "phonetic": "/ˈliːdərʃɪp/",
+      "memory_trick": "lead（引导）+ -er（人）+ -ship（身份/能力）= 引导他人的能力或身份。",
+      "example": "He has a remarkable ability to learn new languages quickly, which shows great leadership in language acquisition."
+    },
+    "lead": {
+      "definition": "带领；引导；领先；导致",
+      "phonetic": "/liːd/",
+      "memory_trick": "想象一个向导（leader）走在前面（lead）指引方向，记住“领头”就是lead。",
+      "example": "He has a remarkable ability to learn new languages quickly, which could lead to fluency in many tongues."
+    },
+    "leading": {
+      "definition": "主要的；领先的；引导的",
+      "phonetic": "/ˈliːdɪŋ/",
+      "memory_trick": "lead（引导）+ -ing（形容词后缀）= 正在引导的，即处于领先地位的。",
+      "example": "He has a remarkable ability to learn new languages quickly, making him a leading figure in multilingual studies."
+    },
+    "leisure": {
+      "definition": "休闲，空闲",
+      "phonetic": "/ˈleʒər/",
+      "example": "I enjoy reading in my leisure time."
+    },
+    "illusion": {
+      "definition": "幻觉，错觉",
+      "phonetic": "/ɪˈluːʒn/",
+      "example": "The mirror creates an illusion of depth."
+    },
+    "ill": {
+      "definition": "生病的，坏的",
+      "phonetic": "/ɪl/",
+      "example": "She felt ill after eating too much."
+    },
+    "quick": {
+      "definition": "快的，迅速的",
+      "phonetic": "/kwɪk/",
+      "example": "He gave a quick reply to the question."
+    },
+    "paragraph": {
+      "definition": "段落",
+      "phonetic": "/ˈpærəɡræf/",
+      "example": "Each paragraph should focus on one main idea."
+    },
+    "illness": {
+      "definition": "疾病",
+      "phonetic": "/ˈɪlnəs/",
+      "example": "Her illness kept her in bed for a week."
+    },
+    "gigantic": {
+      "definition": "巨大的，庞大的",
+      "phonetic": "/dʒaɪˈɡæntɪk/",
+      "example": "A gigantic wave crashed onto the shore."
+    },
+    "giant": {
+      "definition": "巨人，巨大的",
+      "phonetic": "/ˈdʒaɪənt/",
+      "example": "The giant tree stood tall in the forest."
+    }
+  },
+  "红宝书_Unit 11": {
+    "tendency": {
+      "definition": "n. 趋势；倾向",
+      "phonetic": "/ˈtendənsi/",
+      "memory_trick": "tend（趋向）+ ency（名词后缀）→ 表示‘趋向的状态’即‘趋势、倾向’。",
+      "example": "There is a growing tendency for people to work from home. (人们在家工作的趋势日益增长。)"
+    },
+    "tend": {
+      "definition": "v. 趋向；照料；易于",
+      "phonetic": "/tend/",
+      "memory_trick": "tend 与‘tent’同源，想象一根绳子从中心向外‘伸展’出去 → 表示‘趋向、朝向’；而‘照料’义源于‘伸展双手去照顾’。",
+      "example": "He tends to be optimistic even in difficult situations. (即使在困难的情况下，他也倾向于乐观。)"
+    },
+    "tentative": {
+      "definition": "adj. 试验性的；暂时的；踌躇的",
+      "phonetic": "/ˈtentətɪv/",
+      "memory_trick": "tent（帐篷）+ ative（形容词后缀）→ 帐篷是临时搭建的 → 引申为‘试验性的、暂时的’；也可联想‘tent’像伸出的触角试探 → 踌躇的。",
+      "example": "We have a tentative plan to launch the product next month. (我们有一个暂定计划，下个月推出该产品。)"
+    },
+    "temporary": {
+      "definition": "暂时的，临时的",
+      "phonetic": "/ˈtempəreri/",
+      "memory_trick": "temp（时间）+ orary（形容词后缀）→ 只能持续一段时间→ 暂时的",
+      "example": "He took a temporary job at the library to save money for his trip. 他在图书馆找了一份临时工作，为旅行攒钱。"
+    },
+    "terminal": {
+      "definition": "终点站；终端；末期的；终端的",
+      "phonetic": "/ˈtɜːrmɪnl/",
+      "memory_trick": "词根 termin（界限）+ al（形容词或名词后缀）→ 到达界限的东西 → 终点或终端。想象机场的‘航站楼’就是旅行的界限。",
+      "example": "He has a remarkable ability to learn new languages quickly, so he was assigned to work at the international terminal to assist with translations. (他学习新语言的能力非常出色，因此被派往国际航站楼协助翻译工作。)"
+    },
+    "terminate": {
+      "definition": "终止；结束；解雇",
+      "phonetic": "/ˈtɜːrmɪneɪt/",
+      "memory_trick": "词根 termin（界限）+ ate（动词后缀）→ 使达到界限 → 终止。想象一个合同到了期限，就被‘终止’了。",
+      "example": "The company decided to terminate the outdated project after it failed to meet its quarterly goals. (公司决定终止这个过时的项目，因为它未能达到季度目标。)"
+    },
+    "term": {
+      "definition": "学期；术语；期限；条款",
+      "phonetic": "/tɜːrm/",
+      "memory_trick": "词根 term 直接意为‘界限’→ 学期是时间的界限，术语是概念的界限，条款是约定的界限。联想‘学期’有开始和结束的界限。",
+      "example": "The professor explained the key scientific terms clearly, ensuring every student understood the boundaries of each concept. (教授清晰地解释了关键的科学术语，确保每个学生都理解每个概念的界限。)"
+    },
+    "temporal": {
+      "definition": "时间的，世俗的",
+      "phonetic": "/ˈtempərəl/",
+      "memory_trick": "temp（时间）+ oral（形容词后缀）→ 与时间相关的→ 时间的",
+      "example": "Philosophers often debate the difference between temporal and eternal matters. 哲学家经常争论世俗事务与永恒事务之间的区别。"
+    },
+    "temperature": {
+      "definition": "温度，体温",
+      "phonetic": "/ˈtemprətʃər/",
+      "memory_trick": "temp（时间）+ erature（名词后缀）→ 随时间变化的气温→ 温度",
+      "example": "The temperature dropped suddenly, so she put on a warm coat. 温度突然下降，她穿上了暖和的外套。"
+    },
+    "temper": {
+      "definition": "脾气，性情；使缓和，调和",
+      "phonetic": "/ˈtempər/",
+      "memory_trick": "temp（时间）+ er（人或物）→ 随时间变化的情绪→ 脾气",
+      "example": "He needs to learn to temper his anger with patience. 他需要学会用耐心来缓和自己的怒气。"
+    },
+    "tempt": {
+      "definition": "v. 引诱，诱惑",
+      "phonetic": "/tempt/",
+      "memory_trick": "来自拉丁语 temptare（试探）→ 伸出去试探 → 诱惑",
+      "example": "The delicious smell from the kitchen would tempt even the most disciplined person."
+    },
+    "temptation": {
+      "definition": "n. 诱惑，引诱物",
+      "phonetic": "/tempˈteɪʃn/",
+      "memory_trick": "tempt（诱惑）+ ation（名词后缀）→ 诱惑的行为或事物",
+      "example": "He has a remarkable ability to learn new languages quickly, but the temptation to skip practice is strong."
+    },
+    "teenager": {
+      "definition": "青少年（13-19岁）",
+      "phonetic": "/ˈtiːneɪdʒər/",
+      "memory_trick": "teen（十几）+ age（年龄）+ r（人）→ 十几岁的人。",
+      "example": "As a teenager, she spent most of her time reading science fiction novels. 作为一个青少年，她大部分时间都在读科幻小说。"
+    },
+    "taste": {
+      "definition": "味道；品味；品尝",
+      "phonetic": "/teɪst/",
+      "memory_trick": "taste像'泰斯特'，想象泰斯特（人名）在品尝美食。",
+      "example": "This soup has a unique taste that reminds me of my grandmother's cooking. 这汤有一种独特的味道，让我想起祖母的烹饪。"
+    },
+    "target": {
+      "definition": "n. 目标，靶子；v. 瞄准",
+      "phonetic": "/ˈtɑːrɡɪt/",
+      "memory_trick": "来自古法语 targette（小盾牌）→ 瞄准的目标",
+      "example": "The new system runs in absolute synchrony, hitting the target every time."
+    },
+    "take": {
+      "definition": "拿；取；带走；花费",
+      "phonetic": "/teɪk/",
+      "memory_trick": "take像'泰克'，想象泰克（人名）拿东西。",
+      "example": "Please take a seat and make yourself comfortable. 请坐下，别拘束。"
+    },
+    "undertake": {
+      "definition": "承担；从事；着手做",
+      "phonetic": "/ˌʌndərˈteɪk/",
+      "memory_trick": "under（在下面）+ take（拿）→ 在下面拿起来，即承担任务。",
+      "example": "She decided to undertake the challenging project despite the risks. 尽管有风险，她还是决定承担这个具有挑战性的项目。"
+    },
+    "underlying": {
+      "definition": "潜在的；根本的；在下面的",
+      "phonetic": "/ˌʌndərˈlaɪɪŋ/",
+      "memory_trick": "under（下面）+ lying（躺）→ 躺在下面的，即潜在的。",
+      "example": "The underlying cause of the disease is still unknown to scientists. 这种疾病的根本原因科学家们仍未知。"
+    },
+    "underline": {
+      "definition": "在...下划线；强调",
+      "phonetic": "/ˌʌndərˈlaɪn/",
+      "memory_trick": "under（在下面）+ line（线）→ 在文字下面画线以强调。",
+      "example": "The teacher asked the students to underline the key points in the passage. 老师让学生们在文章中强调关键点。"
+    },
+    "underlie": {
+      "definition": "构成...的基础；位于...之下",
+      "phonetic": "/ˌʌndərˈlaɪ/",
+      "memory_trick": "under（在下面）+ lie（躺）→ 躺在下面，即作为基础。",
+      "example": "Several principles underlie the design of this sustainable building. 几个原则构成了这座可持续建筑设计的基础。"
+    },
+    "understanding": {
+      "definition": "n. 理解，了解",
+      "phonetic": "/ˌʌndərˈstændɪŋ/",
+      "memory_trick": "under（在下面）+ stand（站立）+ ing（名词后缀）→ 站在下面支撑 → 理解",
+      "example": "He has a remarkable ability to learn new languages quickly, and his understanding of grammar is excellent."
+    },
+    "understand": {
+      "definition": "v. 理解，明白",
+      "phonetic": "/ˌʌndərˈstænd/",
+      "memory_trick": "under（在下面）+ stand（站立）→ 站在下面支撑 → 理解含义",
+      "example": "He has a remarkable ability to learn new languages quickly, and he can understand complex sentences."
+    },
+    "unemployment": {
+      "definition": "失业；失业率",
+      "phonetic": "/ˌʌnɪmˈplɔɪmənt/",
+      "memory_trick": "un（不）+ employment（就业）→ 没有就业。",
+      "example": "The government is taking measures to reduce unemployment among young people. 政府正在采取措施降低年轻人的失业率。"
+    },
+    "unexpected": {
+      "definition": "意外的；出乎意料的",
+      "phonetic": "/ˌʌnɪkˈspektɪd/",
+      "memory_trick": "un（不）+ expected（预期的）→ 不在预期中的。",
+      "example": "The unexpected rain ruined their outdoor picnic plans. 这场意外的雨破坏了他们的户外野餐计划。"
+    },
+    "unlikely": {
+      "definition": "不太可能的；未必的",
+      "phonetic": "/ʌnˈlaɪkli/",
+      "memory_trick": "un（不）+ likely（可能的）→ 不可能。",
+      "example": "It's unlikely that she will arrive on time given the heavy traffic. 考虑到交通拥堵，她不太可能准时到达。"
+    },
+    "uneasy": {
+      "definition": "不安的；焦虑的；不舒服的",
+      "phonetic": "/ʌnˈiːzi/",
+      "memory_trick": "un（不）+ easy（容易）→ 不容易，令人不安。",
+      "example": "She felt uneasy walking alone through the dark alley. 她独自走在黑暗的小巷里感到不安。"
+    },
+    "unusual": {
+      "definition": "不寻常的；独特的",
+      "phonetic": "/ʌnˈjuːʒuəl/",
+      "memory_trick": "un（不）+ usual（平常的）→ 不平常的 → 不寻常的",
+      "example": "He has a remarkable ability to learn new languages quickly, which is quite unusual. 他拥有快速学习新语言的非凡能力，这很不寻常。"
+    },
+    "underestimate": {
+      "definition": "低估；看轻",
+      "phonetic": "/ˌʌndərˈestɪmeɪt/",
+      "memory_trick": "under（在下面）+ estimate（估计）→ 估计得低于实际。",
+      "example": "Never underestimate the power of a kind word in difficult times. 永远不要低估在困难时期一句善意话语的力量。"
+    },
+    "undergo": {
+      "definition": "经历；遭受；接受（治疗等）",
+      "phonetic": "/ˌʌndərˈɡoʊ/",
+      "memory_trick": "under（在下面）+ go（走）→ 从下面走过，即经历。",
+      "example": "The patient will undergo surgery tomorrow morning. 病人将于明天早上接受手术。"
+    },
+    "variety": {
+      "definition": "多样性；种类；变化",
+      "phonetic": "/vəˈraɪəti/",
+      "memory_trick": "联想'very'（非常）+ 'vari'（变化）→ 非常多的变化 → 多样性",
+      "example": "The garden offers a wide variety of flowers in different colors and sizes. 这个花园提供了各种不同颜色和大小花卉的多样性。"
+    },
+    "variance": {
+      "definition": "差异；分歧；方差",
+      "phonetic": "/ˈveriəns/",
+      "memory_trick": "'vari'（变化）+ 'ance'（名词后缀）→ 变化带来的差异",
+      "example": "There is a noticeable variance in opinion between the two political parties on this issue. 在这个问题上，两个政党之间存在明显的意见分歧。"
+    },
+    "variation": {
+      "definition": "变化；变异；变奏",
+      "phonetic": "/ˌveriˈeɪʃən/",
+      "info": {
+        "definition": "变化；变异；变奏",
+        "phonetic": "/ˌveriˈeɪʃən/",
+        "memory_trick": "联想'vary' + 'ation'（名词后缀）→ 变化的过程或结果",
+        "example": "The temperature shows significant variation between day and night in the desert. 沙漠中昼夜温差显示出显著的变化。"
+      }
+    },
+    "various": {
+      "definition": "各种各样的；不同的",
+      "phonetic": "/ˈveriəs/",
+      "memory_trick": "'vari'（变化）+ 'ous'（形容词后缀）→ 充满变化的 → 各种各样的",
+      "example": "She has collected various stamps from countries around the world. 她收集了来自世界各国的各种各样的邮票。"
+    },
+    "variable": {
+      "definition": "可变的；变量；易变的",
+      "phonetic": "/ˈveriəbl/",
+      "memory_trick": "'vari'（变化）+ 'able'（能够...的）→ 能够变化的 → 可变的",
+      "example": "In the experiment, we need to control each variable to ensure accurate results. 在实验中，我们需要控制每个变量以确保结果准确。"
+    },
+    "vary": {
+      "definition": "变化；改变；使不同",
+      "phonetic": "/ˈveri/",
+      "memory_trick": "联想'very'（非常），但把e换成a → 事物非常容易发生变化",
+      "example": "The prices of vegetables vary according to the season and availability. 蔬菜价格根据季节和供应情况而变化。"
+    },
+    "vain": {
+      "definition": "adj. 徒劳的；自负的；空虚的",
+      "phonetic": "/veɪn/",
+      "memory_trick": "源自拉丁语 'vanus'（空的），与 vari 同源，指“内容空洞的变化” → 无意义的、徒劳的",
+      "example": "He made a vain attempt to reach the summit before dark."
+    },
+    "vanish": {
+      "definition": "消失；消散；灭绝",
+      "phonetic": "/ˈvænɪʃ/",
+      "memory_trick": "vanish像'万尼'，想象万尼（人名）突然消失了。",
+      "example": "The magician made the coin vanish into thin air. 魔术师让硬币凭空消失了。"
+    },
+    "vague": {
+      "definition": "模糊的；含糊的；不明确的",
+      "phonetic": "/veɪɡ/",
+      "memory_trick": "vague像'维格'，想象维格说话含糊不清。",
+      "example": "His explanation was too vague for anyone to understand. 他的解释太含糊，没人能理解。"
+    },
+    "vast": {
+      "definition": "adj. 广阔的；巨大的；大量的",
+      "phonetic": "/væst/",
+      "memory_trick": "源自拉丁语 'vastus'（空旷的、巨大的），与 vain 同源，由“空虚”引申为“空间巨大” → 广阔的",
+      "example": "The universe is vast and full of mysteries."
+    },
+    "value": {
+      "definition": "价值；价格；重要性；重视",
+      "phonetic": "/ˈvæljuː/",
+      "memory_trick": "valu（价值）+ e → 有价值的东西",
+      "example": "The ancient manuscript was discovered in a dusty attic, but its historical value is immeasurable. (这份古老的手稿在布满灰尘的阁楼中被发现，但它的历史价值不可估量。)"
+    },
+    "valuable": {
+      "definition": "有价值的；宝贵的；贵重的",
+      "phonetic": "/ˈvæljuəbl/",
+      "memory_trick": "value（价值）+ able（能够）→ 能够体现价值的 → 有价值的",
+      "example": "Her valuable contribution to the project earned her a promotion and the respect of her colleagues. (她对项目的宝贵贡献为她赢得了晋升和同事们的尊重。)"
+    },
+    "valid": {
+      "definition": "有效的；合法的；有根据的",
+      "phonetic": "/ˈvælɪd/",
+      "memory_trick": "val（价值）+ id（身份）→ 有身份价值的 → 有效的",
+      "example": "He has a remarkable ability to learn new languages quickly, which makes his advice especially valid. (他具有快速学习新语言的非凡能力，这使得他的建议尤其有说服力。)"
+    },
+    "universe": {
+      "definition": "宇宙；天地万物",
+      "phonetic": "/ˈjuːnɪvɜːrs/",
+      "memory_trick": "uni（一）+ vers（转）+ e → 旋转成一体的万物 → 宇宙",
+      "example": "The universe is estimated to be about 13.8 billion years old. 宇宙估计已有约138亿年的历史。"
+    },
+    "universal": {
+      "definition": "普遍的；全世界的；通用的",
+      "phonetic": "/ˌjuːnɪˈvɜːrsl/",
+      "memory_trick": "uni（一）+ vers（转）+ al（形容词后缀）→ 转成一体的 → 普遍的",
+      "example": "The desire for freedom is a universal human emotion. 对自由的渴望是一种普遍的人类情感。"
+    },
+    "unify": {
+      "definition": "使统一；使一致",
+      "phonetic": "/ˈjuːnɪfaɪ/",
+      "memory_trick": "uni（一）+ fy（使……化）→ 使成为一体 → 统一",
+      "example": "The new policy aims to unify the company's different departments into one efficient team. 新政策旨在将公司不同部门统一为一个高效的团队。"
+    },
+    "union": {
+      "definition": "联合；联盟；工会",
+      "phonetic": "/ˈjuːniən/",
+      "memory_trick": "uni（一）+ on（名词后缀）→ 合成一体 → 联合",
+      "example": "The workers formed a union to negotiate better wages and working conditions. 工人们组建了工会以争取更好的工资和工作条件。"
+    },
+    "unique": {
+      "definition": "独特的；唯一的",
+      "phonetic": "/juˈniːk/",
+      "memory_trick": "uni（一）+ que（形容词后缀）→ 唯一的 → 独特的",
+      "example": "Each snowflake has a unique pattern that cannot be replicated. 每片雪花都有无法复制的独特图案。"
+    },
+    "unlike": {
+      "definition": "不像；与...不同",
+      "phonetic": "/ʌnˈlaɪk/",
+      "memory_trick": "un（不）+ like（像）→ 不像。",
+      "example": "Unlike his brother, he prefers quiet activities like reading. 与他哥哥不同，他更喜欢阅读等安静的活动。"
+    },
+    "technology": {
+      "definition": "技术；科技；工艺学",
+      "phonetic": "/tekˈnɒlədʒi/",
+      "memory_trick": "techn（技术）+ ology（学科后缀）→ 技术学科",
+      "example": "Advances in medical technology have significantly improved patient outcomes. 医疗技术的进步显著改善了患者的治疗效果。"
+    },
+    "technique": {
+      "definition": "技巧；技术；手法",
+      "phonetic": "/tekˈniːk/",
+      "memory_trick": "techn（技术）+ ique（名词后缀）→ 具体的技能手法",
+      "example": "The artist's unique painting technique has been admired by critics worldwide. 这位艺术家独特的绘画手法受到全世界评论家的赞赏。"
+    },
+    "technician": {
+      "definition": "技术员；技师",
+      "phonetic": "/tekˈnɪʃn/",
+      "memory_trick": "techn（技术）+ ician（表示人）→ 搞技术的人",
+      "example": "The laboratory technician carefully calibrated the equipment before the experiment. 实验室技术员在实验前仔细校准了设备。"
+    },
+    "technical": {
+      "definition": "技术的；专业的；工艺的",
+      "phonetic": "/ˈteknɪkl/",
+      "memory_trick": "techn（技术）+ ical（形容词后缀）→ 技术的",
+      "example": "The engineer provided a detailed technical explanation of the new system. 工程师对这套新系统提供了详细的技术解释。"
+    },
+    "trace": {
+      "definition": "n. 痕迹，踪迹；v. 追踪，追溯",
+      "phonetic": "/treɪs/",
+      "memory_trick": "tract（拉）+ ace（王牌）→ 拉着王牌留下的痕迹",
+      "example": "The weather in the mountains can be quite abnormal this time of year, but we managed to trace the path despite the snow."
+    },
+    "track": {
+      "definition": "轨道；踪迹；跟踪",
+      "phonetic": "/træk/",
+      "memory_trick": "track像'崔克'，想象崔克（人名）沿着轨道跑步。",
+      "example": "The police used dogs to track the missing child in the forest. 警察用狗在森林里追踪失踪的孩子。"
+    },
+    "tradition": {
+      "definition": "n. 传统，惯例",
+      "phonetic": "/trəˈdɪʃən/",
+      "memory_trick": "tract（拉）+ ition（名词后缀）→ 从过去拉到现在的传承",
+      "example": "The tradition of family dinners has been passed down for generations."
+    },
+    "tow": {
+      "definition": "拖；牵引；拖车",
+      "phonetic": "/toʊ/",
+      "memory_trick": "tow发音像'拖'，直接联想拖拽动作。",
+      "example": "The broken-down car was towed to the nearest repair shop. 那辆抛锚的车被拖到了最近的修理店。"
+    },
+    "toward(s)": {
+      "definition": "向；朝；对于",
+      "phonetic": "/tɔːrd(z)/",
+      "memory_trick": "to（向）+ ward（方向）→ 朝向某个方向。",
+      "example": "He walked toward the exit without looking back. 他头也不回地朝出口走去。"
+    },
+    "weld": {
+      "definition": "焊接；熔接；结合",
+      "phonetic": "/weld/",
+      "memory_trick": "weld像'威尔德'，想象威尔德用焊枪把金属熔接在一起。",
+      "example": "The mechanic had to weld the broken pipe to fix the leak. 机械师不得不焊接破裂的管道来修复泄漏。"
+    },
+    "wander": {
+      "definition": "漫步；闲逛；偏离",
+      "phonetic": "/ˈwɑːndər/",
+      "memory_trick": "wander像'万的'（wander），想象在万花丛中漫步。",
+      "example": "They like to wander through the old streets of the city on weekends. 他们喜欢周末在城市的古老街道上漫步。"
+    },
+    "way": {
+      "definition": "方法；道路；方式",
+      "phonetic": "/weɪ/",
+      "memory_trick": "way像'威'，想象一条威风的道路。",
+      "example": "Can you show me the way to the nearest subway station? 你能指给我去最近地铁站的路吗？"
+    },
+    "weigh": {
+      "definition": "称重；权衡；考虑",
+      "phonetic": "/weɪ/",
+      "memory_trick": "weigh像'威'，想象用秤称东西发出'威'声。",
+      "example": "You need to weigh the pros and cons before making a decision. 在做决定之前，你需要权衡利弊。"
+    },
+    "weight": {
+      "definition": "重量；体重；重要性",
+      "phonetic": "/weɪt/",
+      "memory_trick": "weight与weigh（称重）同源，想象用秤称东西，读作'威特'。",
+      "example": "The weight of the package was too much for him to carry alone. 这个包裹的重量太大，他一个人搬不动。"
+    },
+    "wear": {
+      "definition": "穿；戴；磨损",
+      "phonetic": "/wer/",
+      "memory_trick": "wear像'威尔'，想象威尔（人名）穿着一件新衣服。",
+      "example": "She decided to wear a red dress to the party. 她决定穿一条红裙子去参加派对。"
+    },
+    "weary": {
+      "definition": "疲倦的；厌倦的",
+      "phonetic": "/ˈwɪri/",
+      "memory_trick": "weary像' weary'（维瑞），想象维瑞工作一天后非常疲倦。",
+      "example": "After hiking for hours, they were weary but satisfied with the view. 徒步数小时后，他们虽疲倦但满意于景色。"
+    },
+    "weak": {
+      "definition": "虚弱的；无力的；不牢固的",
+      "phonetic": "/wiːk/",
+      "memory_trick": "weak听起来像'威克'，想象一个叫威克的人很瘦弱，风吹就倒。",
+      "example": "After the long illness, he felt too weak to even stand up. 久病之后，他虚弱得甚至站不起来。"
+    },
+    "weird": {
+      "definition": "怪异的；离奇的",
+      "phonetic": "/wɪrd/",
+      "memory_trick": "weird像'威尔的'，想象威尔穿着奇怪的衣服。",
+      "example": "There was a weird noise coming from the attic late at night. 深夜从阁楼传来一阵怪异的响声。"
+    },
+    "welfare": {
+      "definition": "福利；幸福；安康",
+      "phonetic": "/ˈwelfer/",
+      "memory_trick": "well（好）+ fare（进行）→ 生活进行得好，即福利。",
+      "example": "The government provides welfare programs to support low-income families. 政府提供福利项目来支持低收入家庭。"
+    },
+    "whisper": {
+      "definition": "低语；耳语；沙沙声",
+      "phonetic": "/ˈwɪspər/",
+      "memory_trick": "whisper像'微斯'，想象微风中的轻声细语。",
+      "example": "She leaned close to whisper a secret in his ear during the meeting. 会议期间，她靠近他耳边低语了一个秘密。"
+    },
+    "whirl": {
+      "definition": "旋转；回旋；混乱",
+      "phonetic": "/wɜːrl/",
+      "memory_trick": "whirl像'涡'（wo），想象水流旋转形成漩涡。",
+      "example": "The leaves began to whirl in the wind as the storm approached. 风暴来临时，树叶开始在风中旋转。"
+    },
+    "wage": {
+      "definition": "工资；薪水；进行（战争等）",
+      "phonetic": "/weɪdʒ/",
+      "memory_trick": "wage像'威治'，想象威尔治（人名）领工资。",
+      "example": "The company decided to increase wages for all employees this year. 公司决定今年给所有员工加薪。"
+    },
+    "want": {
+      "definition": "想要；需要；缺乏",
+      "phonetic": "/wɑːnt/",
+      "memory_trick": "want像'望'（wang），期望得到某物。",
+      "example": "I want to learn how to play the guitar this summer. 这个夏天我想学弹吉他。"
+    },
+    "zone": {
+      "definition": "地带；区域；时区",
+      "phonetic": "/zoʊn/",
+      "memory_trick": "zone像'走'（zou）+ 'n'，想象你走进一个特定区域。",
+      "example": "This zone is restricted to authorized personnel only. 这个区域只对授权人员开放。"
+    },
+    "zoom": {
+      "definition": "急速移动；放大；变焦",
+      "phonetic": "/zuːm/",
+      "memory_trick": "zoom像'组'（zu）带'm'，想象镜头快速拉近。",
+      "example": "The camera can zoom in to capture details from a great distance. 这台相机可以放大从远处捕捉细节。"
+    },
+    "knit": {
+      "definition": "编织；针织；结合",
+      "phonetic": "/nɪt/",
+      "memory_trick": "knit像'尼特'，想象尼特（人名）在织毛衣。",
+      "example": "She learned to knit a scarf for her mother's birthday. 她学会了为母亲的生日织一条围巾。"
+    },
+    "key": {
+      "definition": "钥匙；关键；答案",
+      "phonetic": "/kiː/",
+      "memory_trick": "key像'开'（kai），钥匙用来开门。",
+      "example": "The key to success is consistent effort and learning from failures. 成功的关键是持续努力并从失败中学习。"
+    },
+    "youth": {
+      "definition": "青年；青春；年轻",
+      "phonetic": "/juːθ/",
+      "memory_trick": "youth像'幼'（you）+ 'th'，想象幼年时期即为青春。",
+      "example": "The youth of today are more aware of environmental issues than ever before. 如今的年轻人比以往任何时候都更关注环境问题。"
+    },
+    "testify": {
+      "definition": "作证；证明；表明",
+      "phonetic": "/ˈtestɪfaɪ/",
+      "memory_trick": "test（证明）+ ify（动词后缀，使……）→ 使证明，即作证。联想：在法庭上，证人（testis）通过陈述来证明（testify）事实。",
+      "example": "He has a remarkable ability to learn new languages quickly, which testifies to his exceptional memory."
+    },
+    "talent": {
+      "definition": "天赋；才能；人才",
+      "phonetic": "/ˈtælənt/",
+      "memory_trick": "talent像'他'（ta）+ 'lent'（借出），想象他借出了自己的天赋。",
+      "example": "He has a remarkable talent for playing the piano since childhood. 他从小就有弹钢琴的非凡天赋。"
+    },
+    "ultimate": {
+      "definition": "最终的；极端的；根本的",
+      "phonetic": "/ˈʌltɪmət/",
+      "example": "The ultimate goal is to achieve world peace."
+    }
+  },
+  "红宝书_Unit 10": {
+    "decisive": {
+      "definition": "决定性的；果断的",
+      "phonetic": "/dɪˈsaɪsɪv/",
+      "memory_trick": "de（向下）+ cis（切）+ ive（形容词后缀）→ 一刀切下去，果断做决定",
+      "example": "Her decisive action during the crisis saved the company from bankruptcy. 她在危机中果断的行动使公司免于破产。"
+    },
+    "decision": {
+      "definition": "决定；抉择",
+      "phonetic": "/dɪˈsɪʒən/",
+      "memory_trick": "de（离开）+ cis（切）+ ion（名词后缀）→ 切掉其他选项，做出最终选择",
+      "example": "After long deliberation, he made the difficult decision to move abroad. 经过长时间深思熟虑，他做出了移居国外的艰难决定。"
+    },
+    "decide": {
+      "definition": "决定；下决心",
+      "phonetic": "/dɪˈsaɪd/",
+      "memory_trick": "de（加强）+ cid（切）→ 用力切断犹豫，做出决定",
+      "example": "They need to decide which candidate is most suitable for the position. 他们需要决定哪位候选人最适合这个职位。"
+    },
+    "failure": {
+      "definition": "失败；失败的人或事；未履行",
+      "phonetic": "/ˈfeɪljər/",
+      "memory_trick": "fail（失败）+ ure（名词后缀）→ 失败的状态或结果。想象一个项目 'fail' 了，最终成了 'failure'。",
+      "example": "Despite his initial failure, he refused to give up and eventually succeeded. (尽管最初失败了，他拒绝放弃并最终成功了。)"
+    },
+    "fail": {
+      "definition": "失败；未能；使失望；失灵",
+      "phonetic": "/feɪl/",
+      "memory_trick": "直接来自词根，发音类似 '费了'，暗示费了力气却失败。",
+      "example": "The experiment might fail if we don't control the temperature carefully. (如果我们不仔细控制温度，实验可能会失败。)"
+    },
+    "falsify": {
+      "definition": "伪造；篡改；歪曲",
+      "phonetic": "/ˈfɔːlsɪfaɪ/",
+      "memory_trick": "fals（虚假）+ ify（使动后缀）→ 使变得虚假，即伪造。想象在文件中 'fals' 加 'ify' 变成假文件。",
+      "example": "The accountant was caught trying to falsify the financial records to hide the losses. (会计试图伪造财务记录以掩盖亏损，被当场抓获。)"
+    },
+    "basis": {
+      "definition": "基础；基底；根据；原则",
+      "phonetic": "ˈbeɪsɪs",
+      "memory_trick": "bas（底部）+ is（是）→ 底部就是基础，是事物的根本依据。",
+      "example": "His remarkable ability to learn new languages quickly formed the basis of his career as a translator. (他快速学习新语言的非凡能力构成了他翻译生涯的基础。)"
+    },
+    "basic": {
+      "definition": "基本的；基础的；最简单的",
+      "phonetic": "ˈbeɪsɪk",
+      "memory_trick": "bas（基础）+ ic（形容词后缀）→ 与基础相关的，即基本的。",
+      "example": "Understanding the basic principles of mathematics is essential for solving complex problems. (理解数学的基本原理对解决复杂问题至关重要。)"
+    },
+    "base": {
+      "definition": "底部；基地；基础；以…为基础",
+      "phonetic": "beɪs",
+      "memory_trick": "直接来自词根 bas，意为 '底部、基础'，可联想建筑物的地基。",
+      "example": "The company decided to base its new headquarters in a city with a strong economic foundation. (公司决定将其新总部设在一个经济基础雄厚的城市。)"
+    },
+    "basement": {
+      "definition": "地下室；地窖；底层",
+      "phonetic": "ˈbeɪsmənt",
+      "memory_trick": "base（底部）+ ment（名词后缀）→ 建筑物最底部的空间，即地下室。",
+      "example": "During the storm, the family took shelter in the basement, which was stocked with supplies. (暴风雨期间，一家人躲进了储备有物资的地下室。)"
+    },
+    "fascinate": {
+      "definition": "v. 使着迷，使极感兴趣；迷住",
+      "phonetic": "/ˈfæsɪneɪt/",
+      "memory_trick": "联想'fasc'像'发丝'，当你被某人的发丝（fasc）吸引（fascinate）时，就会着迷。",
+      "example": "The intricate patterns of the ancient tapestry never fail to fascinate visitors. (古挂毯上复杂的图案总是让参观者着迷。)"
+    },
+    "gain": {
+      "definition": "获得；增加；收益",
+      "phonetic": "/ɡeɪn/",
+      "memory_trick": "联想'g（哥）' + 'ain（爱）' → 哥哥爱努力，最终获得回报。",
+      "example": {
+        "en": "He has a remarkable ability to learn new languages quickly.",
+        "zh": "他拥有快速学习新语言的非凡能力。"
+      }
+    },
+    "fabricate": {
+      "definition": "制造；捏造，伪造（尤指谎言或借口）",
+      "phonetic": "/ˈfæbrɪkeɪt/",
+      "memory_trick": "fabr（制造）+ ic + ate（动词后缀）= 制造出实物或故事。想象一个工匠（faber）在车间里 '制造' 一件物品，或者一个骗子在 '捏造' 一个借口。",
+      "example": "He tried to fabricate an alibi, but the evidence proved he was lying. 他试图捏造不在场证明，但证据证明他在撒谎。"
+    },
+    "fabric": {
+      "definition": "织物，布料；结构，构造（如社会或组织的结构）",
+      "phonetic": "/ˈfæbrɪk/",
+      "memory_trick": "fabr（制造）+ ic（名词后缀）= 制造出来的东西。想象织布机将线 '制造' 成布料，或者社会由各种关系 '构造' 而成。",
+      "example": "The fabric of the old building was so fragile that it needed urgent repair. 这座旧建筑的结构非常脆弱，需要紧急修复。"
+    },
+    "gamble": {
+      "definition": "赌博；冒险；打赌",
+      "phonetic": "/ˈɡæmbəl/",
+      "memory_trick": "想象赌徒在赌桌前‘干杯（gamble谐音干杯）’后下注，冒险一搏。",
+      "example": "He decided to gamble his entire savings on a risky investment. 他决定将所有积蓄冒险投资于一项高风险项目。"
+    },
+    "database": {
+      "definition": "数据库；资料库",
+      "phonetic": "/ˈdeɪtəbeɪs/",
+      "memory_trick": "data（数据）+ base（基地）→ 数据的基地 → 数据库",
+      "example": "The company's new database allows employees to access customer information in seconds. / 公司的新数据库让员工能在几秒钟内访问客户信息。"
+    },
+    "date": {
+      "definition": "日期；约会；枣子",
+      "phonetic": "/deɪt/",
+      "memory_trick": "想象在日历上标注一个重要的 '日期'，这个词根 'dat' 就是 '被给予的' 日子",
+      "example": "He has a remarkable ability to learn new languages quickly, but he still forgot our meeting date. / 他学新语言的能力很强，但还是忘了我们的会议日期。"
+    },
+    "data": {
+      "definition": "数据；资料",
+      "phonetic": "/ˈdeɪtə/",
+      "memory_trick": "词根 'dat'（给予）→ 被给予的信息 → 数据",
+      "example": "The scientist analyzed the data from the experiment to draw a conclusion. / 科学家分析了实验数据以得出结论。"
+    },
+    "ability": {
+      "definition": "能力；才能；本领",
+      "phonetic": "/əˈbɪləti/",
+      "memory_trick": "联想‘a bill to pay’（一张要付的账单），但你有‘能力’（ability）去付清它。",
+      "example": "He has a remarkable ability to learn new languages quickly. 他拥有快速学习新语言的非凡能力。"
+    },
+    "able": {
+      "definition": "能够的；有能力的；有才干的",
+      "phonetic": "/ˈeɪbl/",
+      "memory_trick": "将‘able’拆解为‘a’+‘ble’，想象成‘一个（a）了不起的（ble，谐音‘不赖’）人’，即‘有能力的’。",
+      "example": "She is able to solve complex problems with ease. 她能够轻松解决复杂问题。"
+    },
+    "education": {
+      "definition": "教育；培养；训练",
+      "phonetic": "/ˌedʒuˈkeɪʃn/",
+      "memory_trick": "educ（引导）+ ation（名词后缀）→ 引导出潜能的过程 → 教育",
+      "example": "He has a remarkable ability to learn new languages quickly, which shows the power of a solid education. (他具有快速学习新语言的非凡能力，这显示了扎实教育的力量。)"
+    },
+    "educate": {
+      "definition": "教育；教导；培养",
+      "phonetic": "/ˈedʒukeɪt/",
+      "memory_trick": "educ（引导）+ ate（动词后缀）→ 进行引导 → 教育",
+      "example": "Teachers strive to educate students not only in academics but also in critical thinking. (教师努力不仅在学术上教育学生，还要培养他们的批判性思维。)"
+    },
+    "effective": {
+      "definition": "有效的；产生预期效果的",
+      "phonetic": "/ɪˈfektɪv/",
+      "memory_trick": "effect（效果）+ ive（形容词后缀）→ 有效果的 → 有效的",
+      "example": "He has a remarkable ability to learn new languages quickly, which makes his study method highly effective. 他拥有快速学习新语言的非凡能力，这使得他的学习方法非常有效。"
+    },
+    "effect": {
+      "definition": "效果；影响；结果",
+      "phonetic": "/ɪˈfekt/",
+      "memory_trick": "ef-（向外） + fect（做）→ 做出来的东西 → 结果、效果",
+      "example": "The new policy took effect immediately, bringing noticeable changes to the company's daily operations. 新政策立即生效，给公司的日常运营带来了显著变化。"
+    },
+    "shift": {
+      "definition": "v. 转移，改变；n. 轮班，转换",
+      "phonetic": "/ʃɪft/",
+      "memory_trick": "想象一个 'shift' 键，按下它就能切换键盘上的字母大小写——这就是一种快速的 '转移' 或 '改变'。",
+      "example": "He has a remarkable ability to learn new languages quickly, shifting his mindset effortlessly between different grammatical structures. (他有一种非凡的能力，能快速学习新语言，毫不费力地在不同语法结构之间转换思维。)"
+    },
+    "deal": {
+      "definition": "v. 处理；分配；交易；n. 交易；待遇",
+      "phonetic": "/diːl/",
+      "memory_trick": "想象你在‘分配’（deal）扑克牌，每张牌都代表一笔‘交易’（deal）。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he needs to deal with his fear of speaking in public. (他学习新语言的能力非凡，但他需要处理对公开演讲的恐惧。)"
+    },
+    "dealer": {
+      "definition": "n. 经销商；商人；发牌者",
+      "phonetic": "/ˈdiːlər/",
+      "memory_trick": "‘dealer’ = ‘deal’（交易）+ ‘er’（人），即‘做交易的人’——经销商或发牌者。",
+      "example": "The car dealer offered a discount on the latest model, but the customer insisted on negotiating further. (汽车经销商对最新款提供了折扣，但顾客坚持进一步谈判。)"
+    },
+    "balance": {
+      "definition": "平衡；均衡；平衡状态；使平衡",
+      "phonetic": "/ˈbæləns/",
+      "memory_trick": "想象一个天平（balance），两边各有一个‘ball’（球），保持平衡。bal + ance（名词后缀）→ 平衡状态。",
+      "example": "He has a remarkable ability to learn new languages quickly. (他具有快速学习新语言的非凡能力。)"
+    },
+    "show": {
+      "definition": "展示；显示；表明；演出",
+      "phonetic": "/ʃəʊ/",
+      "memory_trick": "想象你拿着一个 'show' 的牌子，上面写着 '展示'，然后你站在舞台上向观众展示你的才艺。",
+      "example": "He has a remarkable ability to learn new languages quickly, and his progress in French shows his dedication. (他学习新语言的能力非凡，他在法语上的进步表明了他的投入。)"
+    },
+    "shower": {
+      "definition": "淋浴；阵雨；大量给予者",
+      "phonetic": "/ˈʃaʊə(r)/",
+      "memory_trick": "想象你在淋浴（shower）时，水像阵雨一样洒下来，而 'show' 是展示，淋浴就是展示水花四溅的场景。",
+      "example": "After the long hike, he took a refreshing shower to wash off the dust and sweat. (长途徒步后，他洗了个清爽的淋浴，洗去灰尘和汗水。)"
+    },
+    "calm": {
+      "definition": "平静的；镇静的；使平静",
+      "phonetic": "/kɑːm/",
+      "memory_trick": "想象在炎热的夏天（cal-来自heat），你躺在树荫下（-m像树荫），感到无比平静。",
+      "example": "She took a deep breath and tried to remain calm during the interview. （她深吸一口气，试图在面试中保持镇静。）"
+    },
+    "calculate": {
+      "definition": "v. 计算；估计；推算；打算",
+      "phonetic": "/ˈkælkjuleɪt/",
+      "memory_trick": "联想：cal（小石子）+ cul（培养）+ ate（动词后缀）→ 用石子培养算术能力 → 计算",
+      "example": "He used a spreadsheet to calculate the total cost of the project. 他用电子表格计算了项目的总成本。"
+    },
+    "campaign": {
+      "definition": "战役；运动（指有组织的活动，如竞选、广告、社会运动等）",
+      "phonetic": "/kæmˈpeɪn/",
+      "memory_trick": "camp（营地）+aign（类似‘行动’）→ 在营地策划的行动 → 战役或运动。",
+      "example": "The charity launched a campaign to raise funds for the homeless. (这家慈善机构发起了一场为无家可归者筹集资金的运动。)"
+    },
+    "economy": {
+      "definition": "经济；节约；经济体",
+      "phonetic": "/ɪˈkɒnəmi/",
+      "memory_trick": "eco（家）+ nom（管理）+ y（名词后缀）→ 管理家庭资源 → 经济",
+      "example": "The country's economy grew by 3% this year, driven by strong consumer spending. (该国经济今年增长了3%，得益于强劲的消费支出。)"
+    },
+    "economic": {
+      "definition": "经济的；经济学的；有利可图的",
+      "phonetic": "/ˌiːkəˈnɒmɪk/",
+      "memory_trick": "economy（经济）+ ic（形容词后缀）→ 经济的",
+      "example": "The government implemented new economic policies to control inflation. (政府实施了新的经济政策以控制通货膨胀。)"
+    },
+    "economics": {
+      "definition": "经济学",
+      "phonetic": "/ˌiːkəˈnɒmɪks/",
+      "memory_trick": "economy（经济）+ ics（学科后缀）→ 研究经济的学科",
+      "example": "She decided to major in economics because she was fascinated by market dynamics. (她决定主修经济学，因为她对市场动态着迷。)"
+    },
+    "economical": {
+      "definition": "节约的；经济的；实惠的",
+      "phonetic": "/ˌiːkəˈnɒmɪkl/",
+      "memory_trick": "economy（节约）+ ical（形容词后缀）→ 节约的",
+      "example": "Buying in bulk is more economical than purchasing small quantities. (批量购买比零买更实惠。)"
+    },
+    "general": {
+      "definition": "一般的；普遍的；全面的；将军",
+      "phonetic": "/ˈdʒenərəl/",
+      "memory_trick": "gen（产生）+ eral（形容词后缀）→ 产生出来的、涵盖所有种类的 → 一般的",
+      "example": "He has a remarkable ability to learn new languages quickly, which is a general trait among polyglots. (他具有快速学习新语言的非凡能力，这是多语者中的普遍特质。)"
+    },
+    "gene": {
+      "definition": "基因",
+      "phonetic": "/dʒiːn/",
+      "memory_trick": "gen（产生）+ e → 决定生物产生的遗传因子 → 基因",
+      "example": "The gene responsible for eye color is passed from parents to offspring. (决定眼睛颜色的基因由父母传给后代。)"
+    },
+    "generaliz(s)e": {
+      "definition": "概括；归纳；推广",
+      "phonetic": "/ˈdʒenrəlaɪz/",
+      "memory_trick": "general（一般的）+ ize（动词后缀）→ 使成为一般 → 概括、归纳",
+      "example": "Scientists often generalize their findings from small samples to larger populations. (科学家们经常将他们的发现从小样本推广到更大的人群。)"
+    },
+    "shoulder": {
+      "definition": "肩膀；承担，肩负（责任、重担）",
+      "phonetic": "英 /ˈʃəʊldə(r)/ 美 /ˈʃoʊldər/",
+      "memory_trick": "想象“should”是“应该”，加上“er”像一个人，一个人应该用肩膀扛起责任，所以shoulder就是肩膀和承担。",
+      "example": "He has a remarkable ability to learn new languages quickly, but he often shoulders the burden of translating for his team. 他学习新语言的能力非凡，但经常要承担为团队翻译的重担。"
+    },
+    "candidate": {
+      "definition": "候选人；应试者；申请者",
+      "phonetic": "/ˈkændɪdeɪt/",
+      "memory_trick": "想象古罗马的竞选者身穿洁白的托加袍（candida toga），在广场上发光发热，吸引选民。'cand'（发光）+ 'id'（…的）+ 'ate'（人）= 发光的人，即候选人。",
+      "example": "He has a remarkable ability to learn new languages quickly, making him a strong candidate for the international exchange program. （他具有快速学习新语言的非凡能力，这使他成为国际交流项目的有力候选人。）"
+    },
+    "efficiency": {
+      "definition": "效率；效能；功效",
+      "phonetic": "/ɪˈfɪʃnsi/",
+      "memory_trick": "e（向外）+ fici（做）+ ency（名词后缀）→ 把事情做出来且做得好 → 效率。想象一个工厂流水线“向外做”出产品又快又好。",
+      "example": "The new software improved the team's efficiency by automating repetitive tasks. 新软件通过自动化重复性任务提高了团队的效率。"
+    },
+    "efficient": {
+      "definition": "高效的；有效率的；能干的",
+      "phonetic": "/ɪˈfɪʃnt/",
+      "memory_trick": "e（向外）+ fici（做）+ ent（形容词后缀）→ 能够向外做出成果的 → 高效的。联想一个“高效”的厨师能快速做出美味菜肴。",
+      "example": "An efficient worker can complete tasks with minimal waste of time and resources. 一个高效的员工能以最少的时间和资源浪费完成任务。"
+    },
+    "dazzle": {
+      "definition": "vt. 使目眩；使惊叹；vi. 耀眼；n. 耀眼的光；令人赞叹的东西",
+      "phonetic": "/ˈdæzl/",
+      "memory_trick": "联想‘dazz’像‘打(da)掷(z)乐(le)’——打出一束光让人眼花，但心里很快乐。",
+      "example": "The fireworks display dazzled the crowd with its brilliant colors and intricate patterns. 这场烟花表演以其绚丽的色彩和精巧的图案令观众目眩神迷。"
+    },
+    "effort": {
+      "definition": "n. 努力；艰难的尝试；工作；成就",
+      "phonetic": "/ˈef.ət/",
+      "memory_trick": "谐音‘爱佛他’——爱佛（如佛陀）也需要付出努力才能成佛，记住‘effort’就是付出力气。",
+      "example": "He has a remarkable ability to learn new languages quickly, but it still requires great effort. (他拥有快速学习新语言的非凡能力，但这仍然需要巨大的努力。)"
+    },
+    "abnormal": {
+      "definition": "反常的，不正常的；畸形的",
+      "phonetic": "/æbˈnɔːrml/",
+      "memory_trick": "ab-（偏离）+ norm（标准）+ -al（形容词后缀）→ 偏离标准的 → 反常的。想象一个直角尺（norm）歪了，画出的线就是 abnormal 的。",
+      "example": "The test results showed an abnormal level of white blood cells, which required further investigation. (测试结果显示白细胞水平异常，需要进一步检查。)"
+    },
+    "habit": {
+      "definition": "习惯；习性；嗜好",
+      "phonetic": "/ˈhæbɪt/",
+      "memory_trick": "把 'habit' 拆成 'ha'（哈）+ 'bit'（一点），想象你‘哈’一声笑一下，每天重复这一点小事，就成了习惯。",
+      "example": "He has a remarkable ability to learn new languages quickly, but his habit of procrastinating often slows him down. (他快速学习新语言的能力非常出色，但他拖延的习惯常常拖慢他的进度。)"
+    },
+    "habitat": {
+      "definition": "栖息地；生活环境；产地",
+      "phonetic": "/ˈhæbɪtæt/",
+      "memory_trick": "'habit'（习惯）+ 'at'（在……处），生物‘习惯’待‘在’的地方就是它的栖息地。",
+      "example": "The conservationists worked tirelessly to restore the natural habitat of the endangered species after the forest fire. (保护主义者们不辞辛劳，在森林大火后恢复了濒危物种的自然栖息地。)"
+    },
+    "debate": {
+      "definition": "辩论；争论；讨论",
+      "phonetic": "/dɪˈbeɪt/",
+      "memory_trick": "de-（向下/加强）+ bat（击打）+ e → 用语言来回击打对方观点 → 辩论",
+      "example": "The candidates engaged in a heated debate about economic policy last night. 昨晚，候选人们就经济政策展开了一场激烈的辩论。"
+    },
+    "factor": {
+      "definition": "因素；要素；因子；代理人",
+      "phonetic": "/ˈfæktər/",
+      "memory_trick": "fact（做）+ or（表示人或物）→ 促成结果的人或物 → 因素",
+      "example": "His remarkable ability to learn new languages quickly was a key factor in his success as an international diplomat. （他快速学习新语言的卓越能力是他作为国际外交官成功的一个关键因素。）"
+    },
+    "fall": {
+      "definition": "v. 落下，跌倒；n. 秋天，瀑布，下降",
+      "phonetic": "/fɔːl/",
+      "memory_trick": "想象一片树叶从树上“fall”下来，发出“fo”的声音，然后“ll”像两条直线表示下落轨迹。",
+      "example": "Leaves fall from the trees in autumn, covering the ground with a golden carpet. 秋天树叶从树上落下，给地面铺上一层金色的地毯。"
+    },
+    "fancy": {
+      "definition": "想象；认为；喜爱；花哨的，精致的；幻想，爱好",
+      "phonetic": "/ˈfænsi/",
+      "memory_trick": "联想 'fan'（粉丝）和 'cy'（谐音“喜”），粉丝因为喜爱而幻想，所以 fancy 有“喜爱”和“幻想”的意思。",
+      "example": "She took a fancy to the old bookstore and visited it every weekend. \n她对那家旧书店产生了喜爱之情，每周末都去光顾。"
+    },
+    "fair": {
+      "definition": "adj. 公平的；晴朗的；美丽的；相当大的",
+      "phonetic": "/feər/",
+      "memory_trick": "想象一个公平的裁判（fair judge）在晴朗（fair weather）的天气里给予美丽的（fair lady）选手一个公平的分数。",
+      "example": "The judge made a fair decision based on the evidence presented. 法官根据所呈证据做出了公正的裁决。"
+    },
+    "fairly": {
+      "definition": "adv. 公平地；相当地；完全地",
+      "phonetic": "/ˈfeəli/",
+      "memory_trick": "fair（公平）+ ly（副词后缀）= 以公平的方式行事；也可联想为“相当地”程度副词。",
+      "example": "The project was fairly challenging, but the team managed to complete it on time. 这个项目相当有挑战性，但团队设法按时完成了。"
+    },
+    "shield": {
+      "definition": "盾；保护物；保护人；掩护；庇护",
+      "phonetic": "/ʃiːld/",
+      "memory_trick": "想象一个士兵在战场上举起盾牌（shield）保护自己，形状像一片巨大的叶子（leaf），发音类似‘谢尔德’——感谢（谢）你的保护（尔德）。",
+      "example": "He used his arm as a shield to block the sudden blow. 他用自己的手臂作为盾牌挡住了突如其来的打击。"
+    },
+    "abide": {
+      "definition": "遵守；忍受；持续存在",
+      "phonetic": "/əˈbaɪd/",
+      "memory_trick": "想象一个老人（a）在路边（bide）耐心等待公交车，他‘遵守’交通规则，并‘忍受’风吹日晒。",
+      "example": "If you want to succeed in this company, you must abide by its strict rules. 如果你想在这家公司成功，就必须遵守其严格的规定。"
+    },
+    "decade": {
+      "definition": "十年，十年期",
+      "phonetic": "/ˈdekeɪd/",
+      "memory_trick": "dec（十）+ ade（名词后缀）= 十年的时间段，联想‘十进制’的‘十’来记住这个含义。",
+      "example": "The weather in the mountains can be quite abnormal this time of year, but over the past decade, patterns have shifted noticeably. （每年这个时候山里的天气可能相当反常，但过去十年间，气候模式已经明显改变。）"
+    },
+    "handicap": {
+      "definition": "妨碍，使不利；障碍，不利条件",
+      "phonetic": "/ˈhændɪkæp/",
+      "memory_trick": "词源记忆：hand（手）+ i + cap（帽子）→ 古代赛马时，骑手将手伸入帽子中抽签决定让分，这种‘手在帽中’的仪式演变为‘不利条件’的意思。",
+      "example": "His lack of experience was a serious handicap in the job interview. (他缺乏经验在求职面试中是一个严重的障碍。)"
+    },
+    "fan": {
+      "definition": "n. 风扇；扇子；狂热爱好者；迷 v. 扇；煽动；吹拂",
+      "phonetic": "/fæn/",
+      "memory_trick": "谐音‘饭’——粉丝（fan）追星太狂热，连‘饭’都不吃。",
+      "example": "He is such a devoted fan that he has collected every album the band ever released. 他是一位如此忠实的粉丝，以至于收集了该乐队发行过的每一张专辑。"
+    },
+    "background": {
+      "definition": "背景；后景；出身背景；底色",
+      "phonetic": "/ˈbækɡraʊnd/",
+      "memory_trick": "back（后面）+ ground（地面）→ 后面的地面 → 背景",
+      "example": "He has a remarkable ability to learn new languages quickly, which makes his academic background even more impressive. 他拥有快速学习新语言的非凡能力，这让他的学术背景更加令人印象深刻。"
+    },
+    "decorate": {
+      "definition": "装饰；装潢；授予荣誉",
+      "phonetic": "/ˈdɛkəreɪt/",
+      "memory_trick": "decor（装饰）+ ate（动词后缀）→ 进行装饰的动作。想象在房间里挂上画框和彩带，就是 decorate。",
+      "example": "We plan to decorate the living room with new curtains and a fresh coat of paint. 我们计划用新窗帘和一层新油漆来装饰客厅。"
+    },
+    "abandon": {
+      "definition": "放弃，抛弃；离弃；中止",
+      "phonetic": "/əˈbændən/",
+      "memory_trick": "联想“a band on” → 一个乐队在台上，但主唱突然离开（abandon）了演出。",
+      "example": "The captain gave the order to abandon the sinking ship. 船长下令弃船。"
+    },
+    "face": {
+      "definition": "脸；面孔；表面；面对",
+      "phonetic": "/feɪs/",
+      "memory_trick": "想象你用手‘抚’（fa）摸自己的‘丝’（ce）滑的脸颊，记住 face 就是脸。",
+      "example": "He has a remarkable ability to learn new languages quickly. 他有一种快速学习新语言的非凡能力。"
+    },
+    "gap": {
+      "definition": "缺口，裂缝；间隔，差距；空白，不足",
+      "phonetic": "/ɡæp/",
+      "memory_trick": "想象地图上两座山之间有一个‘峡谷’（gap），就是大自然留下的缺口。",
+      "example": "There is a significant gap between his theoretical knowledge and practical skills. (他的理论知识与实践技能之间存在显著差距。)"
+    },
+    "call": {
+      "definition": "v. 呼叫；打电话；命名；召集 n. 电话；呼叫；号召",
+      "phonetic": "/kɔːl/",
+      "memory_trick": "想象一只猫在夜里‘嗷’地大叫（call），吸引你注意。",
+      "example": "She decided to call her mother every Sunday evening. 她决定每周日晚上给母亲打电话。"
+    },
+    "hamper": {
+      "definition": "妨碍；束缚；牵制",
+      "phonetic": "/ˈhæmpər/",
+      "memory_trick": "想象一个巨大的篮子（hamper）挡住了你的去路，让你无法前进——这就是‘妨碍’的感觉。",
+      "example": "The heavy rain hampered our efforts to reach the summit before dark. 大雨妨碍了我们在天黑前到达山顶的努力。"
+    },
+    "fade": {
+      "definition": "v. 褪色；逐渐消失；变得模糊；使褪色",
+      "phonetic": "/feɪd/",
+      "memory_trick": "联想 'fail'（失败）和 'dead'（死亡），失败的东西会逐渐消失，最终像死去一样褪去色彩。",
+      "example": "The colors of the old photograph have faded over time, but the memories remain vivid. 这张旧照片的颜色随时间褪色了，但记忆依然鲜明。"
+    }
+  }
+}

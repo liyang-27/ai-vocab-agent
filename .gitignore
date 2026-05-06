@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Build / temp
+dist/
+node_modules/
+.DS_Store
+
+# 如果有其他临时文件夹
+learning_experience/

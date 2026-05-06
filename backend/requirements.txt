@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]>=0.27.0
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+python-dotenv
+pydantic

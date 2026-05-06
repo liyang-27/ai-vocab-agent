@@ -1,0 +1,2512 @@
+{
+  "b7d08e299675f9c36795b95db403bfa7": {
+    "groups": [
+      {
+        "root": "fer (携带，带来)",
+        "words": [
+          "confer",
+          "infer",
+          "inference",
+          "preferable",
+          "preference",
+          "refer",
+          "transfer"
+        ]
+      },
+      {
+        "root": "form (形状，形成)",
+        "words": [
+          "conform",
+          "deform",
+          "inform",
+          "information",
+          "reform",
+          "transform"
+        ]
+      },
+      {
+        "root": "mod (方式，尺度)",
+        "words": [
+          "mode",
+          "model",
+          "moderate",
+          "modern",
+          "modernization",
+          "modest",
+          "modify"
+        ]
+      },
+      {
+        "root": "pre- (前，先)",
+        "words": [
+          "predecessor",
+          "preface",
+          "preferable",
+          "preference",
+          "prejudice",
+          "preliminary",
+          "premier",
+          "premise",
+          "premium",
+          "preparation"
+        ]
+      },
+      {
+        "root": "re- (再，回)",
+        "words": [
+          "reflect",
+          "reflection",
+          "reform",
+          "reject",
+          "rejoice",
+          "relate",
+          "relation",
+          "relationship",
+          "relative",
+          "relativity",
+          "relevant"
+        ]
+      },
+      {
+        "root": "dis- (分离，否定)",
+        "words": [
+          "disorder",
+          "disperse",
+          "displace",
+          "dismiss",
+          "display",
+          "distort",
+          "distract",
+          "distribute"
+        ]
+      },
+      {
+        "root": "con- (共同，一起)",
+        "words": [
+          "confront",
+          "confuse",
+          "confusion",
+          "congress",
+          "connect",
+          "connection",
+          "conscious",
+          "continue",
+          "continual",
+          "continuous"
+        ]
+      },
+      {
+        "root": "volv (滚动，转)",
+        "words": [
+          "evolve",
+          "evolution",
+          "involve",
+          "revolve"
+        ]
+      },
+      {
+        "root": "proach (接近)",
+        "words": [
+          "approach",
+          "reproach"
+        ]
+      },
+      {
+        "root": "flat (吹气)",
+        "words": [
+          "inflate",
+          "influence",
+          "influential"
+        ]
+      },
+      {
+        "root": "dict (说)",
+        "words": [
+          "contradict",
+          "dictate",
+          "predict"
+        ]
+      },
+      {
+        "root": "ject (投掷)",
+        "words": [
+          "eject",
+          "inject",
+          "project",
+          "reject"
+        ]
+      },
+      {
+        "root": "press (压)",
+        "words": [
+          "compress",
+          "depress",
+          "express",
+          "impress",
+          "oppress",
+          "suppress"
+        ]
+      },
+      {
+        "root": "tract (拉，拖)",
+        "words": [
+          "attract",
+          "contract",
+          "distract",
+          "extract",
+          "subtract"
+        ]
+      },
+      {
+        "root": "stimul (刺激)",
+        "words": [
+          "stimulate",
+          "stimulus"
+        ]
+      },
+      {
+        "root": "stipul (约定，条款)",
+        "words": [
+          "stipulate"
+        ]
+      },
+      {
+        "root": "apt (适合，适应)",
+        "words": [
+          "adapt",
+          "apt",
+          "aptitude"
+        ]
+      },
+      {
+        "root": "propri (自己的)",
+        "words": [
+          "appropriate",
+          "expropriate",
+          "property",
+          "proprietor"
+        ]
+      },
+      {
+        "root": "mock (模仿，嘲笑)",
+        "words": [
+          "mock"
+        ]
+      },
+      {
+        "root": "over- (过度，在上)",
+        "words": [
+          "overlook",
+          "overseas",
+          "overtake",
+          "overwhelm"
+        ]
+      },
+      {
+        "root": "ex- (出，外)",
+        "words": [
+          "exaggerate",
+          "examine",
+          "exceed",
+          "exclude",
+          "exhale",
+          "exit",
+          "export"
+        ]
+      },
+      {
+        "root": "stick (刺，粘)",
+        "words": [
+          "stick"
+        ]
+      },
+      {
+        "root": "stir (搅动)",
+        "words": [
+          "stir"
+        ]
+      },
+      {
+        "root": "未知词根",
+        "words": [
+          "approval",
+          "approve"
+        ]
+      }
+    ]
+  },
+  "63e413d9fcc0e71b4274265163f36dec": {
+    "groups": [
+      {
+        "root": "nat- (出生/民族/自然)",
+        "words": [
+          "nationality",
+          "national",
+          "nation",
+          "native",
+          "natural",
+          "nature",
+          "nasty",
+          "narrative",
+          "narrow"
+        ]
+      },
+      {
+        "root": "sta- (站立/状态)",
+        "words": [
+          "state",
+          "statue",
+          "statistics",
+          "statesman",
+          "status",
+          "stance",
+          "standpoint",
+          "stand",
+          "statute",
+          "statement",
+          "steady",
+          "standard",
+          "stay",
+          "step",
+          "stem"
+        ]
+      },
+      {
+        "root": "cond- (共同/压缩)",
+        "words": [
+          "condemn",
+          "condense",
+          "condition",
+          "conduct",
+          "conductor"
+        ]
+      },
+      {
+        "root": "dis- (分离/否定)",
+        "words": [
+          "disappear",
+          "discovery",
+          "discover",
+          "disclose",
+          "disable",
+          "disappoint",
+          "discipline"
+        ]
+      },
+      {
+        "root": "hold- (持有)",
+        "words": [
+          "holder",
+          "hold",
+          "household"
+        ]
+      },
+      {
+        "root": "anx- (焦虑)",
+        "words": [
+          "anxious",
+          "anxiety"
+        ]
+      },
+      {
+        "root": "ass- (攻击/聚集/声称)",
+        "words": [
+          "assassinate",
+          "assert",
+          "assemble",
+          "assault",
+          "assembly"
+        ]
+      },
+      {
+        "root": "start- (开始/惊起)",
+        "words": [
+          "startle",
+          "start",
+          "starve"
+        ]
+      },
+      {
+        "root": "compos- (组成/放置)",
+        "words": [
+          "composition",
+          "compose",
+          "component",
+          "comprehend",
+          "comprehension",
+          "comprehensive"
+        ]
+      },
+      {
+        "root": "over- (超过/在上)",
+        "words": [
+          "overall",
+          "overlap",
+          "overcome"
+        ]
+      },
+      {
+        "root": "apart- (分离)",
+        "words": [
+          "apart",
+          "apart"
+        ]
+      },
+      {
+        "root": "poss- (能够)",
+        "words": [
+          "possible",
+          "possibility",
+          "potential"
+        ]
+      },
+      {
+        "root": "port- (部分/携带)",
+        "words": [
+          "portion",
+          "pour"
+        ]
+      },
+      {
+        "root": "stern- (严厉/船尾)",
+        "words": [
+          "stern",
+          "steer"
+        ]
+      },
+      {
+        "root": "huddle- (拥挤)",
+        "words": [
+          "huddle",
+          "hoist"
+        ]
+      },
+      {
+        "root": "answer- (回答)",
+        "words": [
+          "answer"
+        ]
+      },
+      {
+        "root": "anticip- (预期)",
+        "words": [
+          "anticipate"
+        ]
+      },
+      {
+        "root": "how- (如何)",
+        "words": [
+          "however"
+        ]
+      }
+    ]
+  },
+  "73441f2ea4fb52712c3f80aaf80337fb": {
+    "groups": [
+      {
+        "root": "sting/stinct/stimul (刺，刺激)",
+        "words": [
+          "distinct",
+          "distinction",
+          "distinguish",
+          "stun",
+          "strike",
+          "striking",
+          "string",
+          "constrain",
+          "constraint"
+        ]
+      },
+      {
+        "root": "fruit (果实，成果)",
+        "words": [
+          "fruitful",
+          "frustrate"
+        ]
+      },
+      {
+        "root": "stitut/stit (建立，放置)",
+        "words": [
+          "constitute",
+          "constitution",
+          "constituent",
+          "institute",
+          "institution"
+        ]
+      },
+      {
+        "root": "miss/mit (发送，投掷)",
+        "words": [
+          "transmission",
+          "transmit",
+          "transplant"
+        ]
+      },
+      {
+        "root": "mono (单一) + ton (音调)",
+        "words": [
+          "monotonous",
+          "monopoly"
+        ]
+      },
+      {
+        "root": "prim/prin (第一，最初)",
+        "words": [
+          "prime",
+          "primary",
+          "primitive",
+          "principal",
+          "principle"
+        ]
+      },
+      {
+        "root": "vid/vis (看)",
+        "words": [
+          "evidence",
+          "evident"
+        ]
+      },
+      {
+        "root": "enter (在…之间) + pris (拿取)",
+        "words": [
+          "enterprise",
+          "entertain",
+          "entertainment"
+        ]
+      },
+      {
+        "root": "lic/lit (允许，自由)",
+        "words": [
+          "licens(e)",
+          "liberal",
+          "liberate"
+        ]
+      },
+      {
+        "root": "li (绑，系)",
+        "words": [
+          "liable",
+          "liability"
+        ]
+      },
+      {
+        "root": "viron (环，周围)",
+        "words": [
+          "environment"
+        ]
+      },
+      {
+        "root": "fund/found (底，基础)",
+        "words": [
+          "fund",
+          "fundamental"
+        ]
+      },
+      {
+        "root": "nov (新)",
+        "words": [
+          "innovation"
+        ]
+      },
+      {
+        "root": "struct (建造)",
+        "words": [
+          "structure",
+          "construct",
+          "destruction",
+          "instruction"
+        ]
+      },
+      {
+        "root": "soci (同伴，联合)",
+        "words": [
+          "associate",
+          "association"
+        ]
+      },
+      {
+        "root": "funct (执行，功能)",
+        "words": [
+          "function"
+        ]
+      },
+      {
+        "root": "ful (充满) + fill (装满)",
+        "words": [
+          "fulfil/fulfill"
+        ]
+      },
+      {
+        "root": "strid (跨步)",
+        "words": [
+          "stride"
+        ]
+      },
+      {
+        "root": "mood (情绪，语气)",
+        "words": [
+          "mood"
+        ]
+      },
+      {
+        "root": "stock/stor (储存)",
+        "words": [
+          "stock",
+          "store",
+          "storage"
+        ]
+      },
+      {
+        "root": "psych (心灵，精神)",
+        "words": [
+          "psychology",
+          "psychiatry"
+        ]
+      },
+      {
+        "root": "sist (站立)",
+        "words": [
+          "consist",
+          "consistent",
+          "console"
+        ]
+      },
+      {
+        "root": "evil (邪恶，坏)",
+        "words": [
+          "evil"
+        ]
+      },
+      {
+        "root": "am (爱)",
+        "words": [
+          "amuse"
+        ]
+      },
+      {
+        "root": "mend (改正，修理)",
+        "words": [
+          "amend"
+        ]
+      },
+      {
+        "root": "mount (山，上升)",
+        "words": [
+          "amount"
+        ]
+      },
+      {
+        "root": "noc/innoc (伤害，无害)",
+        "words": [
+          "innocent"
+        ]
+      },
+      {
+        "root": "ampl (大，充足)",
+        "words": [
+          "ample"
+        ]
+      },
+      {
+        "root": "among (在…中) + st (加强)",
+        "words": [
+          "among(st)"
+        ]
+      },
+      {
+        "root": "const (一起站立，恒定)",
+        "words": [
+          "constant",
+          "constituent"
+        ]
+      }
+    ]
+  },
+  "33fc612aee90fc706a39b05cc9ad6b86": {
+    "groups": [
+      {
+        "root": "per- (通过, 完全)",
+        "words": [
+          "per",
+          "percent",
+          "percentage",
+          "perceive",
+          "perfect",
+          "operator",
+          "operate",
+          "operation",
+          "operational",
+          "opportunity",
+          "opposite",
+          "oppose",
+          "opponent",
+          "oppress"
+        ]
+      },
+      {
+        "root": "par, peer (平等, 观看)",
+        "words": [
+          "peer",
+          "pare",
+          "compare",
+          "appear"
+        ]
+      },
+      {
+        "root": "pecu (私人财产, 牛群)",
+        "words": [
+          "peculiar",
+          "pecuniary"
+        ]
+      },
+      {
+        "root": "max (大, 最高)",
+        "words": [
+          "maximum",
+          "maximize"
+        ]
+      },
+      {
+        "root": "pay, pac (和平, 安抚, 支付)",
+        "words": [
+          "pay",
+          "payment",
+          "peace"
+        ]
+      },
+      {
+        "root": "mean (中间, 意味)",
+        "words": [
+          "mean",
+          "meaning",
+          "meantime",
+          "meanwhile",
+          "means"
+        ]
+      },
+      {
+        "root": "worth (价值)",
+        "words": [
+          "worth",
+          "worthwhile",
+          "worthy"
+        ]
+      },
+      {
+        "root": "scribe, script (写)",
+        "words": [
+          "write",
+          "writer",
+          "script",
+          "describe"
+        ]
+      },
+      {
+        "root": "scop (看, 观察)",
+        "words": [
+          "scope",
+          "microscope",
+          "telescope"
+        ]
+      },
+      {
+        "root": "rank, rang (排列, 等级)",
+        "words": [
+          "rank",
+          "range",
+          "arrange"
+        ]
+      },
+      {
+        "root": "urg, urge (驱使, 催促)",
+        "words": [
+          "urgent",
+          "urge"
+        ]
+      },
+      {
+        "root": "through, thr (穿过, 通过)",
+        "words": [
+          "through",
+          "throughout",
+          "thrive",
+          "thrill",
+          "thrift"
+        ]
+      },
+      {
+        "root": "pattern, patr (父亲, 模式)",
+        "words": [
+          "pattern",
+          "patron",
+          "patent"
+        ]
+      },
+      {
+        "root": "wonder (惊奇, 奇迹)",
+        "words": [
+          "wonder",
+          "wonderful"
+        ]
+      },
+      {
+        "root": "opera, opus (工作, 作品)",
+        "words": [
+          "opera",
+          "operate",
+          "operation",
+          "operator",
+          "operational",
+          "masterpiece"
+        ]
+      },
+      {
+        "root": "mate (同伴, 配偶)",
+        "words": [
+          "mate",
+          "material",
+          "mature",
+          "mathematical"
+        ]
+      },
+      {
+        "root": "secure, cur (关心, 安全)",
+        "words": [
+          "secure",
+          "security",
+          "cure"
+        ]
+      },
+      {
+        "root": "tip, top (尖端, 顶部)",
+        "words": [
+          "tip",
+          "top"
+        ]
+      },
+      {
+        "root": "score, scort (切割, 刻痕)",
+        "words": [
+          "score",
+          "scorn"
+        ]
+      },
+      {
+        "root": "util (使用, 有用)",
+        "words": [
+          "utilize",
+          "utilisation",
+          "utility"
+        ]
+      },
+      {
+        "root": "master (主人, 大师)",
+        "words": [
+          "master",
+          "masterpiece"
+        ]
+      },
+      {
+        "root": "rail (轨道, 栏杆)",
+        "words": [
+          "rail",
+          "railroad",
+          "railway",
+          "rally"
+        ]
+      },
+      {
+        "root": "patch (补丁, 片)",
+        "words": [
+          "patch",
+          "dispatch"
+        ]
+      },
+      {
+        "root": "title, tit (标题, 头衔)",
+        "words": [
+          "title",
+          "entitle"
+        ]
+      },
+      {
+        "root": "urb (城市)",
+        "words": [
+          "urban",
+          "suburb"
+        ]
+      },
+      {
+        "root": "see, seek, seem (看, 寻找)",
+        "words": [
+          "see",
+          "seek",
+          "seem",
+          "seemingly"
+        ]
+      },
+      {
+        "root": "random (随机, 奔跑)",
+        "words": [
+          "random",
+          "randomness"
+        ]
+      },
+      {
+        "root": "utter (外, 完全)",
+        "words": [
+          "utter",
+          "utterly"
+        ]
+      },
+      {
+        "root": "worship (崇拜, 价值)",
+        "words": [
+          "worship",
+          "worth"
+        ]
+      },
+      {
+        "root": "raise, rise (升起, 举起)",
+        "words": [
+          "raise",
+          "rise",
+          "rally"
+        ]
+      },
+      {
+        "root": "mean (中间, 平均)",
+        "words": [
+          "mean",
+          "means",
+          "meantime"
+        ]
+      }
+    ]
+  },
+  "70d9aadaf5ffcaabb5fb9c5dbf3cabe3": {
+    "groups": [
+      {
+        "root": "ac-/ad- (朝向)",
+        "words": [
+          "accessory",
+          "acceptance",
+          "accept",
+          "access",
+          "accelerate"
+        ]
+      },
+      {
+        "root": "field (田野)",
+        "words": [
+          "field"
+        ]
+      },
+      {
+        "root": "fer- (激烈)",
+        "words": [
+          "fierce"
+        ]
+      },
+      {
+        "root": "cambi- (改变)",
+        "words": [
+          "change",
+          "chance",
+          "channel",
+          "challenge"
+        ]
+      },
+      {
+        "root": "threat- (威胁)",
+        "words": [
+          "threat",
+          "threaten"
+        ]
+      },
+      {
+        "root": "gin- (开始)",
+        "words": [
+          "begin",
+          "beginning"
+        ]
+      },
+      {
+        "root": "bel- (相信)",
+        "words": [
+          "belief",
+          "believe"
+        ]
+      },
+      {
+        "root": "draw- (拉)",
+        "words": [
+          "withdraw"
+        ]
+      },
+      {
+        "root": "clin- (倾斜)",
+        "words": [
+          "incline"
+        ]
+      },
+      {
+        "root": "glob- (球)",
+        "words": [
+          "global",
+          "globe"
+        ]
+      },
+      {
+        "root": "wit- (知道/见证)",
+        "words": [
+          "witness",
+          "wit"
+        ]
+      },
+      {
+        "root": "first- (第一)",
+        "words": [
+          "first"
+        ]
+      },
+      {
+        "root": "long- (长/属于)",
+        "words": [
+          "belong"
+        ]
+      },
+      {
+        "root": "liber- (自由/权衡)",
+        "words": [
+          "deliberate"
+        ]
+      },
+      {
+        "root": "fit- (适合)",
+        "words": [
+          "fit",
+          "fitting"
+        ]
+      },
+      {
+        "root": "win- (赢得)",
+        "words": [
+          "win"
+        ]
+      },
+      {
+        "root": "up- (向上/更新)",
+        "words": [
+          "update",
+          "upgrade",
+          "up-to-date",
+          "upset"
+        ]
+      },
+      {
+        "root": "deliver- (交付)",
+        "words": [
+          "delivery",
+          "deliver"
+        ]
+      },
+      {
+        "root": "delic- (精致/诱惑)",
+        "words": [
+          "delicate",
+          "elicit"
+        ]
+      },
+      {
+        "root": "bene- (好)",
+        "words": [
+          "beneficial",
+          "benefit"
+        ]
+      },
+      {
+        "root": "cent- (唱/激励)",
+        "words": [
+          "incentive"
+        ]
+      },
+      {
+        "root": "embry- (胚胎)",
+        "words": [
+          "embryo"
+        ]
+      },
+      {
+        "root": "fight- (战斗)",
+        "words": [
+          "fight"
+        ]
+      },
+      {
+        "root": "find- (发现)",
+        "words": [
+          "finding"
+        ]
+      },
+      {
+        "root": "brace- (手臂)",
+        "words": [
+          "embrace"
+        ]
+      },
+      {
+        "root": "degree- (等级/步骤)",
+        "words": [
+          "degree"
+        ]
+      },
+      {
+        "root": "character- (特征)",
+        "words": [
+          "characteristic",
+          "character"
+        ]
+      },
+      {
+        "root": "augur- (预兆/开始)",
+        "words": [
+          "inaugurate"
+        ]
+      },
+      {
+        "root": "embed- (嵌入)",
+        "words": [
+          "embed"
+        ]
+      },
+      {
+        "root": "body- (身体)",
+        "words": [
+          "embody"
+        ]
+      },
+      {
+        "root": "thirst- (渴)",
+        "words": [
+          "thirst"
+        ]
+      },
+      {
+        "root": "hold- (举起/支持)",
+        "words": [
+          "uphold"
+        ]
+      },
+      {
+        "root": "fin- (结束/界限)",
+        "words": [
+          "definition",
+          "define",
+          "finite",
+          "definite",
+          "financial",
+          "finance"
+        ]
+      },
+      {
+        "root": "fiction- (虚构)",
+        "words": [
+          "fiction"
+        ]
+      },
+      {
+        "root": "figure- (形状/数字)",
+        "words": [
+          "figure"
+        ]
+      },
+      {
+        "root": "academic- (学术)",
+        "words": [
+          "academic"
+        ]
+      },
+      {
+        "root": "cid- (落下/发生)",
+        "words": [
+          "incidence",
+          "incident",
+          "incidentally"
+        ]
+      },
+      {
+        "root": "be- (使/成为)",
+        "words": [
+          "behaviour",
+          "behave",
+          "behalf"
+        ]
+      },
+      {
+        "root": "delay- (延迟)",
+        "words": [
+          "delay"
+        ]
+      },
+      {
+        "root": "else- (其他)",
+        "words": [
+          "elsewhere"
+        ]
+      },
+      {
+        "root": "fend- (打击/防御)",
+        "words": [
+          "defend",
+          "defy"
+        ]
+      },
+      {
+        "root": "vent- (风/冒险)",
+        "words": [
+          "venture",
+          "ventilate"
+        ]
+      },
+      {
+        "root": "widespread- (广泛的)",
+        "words": [
+          "widespread"
+        ]
+      },
+      {
+        "root": "elite- (精英)",
+        "words": [
+          "elite"
+        ]
+      },
+      {
+        "root": "firm- (坚定)",
+        "words": [
+          "firm"
+        ]
+      }
+    ]
+  },
+  "54793bc7c56365ce50b11c0f1bc2f9fe": {
+    "groups": [
+      {
+        "root": "ign- (未知/无知)",
+        "words": [
+          "ignorance",
+          "ignore",
+          "ignorant"
+        ]
+      },
+      {
+        "root": "mass- (大块/大量)",
+        "words": [
+          "massacre",
+          "mass",
+          "massive"
+        ]
+      },
+      {
+        "root": "para- (旁边/平行) + lysis (松开)",
+        "words": [
+          "paralysis",
+          "parallel"
+        ]
+      },
+      {
+        "root": "quaes- (寻求/询问)",
+        "words": [
+          "quest",
+          "questionnaire",
+          "quote",
+          "quit"
+        ]
+      },
+      {
+        "root": "imit- (模仿)",
+        "words": [
+          "imitate",
+          "imitation"
+        ]
+      },
+      {
+        "root": "harm- (伤害/和谐)",
+        "words": [
+          "harm",
+          "harmony",
+          "harsh"
+        ]
+      },
+      {
+        "root": "scheme (计划/图表)",
+        "words": [
+          "scheme",
+          "schedule"
+        ]
+      },
+      {
+        "root": "imagin- (想象)",
+        "words": [
+          "imaginative",
+          "imagination",
+          "imagine",
+          "imaginary",
+          "image"
+        ]
+      },
+      {
+        "root": "margin- (边缘)",
+        "words": [
+          "marginal",
+          "margin"
+        ]
+      },
+      {
+        "root": "part- (部分/分开)",
+        "words": [
+          "partly",
+          "part",
+          "partial",
+          "partner",
+          "participant",
+          "participate",
+          "particular",
+          "particle"
+        ]
+      },
+      {
+        "root": "off- (离开/偏移)",
+        "words": [
+          "offset",
+          "offspring",
+          "offend",
+          "offer"
+        ]
+      },
+      {
+        "root": "gift (礼物/天赋)",
+        "words": [
+          "gift",
+          "give"
+        ]
+      },
+      {
+        "root": "occup- (占据)",
+        "words": [
+          "occupation",
+          "occupy",
+          "occurrence",
+          "occur"
+        ]
+      },
+      {
+        "root": "sci- (知道/科学)",
+        "words": [
+          "scientific",
+          "scientist",
+          "science"
+        ]
+      },
+      {
+        "root": "span (跨度)",
+        "words": [
+          "span",
+          "spare"
+        ]
+      },
+      {
+        "root": "pass- (通过/感受)",
+        "words": [
+          "passive",
+          "passion"
+        ]
+      },
+      {
+        "root": "glamour (魅力/魔法)",
+        "words": [
+          "glamour"
+        ]
+      },
+      {
+        "root": "gener- (产生/种族)",
+        "words": [
+          "generation",
+          "genius",
+          "generator",
+          "genre",
+          "generate",
+          "generous"
+        ]
+      },
+      {
+        "root": "man- (手)",
+        "words": [
+          "manipulate",
+          "manage",
+          "management",
+          "manner",
+          "mandate",
+          "manifest"
+        ]
+      },
+      {
+        "root": "illustr- (照亮/说明)",
+        "words": [
+          "illustration",
+          "illustrate"
+        ]
+      },
+      {
+        "root": "leg- (法律/挑选)",
+        "words": [
+          "legal",
+          "legitimate",
+          "legislation",
+          "levy",
+          "lever",
+          "level"
+        ]
+      },
+      {
+        "root": "lead- (引导)",
+        "words": [
+          "leadership",
+          "lead",
+          "leading"
+        ]
+      },
+      {
+        "root": "ill- (坏/疾病)",
+        "words": [
+          "ill",
+          "illness",
+          "illusion"
+        ]
+      },
+      {
+        "root": "quick (快速)",
+        "words": [
+          "quick"
+        ]
+      },
+      {
+        "root": "gigant- (巨大)",
+        "words": [
+          "gigantic",
+          "giant"
+        ]
+      },
+      {
+        "root": "leisure (闲暇)",
+        "words": [
+          "leisure"
+        ]
+      },
+      {
+        "root": "paragraph (段落)",
+        "words": [
+          "paragraph"
+        ]
+      }
+    ]
+  },
+  "25f3eefac1d5d9e13156ee1dcd2fd0be": {
+    "groups": [
+      {
+        "root": "phon/phase/pha- (声音/说话/显现)",
+        "words": [
+          "tone",
+          "phase",
+          "phrase",
+          "phenomenon",
+          "philosophy",
+          "philosopher",
+          "sophisticated",
+          "emphasis"
+        ]
+      },
+      {
+        "root": "flor/flour/fl- (花/繁荣)",
+        "words": [
+          "flourish",
+          "flaw",
+          "fling"
+        ]
+      },
+      {
+        "root": "hither (这里) + to (到)",
+        "words": [
+          "hitherto"
+        ]
+      },
+      {
+        "root": "toll (税收/代价)",
+        "words": [
+          "toll"
+        ]
+      },
+      {
+        "root": "ratio/reason (理性/计算)",
+        "words": [
+          "reason",
+          "reasonable"
+        ]
+      },
+      {
+        "root": "scrib/script (写)",
+        "words": [
+          "description",
+          "describe"
+        ]
+      },
+      {
+        "root": "shelter (盾/庇护)",
+        "words": [
+          "shelter"
+        ]
+      },
+      {
+        "root": "corpor/corp (身体/团体)",
+        "words": [
+          "corporation",
+          "corporate"
+        ]
+      },
+      {
+        "root": "priv/prive (剥夺/个人)",
+        "words": [
+          "deprive",
+          "private"
+        ]
+      },
+      {
+        "root": "shap/shape (形状/创造)",
+        "words": [
+          "shape",
+          "sharp"
+        ]
+      },
+      {
+        "root": "ple/pli/plen (充满/实施)",
+        "words": [
+          "implement",
+          "imply",
+          "implication",
+          "implicit"
+        ]
+      },
+      {
+        "root": "beam (光束/横梁)",
+        "words": [
+          "beam"
+        ]
+      },
+      {
+        "root": "origin/orig (起源)",
+        "words": [
+          "original",
+          "origin",
+          "originate"
+        ]
+      },
+      {
+        "root": "sign (标记/指定)",
+        "words": [
+          "design",
+          "designate",
+          "design"
+        ]
+      },
+      {
+        "root": "set/sed (放置/固定)",
+        "words": [
+          "set",
+          "settle",
+          "setting",
+          "settlement",
+          "setback"
+        ]
+      },
+      {
+        "root": "pet/petit (寻求/请求)",
+        "words": [
+          "petition",
+          "compete"
+        ]
+      },
+      {
+        "root": "serv (服务/奴隶)",
+        "words": [
+          "serve",
+          "service",
+          "servant",
+          "deserve",
+          "desirable",
+          "desire"
+        ]
+      },
+      {
+        "root": "port (搬运/进口)",
+        "words": [
+          "import",
+          "important",
+          "importance"
+        ]
+      },
+      {
+        "root": "limit (界限)",
+        "words": [
+          "limitation",
+          "limited",
+          "limit"
+        ]
+      },
+      {
+        "root": "grow (生长)",
+        "words": [
+          "grown-up",
+          "grow",
+          "growth"
+        ]
+      },
+      {
+        "root": "pierc (刺穿)",
+        "words": [
+          "pierce"
+        ]
+      },
+      {
+        "root": "sow (播种)",
+        "words": [
+          "sow"
+        ]
+      },
+      {
+        "root": "press (压)",
+        "words": [
+          "impression",
+          "impressive",
+          "impress"
+        ]
+      },
+      {
+        "root": "top/topic (地方/主题)",
+        "words": [
+          "topic"
+        ]
+      },
+      {
+        "root": "phys (自然/身体)",
+        "words": [
+          "physical",
+          "physician"
+        ]
+      },
+      {
+        "root": "share (分享/份额)",
+        "words": [
+          "share"
+        ]
+      },
+      {
+        "root": "sever (分离/切断)",
+        "words": [
+          "several",
+          "severe"
+        ]
+      },
+      {
+        "root": "recent (新近的)",
+        "words": [
+          "recent"
+        ]
+      },
+      {
+        "root": "flect/flex (弯曲)",
+        "words": [
+          "flexible"
+        ]
+      },
+      {
+        "root": "part (部分/给予)",
+        "words": [
+          "impart"
+        ]
+      },
+      {
+        "root": "pair/pear (更坏/损害)",
+        "words": [
+          "impair"
+        ]
+      },
+      {
+        "root": "pos/pose (放置)",
+        "words": [
+          "impose"
+        ]
+      },
+      {
+        "root": "hint (暗示)",
+        "words": [
+          "hint"
+        ]
+      },
+      {
+        "root": "prove (证明/改进)",
+        "words": [
+          "improve"
+        ]
+      },
+      {
+        "root": "come (来/变成)",
+        "words": [
+          "become"
+        ]
+      },
+      {
+        "root": "puls/pel (推/驱动)",
+        "words": [
+          "impulse"
+        ]
+      },
+      {
+        "root": "sov/regn (统治/国王)",
+        "words": [
+          "sovereign"
+        ]
+      },
+      {
+        "root": "hinder (阻碍)",
+        "words": [
+          "hinder"
+        ]
+      },
+      {
+        "root": "pact (撞击/影响)",
+        "words": [
+          "impact"
+        ]
+      },
+      {
+        "root": "derive (流出/衍生)",
+        "words": [
+          "derive"
+        ]
+      }
+    ]
+  },
+  "143941af97ec39794650c28195b80c55": {
+    "groups": [
+      {
+        "root": "cap-, cip-, capt- (拿，抓，取)",
+        "words": [
+          "capable",
+          "capacity",
+          "capture",
+          "captive",
+          "catch",
+          "cater",
+          "case"
+        ]
+      },
+      {
+        "root": "cas-, cad-, cid- (落下，发生)",
+        "words": [
+          "casual",
+          "casualty",
+          "case",
+          "cause",
+          "occasion"
+        ]
+      },
+      {
+        "root": "cert- (确定，区分)",
+        "words": [
+          "certify",
+          "certain",
+          "certainty",
+          "certificate"
+        ]
+      },
+      {
+        "root": "medi- (中间)",
+        "words": [
+          "meditation",
+          "mediate",
+          "medium",
+          "immediate"
+        ]
+      },
+      {
+        "root": "element- (元素，基础)",
+        "words": [
+          "element",
+          "elementary",
+          "eliminate"
+        ]
+      },
+      {
+        "root": "ban-, bar- (禁止，阻挡)",
+        "words": [
+          "ban",
+          "bar",
+          "bargain",
+          "bare",
+          "barely",
+          "abolish"
+        ]
+      },
+      {
+        "root": "fact-, fect-, fic- (做，制造)",
+        "words": [
+          "fashion",
+          "fashionable",
+          "favo(u)r",
+          "favo(u)rite",
+          "favo(u)rable"
+        ]
+      },
+      {
+        "root": "sid-, sed-, sess- (坐，放置)",
+        "words": [
+          "site",
+          "situation",
+          "situate",
+          "sit",
+          "absorb",
+          "absence",
+          "absent"
+        ]
+      },
+      {
+        "root": "solv-, solut- (解开，放松)",
+        "words": [
+          "absolute",
+          "solve"
+        ]
+      },
+      {
+        "root": "leg-, lect- (选择，收集)",
+        "words": [
+          "elegant",
+          "dedicate",
+          "elaborate"
+        ]
+      },
+      {
+        "root": "caut- (小心，谨慎)",
+        "words": [
+          "caution",
+          "cautious",
+          "careful"
+        ]
+      },
+      {
+        "root": "celebr- (荣誉，赞美)",
+        "words": [
+          "celebrity",
+          "celebrate",
+          "ceremony"
+        ]
+      },
+      {
+        "root": "cast- (投掷，类别)",
+        "words": [
+          "cast",
+          "category"
+        ]
+      },
+      {
+        "root": "cresc-, cret- (生长，增加)",
+        "words": [
+          "decrease",
+          "increase"
+        ]
+      },
+      {
+        "root": "skept- (怀疑，观察)",
+        "words": [
+          "skeptical",
+          "sketch",
+          "skeleton"
+        ]
+      },
+      {
+        "root": "duc-, duct- (引导，拉)",
+        "words": [
+          "deduce",
+          "deduct",
+          "decline"
+        ]
+      },
+      {
+        "root": "deem- (判断，认为)",
+        "words": [
+          "deem"
+        ]
+      },
+      {
+        "root": "capit- (头)",
+        "words": [
+          "capital"
+        ]
+      },
+      {
+        "root": "cess-, ced- (走，让步)",
+        "words": [
+          "cease",
+          "absence",
+          "absent"
+        ]
+      },
+      {
+        "root": "ab- (分离，脱离)",
+        "words": [
+          "abroad",
+          "abolish",
+          "abstract"
+        ]
+      }
+    ]
+  },
+  "6c200bb9d6ba6ce2cec81256678d7f64": {
+    "groups": [
+      {
+        "root": "未知词根",
+        "words": [
+          "weak",
+          "undertake",
+          "weight",
+          "zone",
+          "talent",
+          "wander",
+          "tow",
+          "key",
+          "underestimate",
+          "welfare",
+          "weary",
+          "youth",
+          "underline",
+          "weird",
+          "zoom",
+          "teenager",
+          "whirl",
+          "whisper",
+          "underlie",
+          "weld",
+          "want",
+          "unexpected",
+          "way",
+          "wage",
+          "vanish",
+          "unlikely",
+          "toward(s)",
+          "unemployment",
+          "underlying",
+          "vague",
+          "uneasy",
+          "unlike",
+          "take",
+          "knit",
+          "track",
+          "weigh",
+          "taste",
+          "undergo",
+          "wear"
+        ]
+      },
+      {
+        "root": "vari",
+        "words": [
+          "variety",
+          "variation",
+          "vary",
+          "various",
+          "variance",
+          "variable"
+        ]
+      },
+      {
+        "root": "tend/tens/tent",
+        "words": [
+          "tentative",
+          "tend",
+          "tendency"
+        ]
+      },
+      {
+        "root": "techn",
+        "words": [
+          "technical",
+          "technician",
+          "technology",
+          "technique"
+        ]
+      },
+      {
+        "root": "term/termin",
+        "words": [
+          "terminal",
+          "term",
+          "terminate"
+        ]
+      },
+      {
+        "root": "temp/tempor",
+        "words": [
+          "temporary",
+          "temperature",
+          "temper",
+          "temporal"
+        ]
+      },
+      {
+        "root": "unus/uni",
+        "words": [
+          "unify",
+          "universal",
+          "unique",
+          "union",
+          "unusual",
+          "universe"
+        ]
+      },
+      {
+        "root": "val/valu",
+        "words": [
+          "valid",
+          "value",
+          "valuable"
+        ]
+      },
+      {
+        "root": "test",
+        "words": [
+          "testify"
+        ]
+      },
+      {
+        "root": "tract/trace",
+        "words": [
+          "trace",
+          "track"
+        ]
+      },
+      {
+        "root": "trad",
+        "words": [
+          "tradition"
+        ]
+      },
+      {
+        "root": "tempt",
+        "words": [
+          "temptation",
+          "tempt"
+        ]
+      },
+      {
+        "root": "vast",
+        "words": [
+          "vast"
+        ]
+      },
+      {
+        "root": "vain/van",
+        "words": [
+          "vain"
+        ]
+      },
+      {
+        "root": "under",
+        "words": [
+          "understanding",
+          "understand"
+        ]
+      },
+      {
+        "root": "target",
+        "words": [
+          "target"
+        ]
+      }
+    ]
+  },
+  "d93137622c4586901cda71b1f8df4530": {
+    "groups": [
+      {
+        "root": "cid/cis",
+        "words": [
+          "decisive",
+          "decision",
+          "decide"
+        ]
+      },
+      {
+        "root": "fail/fals",
+        "words": [
+          "failure",
+          "fail",
+          "falsify"
+        ]
+      },
+      {
+        "root": "bas",
+        "words": [
+          "basis",
+          "basic",
+          "base",
+          "basement"
+        ]
+      },
+      {
+        "root": "fasc",
+        "words": [
+          "fascinate"
+        ]
+      },
+      {
+        "root": "gain",
+        "words": [
+          "gain"
+        ]
+      },
+      {
+        "root": "fabr/fabric",
+        "words": [
+          "fabricate",
+          "fabric"
+        ]
+      },
+      {
+        "root": "gamb",
+        "words": [
+          "gamble"
+        ]
+      },
+      {
+        "root": "dat",
+        "words": [
+          "database",
+          "date",
+          "data"
+        ]
+      },
+      {
+        "root": "abil/able",
+        "words": [
+          "ability",
+          "able"
+        ]
+      },
+      {
+        "root": "educ",
+        "words": [
+          "education",
+          "educate"
+        ]
+      },
+      {
+        "root": "fect",
+        "words": [
+          "effective",
+          "effect"
+        ]
+      },
+      {
+        "root": "shift",
+        "words": [
+          "shift"
+        ]
+      },
+      {
+        "root": "deal",
+        "words": [
+          "deal",
+          "dealer"
+        ]
+      },
+      {
+        "root": "bal",
+        "words": [
+          "balance"
+        ]
+      },
+      {
+        "root": "show",
+        "words": [
+          "show",
+          "shower"
+        ]
+      },
+      {
+        "root": "calm",
+        "words": [
+          "calm"
+        ]
+      },
+      {
+        "root": "calc",
+        "words": [
+          "calculate"
+        ]
+      },
+      {
+        "root": "camp",
+        "words": [
+          "campaign"
+        ]
+      },
+      {
+        "root": "eco",
+        "words": [
+          "economy",
+          "economic",
+          "economics",
+          "economical"
+        ]
+      },
+      {
+        "root": "gen",
+        "words": [
+          "general",
+          "gene",
+          "generaliz(s)e"
+        ]
+      },
+      {
+        "root": "shoulder",
+        "words": [
+          "shoulder"
+        ]
+      },
+      {
+        "root": "cand",
+        "words": [
+          "candidate"
+        ]
+      },
+      {
+        "root": "fici",
+        "words": [
+          "efficiency",
+          "efficient"
+        ]
+      },
+      {
+        "root": "dazz",
+        "words": [
+          "dazzle"
+        ]
+      },
+      {
+        "root": "effort",
+        "words": [
+          "effort"
+        ]
+      },
+      {
+        "root": "norm",
+        "words": [
+          "abnormal"
+        ]
+      },
+      {
+        "root": "habit",
+        "words": [
+          "habit",
+          "habitat"
+        ]
+      },
+      {
+        "root": "bat",
+        "words": [
+          "debate"
+        ]
+      },
+      {
+        "root": "fact",
+        "words": [
+          "factor"
+        ]
+      },
+      {
+        "root": "fall",
+        "words": [
+          "fall"
+        ]
+      },
+      {
+        "root": "fancy",
+        "words": [
+          "fancy"
+        ]
+      },
+      {
+        "root": "fair",
+        "words": [
+          "fair",
+          "fairly"
+        ]
+      },
+      {
+        "root": "shield",
+        "words": [
+          "shield"
+        ]
+      },
+      {
+        "root": "abide",
+        "words": [
+          "abide"
+        ]
+      },
+      {
+        "root": "dec",
+        "words": [
+          "decade"
+        ]
+      },
+      {
+        "root": "hand",
+        "words": [
+          "handicap"
+        ]
+      },
+      {
+        "root": "fan",
+        "words": [
+          "fan"
+        ]
+      },
+      {
+        "root": "back",
+        "words": [
+          "background"
+        ]
+      },
+      {
+        "root": "decor",
+        "words": [
+          "decorate"
+        ]
+      },
+      {
+        "root": "abandon",
+        "words": [
+          "abandon"
+        ]
+      },
+      {
+        "root": "face",
+        "words": [
+          "face"
+        ]
+      },
+      {
+        "root": "gap",
+        "words": [
+          "gap"
+        ]
+      },
+      {
+        "root": "call",
+        "words": [
+          "call"
+        ]
+      },
+      {
+        "root": "hamper",
+        "words": [
+          "hamper"
+        ]
+      },
+      {
+        "root": "fade",
+        "words": [
+          "fade"
+        ]
+      }
+    ]
+  },
+  "4c80edb1259233c224775696858fe015": {
+    "groups": [
+      {
+        "root": "the/theo",
+        "words": [
+          "theme",
+          "therapy",
+          "theoretical",
+          "theory"
+        ]
+      },
+      {
+        "root": "journ",
+        "words": [
+          "journey",
+          "journalist",
+          "journal"
+        ]
+      },
+      {
+        "root": "ident/id",
+        "words": [
+          "identical",
+          "ideal",
+          "ideology",
+          "identity",
+          "identify",
+          "identification"
+        ]
+      },
+      {
+        "root": "radi",
+        "words": [
+          "radiant",
+          "radical",
+          "radiate"
+        ]
+      },
+      {
+        "root": "scen",
+        "words": [
+          "scenery",
+          "scene"
+        ]
+      },
+      {
+        "root": "qual",
+        "words": [
+          "qualify",
+          "quality",
+          "qualification",
+          "qualitative"
+        ]
+      },
+      {
+        "root": "main/man",
+        "words": [
+          "maintain",
+          "maintenance"
+        ]
+      },
+      {
+        "root": "prov/prob",
+        "words": [
+          "provided",
+          "provide",
+          "prove"
+        ]
+      },
+      {
+        "root": "later",
+        "words": [
+          "lateral",
+          "latter"
+        ]
+      },
+      {
+        "root": "sav/safe",
+        "words": [
+          "safeguard",
+          "save",
+          "safety",
+          "saving"
+        ]
+      },
+      {
+        "root": "major/magn",
+        "words": [
+          "magnify",
+          "majority",
+          "magnitude",
+          "major",
+          "magnificent"
+        ]
+      },
+      {
+        "root": "just/jud",
+        "words": [
+          "jury",
+          "justify",
+          "judg(e)ment",
+          "justice",
+          "judge",
+          "jurisdiction",
+          "judicial"
+        ]
+      },
+      {
+        "root": "ob",
+        "words": [
+          "object",
+          "obtain",
+          "obsession",
+          "obvious",
+          "objective",
+          "obsolete",
+          "oblige",
+          "objection",
+          "observe"
+        ]
+      },
+      {
+        "root": "leg/law",
+        "words": [
+          "law",
+          "lawsuit"
+        ]
+      },
+      {
+        "root": "scale",
+        "words": [
+          "scale"
+        ]
+      },
+      {
+        "root": "pan",
+        "words": [
+          "panorama",
+          "panel"
+        ]
+      },
+      {
+        "root": "pace",
+        "words": [
+          "pace"
+        ]
+      },
+      {
+        "root": "label",
+        "words": [
+          "label"
+        ]
+      },
+      {
+        "root": "savage",
+        "words": [
+          "savage"
+        ]
+      },
+      {
+        "root": "lag",
+        "words": [
+          "lag"
+        ]
+      },
+      {
+        "root": "make",
+        "words": [
+          "make"
+        ]
+      },
+      {
+        "root": "larg",
+        "words": [
+          "largely"
+        ]
+      }
+    ]
+  }
+}
