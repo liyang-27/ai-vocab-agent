@@ -4,7 +4,7 @@ import axios from 'axios';
 const apiClient = axios.create({
   //baseURL: 'http://127.0.0.1:8000',
   // 改成你的 cpolar 后端地址
-  baseURL: 'http://8.136.191.166:8000',
+  baseURL: 'https://8.136.191.166:8000',
 
   headers: {
     'Content-Type': 'application/json',
