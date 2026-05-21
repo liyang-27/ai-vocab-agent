@@ -18,7 +18,7 @@ import { ref, computed, nextTick, onMounted, onUnmounted } from 'vue';
 import * as echarts from 'echarts';
 
 // 导入我们定义的 API 交互函数，负责和后端 FastAPI 通信
-import { uploadWord, saveVocab, getVocabList, groupRoots, generateRootGraph, saveStudyRecord, getStudyRecords, generateTestDict, saveTestRecord, getTestRecords, getSimilarWords} from './api';
+import { uploadWord, saveVocab, getVocabList, groupRoots, generateRootGraph, saveStudyRecord, getStudyRecords, generateTestDict, saveTestRecord, getTestRecords, getSimilarWords, generateTestStory} from './api';
 
 // 定义视图状态类型和当前视图变量
 type ViewState = 'home' | 'upload' | 'recite-setup' | 'recite-learning' | 'report' | 'history' | 'test-setup' | 'test-learning' | 'test-report';
@@ -33,7 +33,9 @@ const vocabBooks = ref<any>({});
 
 // 页面一打开就加载书架数据
 onMounted(async () => {
+  console.log("正在尝试加载书架数据..."); // 加这行调试代码
   const res = await getVocabList();
+  console.log("后端返回的书架数据:", res); // 
   if (res.success) vocabBooks.value = res.data;
 });
 
@@ -442,7 +444,8 @@ const currentTestWord = ref('');
 const testDict = ref<Record<string, any>>({});
 const showTestAnswer = ref(false); // 控制是否展示释义
 const testStats = ref({ known: 0, unknown: 0 }); // 统计一次过和错误的数量
-
+const testStory = ref('');
+const storyLoading = ref(false);
 // 启动测试
 const startTesting = async () => {
   if (!selectedBook.value || !selectedUnit.value) return;
@@ -509,6 +512,27 @@ const handleTestAnswer = (know: boolean) => {
 const confirmNextTestWord = () => {
   if (testQueue.value.length === 0) finishTest();
   else nextTestWord();
+};
+
+const generateStory = async () => {
+  // 获取所有在本次测试中记录过时长或被标记过不认识的单词
+  // 这里用 Object.keys(wordTimeLog.value) 获取所有参与过测试的单词
+  const unknownWords = Object.keys(wordTimeLog.value); 
+  if (unknownWords.length === 0) return alert("还没有需要记忆的单词！");
+  
+  storyLoading.value = true;
+  try {
+    const res = await generateTestStory(unknownWords); // 调用 api.ts 里的接口
+    if (res.success) {
+      testStory.value = res.story;
+    } else {
+      alert("故事生成失败: " + res.error);
+    }
+  } catch (e) {
+    alert("网络异常");
+  } finally {
+    storyLoading.value = false;
+  }
 };
 
 const finishTest = async () => {
@@ -951,6 +975,19 @@ const finishTest = async () => {
               <span class="text-sm text-gray-500">{{ testDict[word]?.definition }}</span>
             </div>
             <span class="text-sm font-black text-orange-500 bg-orange-100 px-3 py-1 rounded-full">{{ sec }} 秒</span>
+          </div>
+        </div>
+
+        <!-- 【新增功能】串联故事记忆 -->
+        <div class="mt-8 p-6 bg-indigo-50 rounded-xl border border-indigo-100">
+          <h3 class="text-lg font-bold text-indigo-900 mb-4">💡 AI 错词故事记忆法</h3>
+          <button @click="generateStory" :disabled="storyLoading"
+            class="w-full px-6 py-3 bg-indigo-600 text-white rounded-lg font-bold hover:bg-indigo-700 transition shadow-sm">
+            {{ storyLoading ? '正在编织故事...' : '将错词串联成小故事记忆' }}
+          </button>
+          
+          <div v-if="testStory" class="mt-6 p-4 bg-white rounded-lg border border-indigo-200 text-gray-700 leading-relaxed italic animate-fade-in-up">
+            {{ testStory }}
           </div>
         </div>
 

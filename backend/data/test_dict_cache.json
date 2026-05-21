@@ -3762,5 +3762,811 @@
       "memory_trick": "联想 'fail'（失败）和 'dead'（死亡），失败的东西会逐渐消失，最终像死去一样褪去色彩。",
       "example": "The colors of the old photograph have faded over time, but the memories remain vivid. 这张旧照片的颜色随时间褪色了，但记忆依然鲜明。"
     }
+  },
+  "红宝书_Unit 2(1)": {
+    "vacuum": {
+      "definition": "真空；真空吸尘器；空白；空虚",
+      "phonetic": "/ˈvækjuːm/",
+      "memory_trick": "vac（空）+ uum（名词后缀）→ 完全空的状态 → 真空",
+      "example": "The scientist created a perfect vacuum inside the glass chamber for the experiment. （科学家在玻璃腔内制造了完美的真空用于实验。）"
+    },
+    "vacation": {
+      "definition": "假期；休假；度假",
+      "phonetic": "/veɪˈkeɪʃn/",
+      "memory_trick": "vac（空）+ ation（名词后缀）→ 空出来的时间 → 假期",
+      "example": "We are planning a family vacation to the mountains next summer. （我们计划明年夏天去山区家庭度假。）"
+    },
+    "vaccine": {
+      "definition": "疫苗；菌苗",
+      "phonetic": "/ˈvæksiːn/",
+      "memory_trick": "vac（空）+ cine（与牛相关）→ 原指从牛痘中提取的使病毒变空的物质 → 疫苗",
+      "example": "The new vaccine has been proven effective against multiple strains of the virus. （这种新疫苗已被证明对多种病毒株有效。）"
+    },
+    "vacant": {
+      "definition": "空着的；空缺的；茫然的",
+      "phonetic": "/ˈveɪkənt/",
+      "memory_trick": "vac（空）+ ant（形容词后缀）→ 空的 → 空着的",
+      "example": "The old house has been vacant for years, covered in dust and cobwebs. （那栋老房子空置多年，布满灰尘和蜘蛛网。）"
+    },
+    "uncover": {
+      "definition": "v. 揭开，揭露；发现",
+      "phonetic": "/ʌnˈkʌvər/",
+      "memory_trick": "un（相反）+ cover（覆盖）→ 把覆盖的东西反过来 → 揭开",
+      "example": "The detective worked tirelessly to uncover the truth behind the mysterious disappearance. 侦探不知疲倦地工作，以揭开神秘失踪背后的真相。"
+    },
+    "unanimous": {
+      "definition": "adj. 全体一致的，一致同意的",
+      "phonetic": "/juːˈnænɪməs/",
+      "memory_trick": "un（一个）+ anim（精神，心灵）+ ous（形容词后缀）→ 同一个心灵 → 意见一致",
+      "example": "The committee reached a unanimous decision to approve the new policy after hours of debate. 经过数小时的辩论，委员会一致决定批准这项新政策。"
+    },
+    "agony": {
+      "definition": "巨大的痛苦或折磨（尤指精神或身体上的）",
+      "phonetic": "/ˈæɡəni/",
+      "memory_trick": "联想 'ag'（行动）+ 'ony'（像 'only'），'只有行动才能带来痛苦'，或想象一个人因持续行动而筋疲力尽、痛苦不堪。",
+      "example": "The patient endured the agony of the long recovery with remarkable courage. (这位病人以非凡的勇气忍受了漫长康复过程中的巨大痛苦。)"
+    },
+    "agency": {
+      "definition": "代理机构；代理行为；作用力",
+      "phonetic": "/ˈeɪdʒənsi/",
+      "memory_trick": "词根'ag'（行动）+ 'ency'（名词后缀，表状态或机构），'行动的机构'即代理处，或理解为'代替他人行动的组织'。",
+      "example": "The travel agency arranged a customized tour that perfectly matched our preferences. (这家旅行社安排了一次完全符合我们喜好的定制旅行。)"
+    },
+    "agenda": {
+      "definition": "议事日程；待办事项清单",
+      "phonetic": "/əˈdʒendə/",
+      "memory_trick": "词根'ag'（行动）+ 'enda'（拉丁语动名词后缀，表'必须做的事'），即'需要被行动的事项清单'。",
+      "example": "The first item on the agenda was a discussion about budget allocation for the upcoming project. (议程上的第一项是关于即将开展的项目预算分配的讨论。)"
+    },
+    "paradigm": {
+      "definition": "范例；范式；典范",
+      "phonetic": "/ˈpærədaɪm/",
+      "memory_trick": "para（旁边）+ digm（展示）→ 放在旁边展示的模型 → 范例",
+      "example": "His approach became a paradigm for future research in the field. (他的方法成为该领域未来研究的典范。)"
+    },
+    "parade": {
+      "definition": "游行；阅兵；展示",
+      "phonetic": "/pəˈreɪd/",
+      "memory_trick": "par（准备）+ ade（行动）→ 准备好列队行动 → 游行",
+      "example": "The annual parade attracted thousands of spectators along the main street. (一年一度的游行吸引了主街两旁数千名观众。)"
+    },
+    "parasite": {
+      "definition": "寄生虫；寄生生物",
+      "phonetic": "/ˈpærəsaɪt/",
+      "memory_trick": "para（旁边）+ site（食物）→ 在别人食物旁边蹭吃 → 寄生虫",
+      "example": "The parasite feeds on the host's blood, weakening it over time. (寄生虫以宿主的血液为食，逐渐削弱宿主。)"
+    },
+    "parliament": {
+      "definition": "议会；国会",
+      "phonetic": "/ˈpɑːrləmənt/",
+      "memory_trick": "parl（说话）+ iament（场所）→ 说话讨论的地方 → 议会",
+      "example": "The new law was debated in parliament for several weeks before being approved. (新法律在议会辩论了数周后才获得批准。)"
+    },
+    "pardon": {
+      "definition": "原谅；赦免",
+      "phonetic": "/ˈpɑːrdn/",
+      "memory_trick": "par（完全）+ don（给予）→ 完全给予（宽恕）→ 原谅",
+      "example": "He asked for pardon after accidentally breaking the vase. (他无意中打碎花瓶后请求原谅。)"
+    },
+    "parcel": {
+      "definition": "包裹；一块（土地）",
+      "phonetic": "/ˈpɑːrsl/",
+      "memory_trick": "par（部分）+ cel（小）→ 分出来的一小部分 → 包裹",
+      "example": "The delivery man left a parcel on the doorstep this morning. (快递员今早在门口留下了一个包裹。)"
+    },
+    "paradox": {
+      "definition": "悖论；自相矛盾的话",
+      "phonetic": "/ˈpærədɑːks/",
+      "memory_trick": "para（超越）+ dox（观点）→ 超越常规观点的说法 → 悖论",
+      "example": "It is a paradox that the more you learn, the more you realize how little you know. (你学得越多，就越意识到自己知之甚少，这是一个悖论。)"
+    },
+    "paradise": {
+      "definition": "天堂；乐园；极乐",
+      "phonetic": "/ˈpærədaɪs/",
+      "memory_trick": "para（周围）+ dise（围墙）→ 被围墙围住的完美地方 → 乐园",
+      "example": "The tropical island felt like a paradise with its white sand and clear water. (这个热带岛屿拥有白色沙滩和清澈海水，宛如天堂。)"
+    },
+    "palm": {
+      "definition": "手掌；棕榈树；手心；（作为胜利象征的）棕榈叶",
+      "phonetic": "/pɑːm/",
+      "memory_trick": "想象你用手掌（palm）轻轻拍打棕榈树（palm）的树干，发出'啪'（pa）的声音，最后手掌上沾满了'木'（m）屑。",
+      "example": "He held the small bird gently in the palm of his hand. 他轻轻地把小鸟托在手心里。"
+    },
+    "sample": {
+      "definition": "样品；样本；实例",
+      "phonetic": "/ˈsæmpəl/",
+      "memory_trick": "谐音'三破'→ 打破三个样品才能找到完美的一个",
+      "example": "The researcher took a blood sample from each participant to analyze the genetic markers. 研究者从每位参与者身上抽取血样以分析遗传标记。"
+    },
+    "obedient": {
+      "definition": "顺从的，听话的，服从的",
+      "phonetic": "/əˈbiːdiənt/",
+      "memory_trick": "想象一只狗听到主人说'obey'后立刻坐下，表现出 obedient（顺从）的样子。",
+      "example": "The obedient student always follows the teacher's instructions without question. （这个顺从的学生总是毫无质疑地遵循老师的指示。）"
+    },
+    "obey": {
+      "definition": "服从，遵守，听从",
+      "phonetic": "/əˈbeɪ/",
+      "memory_trick": "把 'obey' 拆成 'O'（哦）和 'bay'（海湾），想象一个人在海湾边听到命令后说'哦，我服从'。",
+      "example": "Citizens must obey the laws to maintain social order. （公民必须遵守法律以维持社会秩序。）"
+    },
+    "obedience": {
+      "definition": "服从，顺从，遵守",
+      "phonetic": "/əˈbiːdiəns/",
+      "memory_trick": "与 'obedient' 同源，把 'obedience' 联想为'哦，别抵赖，顺从是必须的'。",
+      "example": "The dog's obedience to its owner's commands earned it a treat. （这只狗对主人命令的服从让它得到了奖励。）"
+    },
+    "wake": {
+      "definition": "醒来；唤醒",
+      "phonetic": "/weɪk/",
+      "example": "I wake up at 7 every morning."
+    },
+    "keyboard": {
+      "definition": "键盘",
+      "phonetic": "/ˈkiːbɔːrd/",
+      "example": "She types quickly on the keyboard."
+    },
+    "oar": {
+      "definition": "桨；橹",
+      "phonetic": "/ɔːr/",
+      "example": "He pulled the oar through the water."
+    },
+    "naughty": {
+      "definition": "顽皮的；不听话的",
+      "phonetic": "/ˈnɔːti/",
+      "example": "The naughty boy hid his sister's toy."
+    },
+    "yawn": {
+      "definition": "打哈欠",
+      "phonetic": "/jɔːn/",
+      "example": "He couldn't stop yawning during the meeting."
+    },
+    "lace": {
+      "definition": "蕾丝；系带",
+      "phonetic": "/leɪs/",
+      "example": "She tied her shoes with a white lace."
+    },
+    "lad": {
+      "definition": "少年；小伙子",
+      "phonetic": "/læd/",
+      "example": "The young lad helped his father in the garden."
+    },
+    "pamphlet": {
+      "definition": "小册子",
+      "phonetic": "/ˈpæmflɪt/",
+      "example": "They handed out a pamphlet about the event."
+    },
+    "sarcastic": {
+      "definition": "讽刺的；挖苦的",
+      "phonetic": "/sɑːrˈkæstɪk/",
+      "example": "His sarcastic comment hurt her feelings."
+    },
+    "paper": {
+      "definition": "纸；论文",
+      "phonetic": "/ˈpeɪpər/",
+      "example": "Please write your name on the paper."
+    },
+    "yet": {
+      "definition": "还；已经；然而",
+      "phonetic": "/jet/",
+      "example": "She hasn't finished her homework yet."
+    },
+    "sacred": {
+      "definition": "神圣的；宗教的",
+      "phonetic": "/ˈseɪkrɪd/",
+      "example": "This temple is a sacred place."
+    },
+    "lamb": {
+      "definition": "羔羊；小羊",
+      "phonetic": "/læm/",
+      "example": "The lamb followed its mother closely."
+    },
+    "paint": {
+      "definition": "油漆；绘画",
+      "phonetic": "/peɪnt/",
+      "example": "She loves to paint landscapes."
+    },
+    "zero": {
+      "definition": "零；零点",
+      "phonetic": "/ˈzɪroʊ/",
+      "example": "The temperature dropped to zero last night."
+    },
+    "pain": {
+      "definition": "疼痛；痛苦",
+      "phonetic": "/peɪn/",
+      "example": "He felt a sharp pain in his back."
+    },
+    "valve": {
+      "definition": "阀门；活门",
+      "phonetic": "/vælv/",
+      "example": "The plumber replaced the broken valve."
+    },
+    "waken": {
+      "definition": "唤醒；醒来",
+      "phonetic": "/ˈweɪkən/",
+      "example": "The noise wakened him from his sleep."
+    },
+    "waist": {
+      "definition": "腰；腰部",
+      "phonetic": "/weɪst/",
+      "example": "She wore a belt around her waist."
+    },
+    "nail": {
+      "definition": "指甲；钉子",
+      "phonetic": "/neɪl/",
+      "example": "He hammered a nail into the wall."
+    },
+    "sacrifice": {
+      "definition": "牺牲；献祭",
+      "phonetic": "/ˈsækrɪfaɪs/",
+      "example": "Parents often make sacrifices for their children."
+    },
+    "magnet": {
+      "definition": "磁铁；磁石",
+      "phonetic": "/ˈmæɡnɪt/",
+      "example": "The magnet attracted the metal pins."
+    },
+    "oath": {
+      "definition": "誓言；宣誓",
+      "phonetic": "/oʊθ/",
+      "example": "He took an oath to tell the truth."
+    },
+    "wage": {
+      "definition": "工资；报酬",
+      "phonetic": "/weɪdʒ/",
+      "example": "She earns a good wage at the factory."
+    },
+    "magnetic": {
+      "definition": "有磁性的；有吸引力的",
+      "phonetic": "/mæɡˈnetɪk/",
+      "example": "The magnetic field is invisible."
+    },
+    "yell": {
+      "definition": "叫喊；大喊",
+      "phonetic": "/jel/",
+      "example": "He yelled for help when he fell."
+    },
+    "machinery": {
+      "definition": "机器；机械装置",
+      "phonetic": "/məˈʃiːnəri/",
+      "example": "The factory uses heavy machinery."
+    },
+    "ultraviolet": {
+      "definition": "紫外线的",
+      "phonetic": "/ˌʌltrəˈvaɪəlɪt/",
+      "example": "Ultraviolet light can cause sunburn."
+    },
+    "pale": {
+      "definition": "苍白的；暗淡的",
+      "phonetic": "/peɪl/",
+      "example": "She looked pale after the illness."
+    },
+    "sane": {
+      "definition": "神智健全的；明智的",
+      "phonetic": "/seɪn/",
+      "example": "He is a sane and rational person."
+    },
+    "parameter": {
+      "definition": "参数；参量",
+      "phonetic": "/pəˈræmɪtər/",
+      "example": "We need to adjust the parameters of the experiment."
+    },
+    "sack": {
+      "definition": "麻袋；解雇",
+      "phonetic": "/sæk/",
+      "example": "He carried a sack of potatoes."
+    },
+    "obesity": {
+      "definition": "肥胖；过度肥胖",
+      "phonetic": "/oʊˈbiːsəti/",
+      "example": "Obesity is a major health problem."
+    },
+    "zeal": {
+      "definition": "热情；热忱",
+      "phonetic": "/ziːl/",
+      "example": "She approached her work with great zeal."
+    },
+    "painter": {
+      "definition": "画家；油漆工",
+      "phonetic": "/ˈpeɪntər/",
+      "example": "The painter created a beautiful mural."
+    },
+    "lamp": {
+      "definition": "灯；台灯",
+      "phonetic": "/læmp/",
+      "example": "She turned on the lamp to read."
+    },
+    "pact": {
+      "definition": "协定；条约",
+      "phonetic": "/pækt/",
+      "example": "The two countries signed a peace pact."
+    },
+    "machine": {
+      "definition": "机器；机械",
+      "phonetic": "/məˈʃiːn/",
+      "example": "The machine prints 100 pages per minute."
+    },
+    "X-ray": {
+      "definition": "X光；X射线",
+      "phonetic": "/ˈeks reɪ/",
+      "example": "The doctor ordered an X-ray of his chest."
+    },
+    "paddle": {
+      "definition": "桨；划桨",
+      "phonetic": "/ˈpædl/",
+      "example": "They used a paddle to steer the canoe."
+    },
+    "paperback": {
+      "definition": "平装书；纸面本",
+      "phonetic": "/ˈpeɪpərbæk/",
+      "example": "I prefer paperback books to hardcovers."
+    },
+    "napkin": {
+      "definition": "餐巾；餐巾纸",
+      "phonetic": "/ˈnæpkɪn/",
+      "example": "She placed a napkin on her lap."
+    },
+    "main": {
+      "definition": "主要的；主要的管道",
+      "phonetic": "/meɪn/",
+      "example": "The main road is closed for repairs."
+    },
+    "lack": {
+      "definition": "缺乏；不足",
+      "phonetic": "/læk/",
+      "example": "There is a lack of water in the desert."
+    },
+    "naive": {
+      "definition": "天真的；幼稚的",
+      "phonetic": "/naɪˈiːv/",
+      "example": "She was naive to trust him completely."
+    },
+    "yard": {
+      "definition": "院子；码",
+      "phonetic": "/jɑːrd/",
+      "example": "The children played in the yard."
+    },
+    "umbrella": {
+      "definition": "雨伞；伞",
+      "phonetic": "/ʌmˈbrelə/",
+      "example": "Don't forget your umbrella; it's raining."
+    },
+    "mainland": {
+      "definition": "大陆；本土",
+      "phonetic": "/ˈmeɪnlænd/",
+      "example": "They traveled from the island to the mainland."
+    },
+    "ugly": {
+      "definition": "丑陋的；难看的",
+      "phonetic": "/ˈʌɡli/",
+      "example": "The building was old and ugly."
+    },
+    "namely": {
+      "definition": "即；也就是",
+      "phonetic": "/ˈneɪmli/",
+      "example": "He mentioned one problem, namely the cost."
+    },
+    "naked": {
+      "definition": "裸体的；赤裸的",
+      "phonetic": "/ˈneɪkɪd/",
+      "example": "The baby was naked in the bath."
+    },
+    "magistrate": {
+      "definition": "地方法官；治安官",
+      "phonetic": "/ˈmædʒɪstreɪt/",
+      "example": "The magistrate sentenced him to a fine."
+    },
+    "nap": {
+      "definition": "小睡；打盹",
+      "phonetic": "/næp/",
+      "example": "He took a short nap after lunch."
+    },
+    "sandwich": {
+      "definition": "三明治；夹心面包",
+      "phonetic": "/ˈsændwɪtʃ/",
+      "example": "She made a ham sandwich for lunch."
+    },
+    "pack": {
+      "definition": "包装；打包；背包",
+      "phonetic": "/pæk/",
+      "example": "He packed his suitcase for the trip."
+    },
+    "zip": {
+      "definition": "拉链；拉上",
+      "phonetic": "/zɪp/",
+      "example": "Please zip your jacket; it's cold."
+    },
+    "pad": {
+      "definition": "垫子；便签本",
+      "phonetic": "/pæd/",
+      "example": "She wrote notes on a pad of paper."
+    },
+    "mad": {
+      "definition": "疯狂的；生气的",
+      "phonetic": "/mæd/",
+      "example": "He was mad at his brother for breaking the toy."
+    },
+    "parachute": {
+      "definition": "降落伞",
+      "phonetic": "/ˈpærəʃuːt/",
+      "example": "The soldier jumped with a parachute."
+    },
+    "painful": {
+      "definition": "疼痛的；痛苦的",
+      "phonetic": "/ˈpeɪnfəl/",
+      "example": "The injury was very painful."
+    },
+    "package": {
+      "definition": "包裹；包装",
+      "phonetic": "/ˈpækɪdʒ/",
+      "example": "The package arrived in the mail."
+    },
+    "pant": {
+      "definition": "喘气；喘息",
+      "phonetic": "/pænt/",
+      "example": "He was panting after the long run."
+    },
+    "sanction": {
+      "definition": "制裁；批准",
+      "phonetic": "/ˈsæŋkʃən/",
+      "example": "The UN imposed sanctions on the country."
+    },
+    "saddle": {
+      "definition": "马鞍；鞍座",
+      "phonetic": "/ˈsædl/",
+      "example": "He put the saddle on the horse."
+    },
+    "panic": {
+      "definition": "恐慌；惊慌",
+      "phonetic": "/ˈpænɪk/",
+      "example": "The fire caused panic among the crowd."
+    },
+    "pair": {
+      "definition": "一对；一双",
+      "phonetic": "/per/",
+      "example": "She bought a pair of shoes."
+    },
+    "labor": {
+      "definition": "劳动；工作",
+      "phonetic": "/ˈleɪbər/",
+      "example": "The workers labored in the fields."
+    },
+    "yearly": {
+      "definition": "每年的；一年一度的",
+      "phonetic": "/ˈjɪrli/",
+      "example": "We have a yearly meeting in December."
+    },
+    "maiden": {
+      "definition": "少女；未婚女子",
+      "phonetic": "/ˈmeɪdn/",
+      "example": "The maiden wore a white dress."
+    },
+    "magic": {
+      "definition": "魔法；魔术",
+      "phonetic": "/ˈmædʒɪk/",
+      "example": "The magician performed magic tricks."
+    },
+    "lame": {
+      "definition": "跛的；无说服力的",
+      "phonetic": "/leɪm/",
+      "example": "He gave a lame excuse for being late."
+    },
+    "satellite": {
+      "definition": "卫星；人造卫星",
+      "phonetic": "/ˈsætəlaɪt/",
+      "example": "The satellite orbits the Earth."
+    },
+    "keen": {
+      "definition": "渴望的；敏锐的",
+      "phonetic": "/kiːn/",
+      "example": "She has a keen interest in art."
+    }
+  },
+  "红宝书_Unit 1(1)": {
+    "manufacture": {
+      "definition": "制造；生产；编造",
+      "phonetic": "/ˌmænjuˈfæktʃər/",
+      "memory_trick": "manu（手）+ fact（做）+ ure → 用手做 → 制造",
+      "example": "The company plans to manufacture electric vehicles in a new eco-friendly factory. 这家公司计划在一家新的环保工厂制造电动汽车。"
+    },
+    "manuscript": {
+      "definition": "手稿；原稿",
+      "phonetic": "/ˈmænjuskrɪpt/",
+      "memory_trick": "manu（手）+ script（写）→ 手写的东西 → 手稿",
+      "example": "The author submitted his manuscript to the publisher after three years of revisions. 作者在修改三年后将手稿提交给了出版商。"
+    },
+    "manual": {
+      "definition": "手册；指南；手工的；体力的",
+      "phonetic": "/ˈmænjuəl/",
+      "memory_trick": "manu（手）+ al（形容词后缀）→ 与手有关的 → 手册（用手翻阅）",
+      "example": "Before operating the machine, please read the safety manual carefully. 操作机器前，请仔细阅读安全手册。"
+    },
+    "manoeuvre": {
+      "definition": "策略；调动；操纵；演习",
+      "phonetic": "/məˈnuːvər/",
+      "memory_trick": "man（手）+ oeuvre（工作）→ 用手操作 → 操纵；也可联想' maneuver'（美式拼写）",
+      "example": "The driver had to perform a tricky manoeuvre to park in the tight space. 司机不得不做一个棘手的操作才能停进那个狭窄的空间。"
+    },
+    "obstacle": {
+      "definition": "障碍物，妨碍",
+      "phonetic": "/ˈɑːbstəkl/",
+      "memory_trick": "ob（反对）+ struct（建造）+ -acle（名词后缀）→ 在前进道路上建造反对的东西 → 障碍物。想象你正在跑步，突然有人在你面前堆了一堵墙，那就是 obstacle。",
+      "example": "The greatest obstacle to progress is often the fear of failure. (进步的最大障碍往往是害怕失败。)"
+    },
+    "obstruction": {
+      "definition": "阻塞，阻碍；障碍物",
+      "phonetic": "/əbˈstrʌkʃn/",
+      "memory_trick": "ob（反对）+ struct（建造）+ -ion（名词后缀）→ 建造起来反对你通行的东西 → 阻塞。想象水管里被杂物堵住，水无法流通，那就是 obstruction。",
+      "example": "The heavy snowfall caused a major obstruction on the highway, delaying commuters for hours. (大雪导致高速公路严重阻塞，通勤者被延误数小时。)"
+    },
+    "obstruct": {
+      "definition": "阻塞，阻碍；妨碍",
+      "phonetic": "/əbˈstrʌkt/",
+      "memory_trick": "ob（反对）+ struct（建造）→ 建造障碍来反对 → 阻塞。动词形式，主动地制造障碍。比如故意挡住别人的去路。",
+      "example": "Tall buildings obstruct the view of the mountains from the city center. (高楼大厦遮挡了从市中心看山的视线。)"
+    },
+    "odd": {
+      "definition": "奇怪的；古怪的；单数的；零头的；偶尔的",
+      "phonetic": "/ɒd/",
+      "memory_trick": "联想'哦，这是奇数（odd）'，或者用'odd'和'even（偶数）'对比记忆，奇数是'多余'的那个。",
+      "example": "He has a remarkable ability to learn new languages quickly, which seems odd for someone who never studied abroad. （他学习新语言的能力惊人，对于一个从未出国学习的人来说，这似乎有些奇怪。）"
+    },
+    "odds": {
+      "definition": "可能性；几率；优势；差额；不和",
+      "phonetic": "/ɒdz/",
+      "memory_trick": "'odd'的复数形式，但意思转向'可能性、几率'，可以联想'奇数（odd）在赌博中常代表概率'。",
+      "example": "The odds of winning the lottery are extremely low, but that doesn't stop millions from trying. （中彩票的几率极低，但这并不能阻止数百万人尝试。）"
+    },
+    "impatient": {
+      "definition": "不耐烦的；急躁的；无法忍受的",
+      "phonetic": "/ɪmˈpeɪʃənt/",
+      "memory_trick": "im-（否定）+ patient（耐心的）= 没有耐心的，即'不耐烦的'。想象一个人不停看表、跺脚的样子。",
+      "example": "He became impatient waiting for the bus, pacing back and forth on the sidewalk. 他等公交车时变得不耐烦，在人行道上踱来踱去。"
+    },
+    "hard": {
+      "definition": "硬的；困难的；努力的；严厉的",
+      "phonetic": "/hɑːrd/",
+      "memory_trick": "想象一块坚硬的石头（hard rock），你用力敲打它，它却纹丝不动，记住'硬'就是hard。",
+      "example": "The diamond is one of the hardest natural materials known to man. (钻石是人类已知的最硬天然材料之一。)"
+    },
+    "hardware": {
+      "definition": "硬件；五金器具",
+      "phonetic": "/ˈhɑːrdwer/",
+      "memory_trick": "hard（硬的）+ ware（器具）= 硬件，想象电脑中那些坚硬的金属零件就是hardware。",
+      "example": "The company specializes in manufacturing computer hardware components. (这家公司专门制造计算机硬件组件。)"
+    },
+    "hardly": {
+      "definition": "几乎不；刚刚；严厉地",
+      "phonetic": "/ˈhɑːrdli/",
+      "memory_trick": "hard（困难地）+ ly（副词后缀）= 几乎不，想象做一件事困难到几乎无法完成，就是hardly。",
+      "example": "She could hardly believe her eyes when she saw the surprise party. (当她看到惊喜派对时，几乎不敢相信自己的眼睛。)"
+    },
+    "hardship": {
+      "definition": "艰难；困苦",
+      "phonetic": "/ˈhɑːrdʃɪp/",
+      "memory_trick": "hard（困难的）+ ship（状态）= 困难的状态，即困苦。想象一个人航行在暴风雨中，经历重重困难就是hardship。",
+      "example": "The family endured great hardship during the economic crisis. (这个家庭在经济危机期间经历了巨大的困苦。)"
+    },
+    "harden": {
+      "definition": "变硬；硬化；使坚强",
+      "phonetic": "/ˈhɑːrdn/",
+      "memory_trick": "hard（硬的）+ en（使动后缀）= 使变硬。想象水泥从软变硬的过程就是harden。",
+      "example": "The steel must be heated and then cooled quickly to harden it properly. (钢材必须加热然后快速冷却才能适当硬化。)"
+    },
+    "pedal": {
+      "definition": "踏板；脚蹬；踩踏板",
+      "phonetic": "/ˈpedl/",
+      "memory_trick": "ped（脚）+ al（后缀）= 用脚操作的东西 → 踏板",
+      "example": "She pressed the pedal gently to accelerate the car smoothly. 她轻轻踩下油门踏板，让汽车平稳加速。"
+    },
+    "pedestrian": {
+      "definition": "行人；步行的；缺乏想象力的",
+      "phonetic": "/pəˈdestriən/",
+      "memory_trick": "ped（脚）+ estrian（复合后缀）= 用脚走路的人 → 行人",
+      "example": "The pedestrian waited patiently at the crosswalk for the light to turn green. 行人在人行横道耐心等待绿灯亮起。"
+    },
+    "scrutiny": {
+      "definition": "仔细而彻底的检查或审视；细察",
+      "phonetic": "/ˈskruːtəni/",
+      "memory_trick": "想象一个侦探（s）在暗处（cru）用探照灯（tiny）仔细检查每个角落，不放过任何细节。",
+      "example": "The scientist placed the data under intense scrutiny to ensure no errors remained. 科学家对数据进行了严密的审查，以确保没有遗留任何错误。"
+    },
+    "scissors": {
+      "definition": "剪刀，一种用于切割纸张、布料等的两刃工具",
+      "phonetic": "/ˈsɪzərz/",
+      "memory_trick": "想象用剪刀（scissors）剪开（sciss）一张纸，声音像'撕纸'（siz）",
+      "example": "She carefully trimmed the edges of the photograph with a pair of scissors. 她小心地用剪刀修剪了照片的边缘。"
+    },
+    "heroine": {
+      "definition": "女英雄；女主角",
+      "phonetic": "/ˈhɛrəʊɪn/",
+      "memory_trick": "hero（英雄）+ ine（阴性后缀）= 女性英雄，就像电影中的神奇女侠。",
+      "example": "The novel's heroine overcomes countless obstacles to find her true love. 这部小说的女主角克服了无数障碍，找到了真爱。"
+    },
+    "heroic": {
+      "definition": "英雄的；英勇的；壮丽的",
+      "phonetic": "/hɪˈrəʊɪk/",
+      "memory_trick": "hero（英雄）+ ic（形容词后缀）= 英雄般的，像超级英雄一样勇敢。",
+      "example": "He has a remarkable ability to learn new languages quickly, which is a heroic effort for someone his age. 他拥有快速学习新语言的非凡能力，对于他这个年龄的人来说，这是一种英雄般的努力。"
+    },
+    "verge": {
+      "definition": "n. 边缘，边界；v. 濒临，接近（某种状态）",
+      "phonetic": "/vɜːrdʒ/",
+      "memory_trick": "想象一个斜坡（verg）的顶端，你站在'边缘'（verge）上，再往前一步就会'倾斜'下去。",
+      "example": "He has a remarkable ability to learn new languages quickly, and his progress often verges on the extraordinary. (他有着快速学习新语言的非凡能力，他的进步常常近乎超常。)"
+    },
+    "telegraph": {
+      "definition": "电报；电报机；用电报发送（信息）",
+      "phonetic": "/ˈtelɪɡræf/",
+      "memory_trick": "tele（远距离）+ graph（书写）→ 远距离书写 → 电报",
+      "example": "The invention of the telegraph revolutionized long-distance communication in the 19th century. 电报的发明在19世纪彻底改变了远距离通信。"
+    },
+    "imperative": {
+      "definition": "必要的；紧急的；命令式的；祈使语气",
+      "phonetic": "/ɪmˈperətɪv/",
+      "memory_trick": "im（进入）+ per（完全）+ ative（形容词后缀）→ 进入完全命令状态→ 必须做的，紧急的。",
+      "example": "It is imperative that we finish the report before the deadline. 我们在截止日期前完成报告是至关重要的。"
+    },
+    "imperial": {
+      "definition": "帝国的；皇帝的；威严的；宏大的",
+      "phonetic": "/ɪmˈpɪriəl/",
+      "memory_trick": "imper（命令、统治）+ ial（形容词后缀）→ 与统治相关的→ 帝国的，皇帝的。",
+      "example": "The imperial palace stood as a symbol of centuries-old authority. 这座皇宫矗立着，象征着数百年的权威。"
+    },
+    "odor": {
+      "definition": "气味；臭味；迹象",
+      "phonetic": "/ˈoʊdər/",
+      "memory_trick": "联想'欧德'（谐音）——欧洲的老德（德国）啤酒有种特殊的气味，记住这个词就是记住那种独特的味道。",
+      "example": "The kitchen was filled with the pleasant odor of freshly baked bread. 厨房里弥漫着新鲜出炉面包的宜人气味。"
+    },
+    "sector": {
+      "definition": "部门；领域；扇形；部分",
+      "phonetic": "/ˈsektər/",
+      "memory_trick": "sect（切割）+ or（名词后缀）→ 被切割出来的部分 → 部门或扇形区域。想象一个圆形蛋糕被切成一块块扇形，每一块就是一个 sector。",
+      "example": "The technology sector has seen rapid growth over the past decade. (科技部门在过去十年中经历了快速增长。)"
+    },
+    "secondary": {
+      "definition": "次要的；第二的；中等的",
+      "phonetic": "/ˈsekənderi/",
+      "memory_trick": "sec（切割）+ ond（序数词根）+ ary（形容词后缀）→ 从主要部分切割出来的 → 次要的。想象主路和支路，支路就是 secondary road。",
+      "example": "Her primary concern is safety, while cost is only a secondary consideration. (她首要关心的是安全，而成本只是次要考虑因素。)"
+    },
+    "section": {
+      "definition": "部分；章节；区域；截面",
+      "phonetic": "/ˈsekʃn/",
+      "memory_trick": "sect（切割）+ ion（名词后缀）→ 切割后的结果 → 部分或章节。想象一本书被切割成不同章节，每一章就是一个 section。",
+      "example": "Please read the first section of the report before the meeting. (请在会议前阅读报告的第一部分。)"
+    },
+    "telescope": {
+      "definition": "望远镜；一种用于观察远处物体的光学仪器",
+      "phonetic": "/ˈtelɪskəʊp/",
+      "memory_trick": "tele（远）+ scope（观察）→ 远距离观察的工具，想象伽利略仰望星空的样子。",
+      "example": "He has a remarkable ability to learn new languages quickly. 中文翻译：他具有快速学习新语言的非凡能力。"
+    },
+    "tell": {
+      "definition": "告诉；讲述；辨别；命令；产生效果",
+      "phonetic": "/tel/",
+      "memory_trick": "联想'tell'与'tale'同源，想象你在'讲述'（tell）一个古老的'故事'（tale），两者发音相似，帮助记忆。",
+      "example": "Can you tell me the truth about what happened last night? 你能告诉我昨晚发生了什么真相吗？"
+    },
+    "tease": {
+      "definition": "取笑；戏弄；挑逗；梳理（头发）",
+      "phonetic": "/tiːz/",
+      "memory_trick": "'tease'与'tell'同源，但词义演变：从'讲述'到'用言语挑逗或戏弄'，想象一个人'讲述'（tell）一些玩笑话来'戏弄'（tease）别人。",
+      "example": "The children like to tease their little brother by hiding his toys. 孩子们喜欢通过藏起弟弟的玩具来逗弄他。"
+    },
+    "seal": {
+      "definition": "n. 印章；封条；海豹；vt. 密封；盖章；决定",
+      "phonetic": "/siːl/",
+      "memory_trick": "想象在信封上盖一个圆形印章（seal），印章的图案是一只海豹（seal）的剪影，记住 'seal' 既是印章也是海豹。",
+      "example": "The ambassador placed his official seal on the treaty document to confirm the agreement. 大使在条约文件上盖了他的官方印章以确认协议。"
+    },
+    "velocity": {
+      "definition": "速度，速率（尤指沿特定方向的矢量速率）",
+      "phonetic": "/vəˈlɒsəti/",
+      "memory_trick": "联想 'veloc'（快速）+ 'ity'（名词后缀）→ 速度就是'快'的程度；也可记作've（车辆） + loc（位置）'→ 车辆位置变化快慢。",
+      "example": "The car reached a velocity of 120 kilometers per hour on the highway. 这辆汽车在高速公路上达到了每小时120公里的速度。"
+    },
+    "harassment": {
+      "definition": "骚扰行为；困扰；烦恼",
+      "phonetic": "/həˈræsmənt/",
+      "memory_trick": "拆解为 'harass'（骚扰）+ 'ment'（名词后缀），想象一个人被不断'哈拉'（harass）追着跑，最终变成'门特'（ment）般的心理阴影。",
+      "example": {
+        "en": "The company has a strict policy against any form of workplace harassment.",
+        "zh": "公司对任何形式的工作场所骚扰行为都有严格的政策。"
+      }
+    },
+    "harbour": {
+      "definition": "港口；避难所；庇护；心怀（情感）",
+      "phonetic": "/ˈhɑːrbər/",
+      "memory_trick": "想象一艘船在暴风雨中驶入一个宁静的港口（harbour），就像在酒吧（bar）里找到庇护所，harbour = har（像her） + bour（像bar），记住'她的酒吧'就是安全的避风港。",
+      "example": "The old fisherman decided to harbour the stray cat in his small boat shed. 老渔夫决定在他的小船棚里庇护那只流浪猫。"
+    },
+    "scrape": {
+      "definition": "v. 刮，擦；刮去；擦伤；n. 刮擦声；擦伤；困境",
+      "phonetic": "英 [skreɪp] 美 [skreɪp]",
+      "memory_trick": "想象一只猫在木地板上'scrape'（刮）它的爪子，发出刺耳的声音，同时地面上留下'scrap'（碎片）。",
+      "example": "He had to scrape the ice off the car windshield before driving to work this morning. 他今天早上开车上班前，不得不把冰从汽车挡风玻璃上刮掉。"
+    },
+    "scrap": {
+      "definition": "n. 碎片，小块；废料，废品；争吵；v. 废弃，抛弃；打架",
+      "phonetic": "英 [skræp] 美 [skræp]",
+      "memory_trick": "把'scrap'拆成's'+'crap'，'crap'是废物，所以'scrap'就是'一点点废物'——碎片、废料。",
+      "example": "The old car was sold to a junkyard for scrap metal after it broke down completely. 那辆旧车彻底抛锚后，被卖给了废品站当作废金属处理。"
+    },
+    "tear": {
+      "definition": "撕裂；撕破；撕掉",
+      "phonetic": "/tɛr/",
+      "memory_trick": "想象一张纸被两只手用力向两边拉扯，发出'tear'的声音，就是撕裂的动作。",
+      "example": "She carefully tore the letter into small pieces to ensure no one could read it. 她小心地将信撕成碎片，以确保没人能读到它。"
+    },
+    "lane": {
+      "definition": "小巷；车道；航道",
+      "phonetic": "/leɪn/",
+      "memory_trick": "想象一条狭窄的巷子（lane）里，只有一盏灯（lamp）照亮，记住 'lane' 和 'lamp' 发音相似但含义不同。",
+      "example": "He turned into a narrow lane behind the old church, where the cobblestones were slick with rain. (他拐进老教堂后面一条狭窄的小巷，那里的鹅卵石被雨水打得很滑。)"
+    },
+    "occasion": {
+      "definition": "时刻，场合；重大活动；机会，时机",
+      "phonetic": "/əˈkeɪʒn/",
+      "memory_trick": "拆解为 'occ'（发生）+ 'asion'（像行动），想象某个行动发生的特定时刻。",
+      "example": "He seized the occasion to express his gratitude to the team. 他抓住这个机会向团队表达了感谢。"
+    },
+    "occasional": {
+      "definition": "偶尔的，间或发生的；临时的",
+      "phonetic": "/əˈkeɪʒənl/",
+      "memory_trick": "由 'occasion'（场合）加 '-al'（形容词后缀）构成，表示只在某些场合才发生的，即偶尔的。",
+      "example": "He makes occasional trips to the countryside to relax. 他偶尔去乡下放松一下。"
+    },
+    "lap": {
+      "definition": "（跑道的）一圈；（旅程的）一段；膝部（坐下时大腿的上方）；重叠部分",
+      "phonetic": "/læp/",
+      "memory_trick": "想象小猫蜷缩在你的膝盖（lap）上，形成一个温暖的'圈'，同时它的尾巴轻轻'重叠'在你的手臂上。",
+      "example": "He completed the final lap of the race with remarkable speed. 他以惊人的速度完成了比赛的最后一圈。"
+    },
+    "veil": {
+      "definition": "面纱；遮蔽物；掩饰；遮盖",
+      "phonetic": "/veɪl/",
+      "memory_trick": "想象一位新娘戴着白色面纱（veil）走过教堂，面纱遮住了她的脸，就像单词中的字母 'v' 形似两片垂下的布料，中间藏着新娘的容颜。",
+      "example": "The bride lifted her delicate lace veil to kiss her groom, revealing a radiant smile. 新娘掀起精致的蕾丝面纱亲吻新郎，露出了灿烂的笑容。"
+    },
+    "vein": {
+      "definition": "静脉；叶脉；矿脉；纹理；风格",
+      "phonetic": "/veɪn/",
+      "memory_trick": "想象一条蓝色的血管（vein）在皮肤下蜿蜒，像河流（vein 与 rain 押韵）一样流淌。",
+      "example": "The geologist discovered a rich vein of gold deep underground. 地质学家在地下深处发现了一条丰富的金矿脉。"
+    },
+    "seam": {
+      "definition": "n. 缝，接缝；v. 缝合，接合",
+      "phonetic": "/siːm/",
+      "memory_trick": "想象'sea'（大海）和'm'（像波浪），大海的波浪像一条缝线连接着海面。",
+      "example": "The tailor carefully pressed the seam of the dress to make it lie flat. 裁缝仔细熨平裙子的接缝，使其平整。"
+    },
+    "lash": {
+      "definition": "鞭打；猛击；捆绑；睫毛；严厉谴责",
+      "phonetic": "/læʃ/",
+      "memory_trick": "想象一根鞭子（lash）像闪电（flash）一样快速抽打，注意'l'和'ash'组合仿佛鞭子划破空气的咻咻声。",
+      "example": "The storm lashed the coast with fierce winds and heavy rain. 暴风雨以狂风暴雨猛烈袭击了海岸。"
+    },
+    "scold": {
+      "definition": "责骂，斥责",
+      "phonetic": "/skəʊld/",
+      "example": "She scolded her son for breaking the window."
+    },
+    "impetus": {
+      "definition": "推动力，促进因素",
+      "phonetic": "/ˈɪmpɪtəs/",
+      "example": "The new policy gave an impetus to economic growth."
+    },
+    "versatile": {
+      "definition": "多才多艺的，多功能的",
+      "phonetic": "/ˈvɜːrsətl/",
+      "example": "She is a versatile musician who can play several instruments."
+    },
+    "vertical": {
+      "definition": "垂直的，竖立的",
+      "phonetic": "/ˈvɜːrtɪkl/",
+      "example": "The vertical line divides the page into two columns."
+    }
   }
 }

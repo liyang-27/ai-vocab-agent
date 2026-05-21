@@ -29,17 +29,22 @@ class GraphRAGService:
         """增强版 JSON 提取，专治大模型各种乱加格式的毛病"""
         # 1. 暴力清除 Markdown 标签
         clean_text = text.replace("```json", "").replace("```", "").strip()
+        clean_text = clean_text.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
+        clean_text = re.sub(r'//.*?$|/\*.*?\*/', '', clean_text, flags=re.S | re.M)
+        clean_text = re.sub(r',(?=\s*[}\]])', '', clean_text)
+
         try:
             return json.loads(clean_text)
-        except:
+        except Exception:
             pass
             
         # 2. 截取法：精准定位第一个 { 和最后一个 }，丢弃所有废话
         try:
-            start = text.find("{")
-            end = text.rfind("}")
+            start = clean_text.find("{")
+            end = clean_text.rfind("}")
             if start != -1 and end != -1 and end > start:
-                json_str = text[start:end+1]
+                json_str = clean_text[start:end+1]
+                json_str = re.sub(r',(?=\s*[}\]])', '', json_str)
                 return json.loads(json_str)
         except Exception as e:
             print(f"JSON 解析彻底失败: {e}\n原始返回文本: {text}")
@@ -58,7 +63,7 @@ class GraphRAGService:
         {
             "groups": [
                 {"root": "dict (说)", "words": ["dictionary", "predict", "contradict"]},
-                {"root": "未知词根", "words": ["apple", "banana"]},
+                {"root": "other", "words": ["apple", "banana"]},
                 {"root": "port (搬运)", "words": ["portable"]}
             ]
         }
@@ -79,9 +84,10 @@ class GraphRAGService:
         【规则】
         1. 识别每个单词的核心词根（通常来自拉丁语或希腊语），忽略前缀和后缀。
         2. 同一词根的单词应归为一组。词根名称使用“英语词根 (中文含义)”的格式，例如 "dict (说)", "scrib (写)", "spect (看)"。
-        3. 如果某个单词的词根不明显或过于特殊，归入 "未知词根" 组。
-        4. 必须严格按照 JSON 格式输出，不要输出任何额外解释。
-        5. 如果一组里只有一个单词，允许保留该组，也可以放入“未知词根”。
+        3. 必须严格按照 JSON 格式输出，不要输出任何额外解释。
+        4. 确保所有单词必须被分配到具体的组中，不允许遗漏。
+        5.一个词根最多只能有8个单词。
+    
 
         {examples}
 
@@ -90,12 +96,16 @@ class GraphRAGService:
 
         输出 JSON：
         """
-        response = llm_agent.llm.invoke([HumanMessage(content=prompt)])
-        result = self.extract_json(response.content)
+        try:
+            response = llm_agent.llm.invoke([SystemMessage(content="只输出合法JSON"), HumanMessage(content=prompt)])
+            result = self.extract_json(response.content)
+        except Exception as e:
+            print(f"LLM 调用失败: {e}")
+            return {"groups": [{"root": "other", "words": words}]}
         
         # 兜底：如果解析失败或没有 groups 字段，返回一个默认分组
         if not result or "groups" not in result:
-            return {"groups": [{"root": "默认词根", "words": words}]}
+            return {"groups": [{"root": "other", "words": words}]}
         
         # 可选：合并相同词根的组（防止 LLM 输出多个同义词根但名称略有不同）
         merged = {}
@@ -140,9 +150,13 @@ class GraphRAGService:
             "links":[ {{"source": "root_1", "target": "word_1"}} ]
         }}
         """
-        response = llm_agent.llm.invoke([SystemMessage(content="只输出合法JSON"), HumanMessage(content=prompt)])
-        result = self.extract_json(response.content)
-        return result if result else {"error": "生成图谱失败"}
+        try:
+            response = llm_agent.llm.invoke([SystemMessage(content="只输出合法JSON"), HumanMessage(content=prompt)])
+            result = self.extract_json(response.content)
+            return result if result else {"error": "生成图谱失败"}
+        except Exception as e:
+            print(f"LLM 调用失败（生成图谱）: {e}")
+            return {"error": "Connection error."}
 
     def generate_test_dictionary(self, words: list[str]) -> dict:
         """为测试模式批量生成单元词典（支持前端瞬间展示释义）"""
@@ -212,5 +226,28 @@ class GraphRAGService:
 
         print(f"--- 🎯 精准碰撞结果: {final_hits} ---")
         return final_hits[:top_k]
+        
+    def generate_test_story(self, words: list[str]) -> str:
+        """调用 LLM 将遗忘的单词编织成一个逻辑连贯的故事"""
+        if not words:
+            return "没有需要复习的单词。"
+            
+        prompt = f"""
+        你是一位英语故事写作者。
+        请用以下单词写 3 到 5 句非常简单的英文句子，帮助学习者记忆：
+        {", ".join(words)}
+        要求：
+        1. 使用简单词汇和短句，不要使用复杂的单词或句式。
+        2. 不要使用星号、加粗或任何 Markdown 格式。
+        3. 不要以 "Here’s a short, humorous English story using your words:" 这样的句子开头。
+        4. 每个英文句子后面直接在句子中用括号给出中文意思。
+        5. 不要在故事后面单独写翻译，要将翻译嵌入到句子中。
+        """
+        try:
+            from langchain_core.messages import HumanMessage
+            response = llm_agent.llm.invoke([HumanMessage(content=prompt)])
+            return response.content
+        except Exception as e:
+            return f"故事生成失败: {str(e)}"
         
 graph_rag_agent = GraphRAGService()

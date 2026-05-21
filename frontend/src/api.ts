@@ -4,7 +4,7 @@ import axios from 'axios';
 const apiClient = axios.create({
   //baseURL: 'http://127.0.0.1:8000',
   // 改成你的 cpolar 后端地址
-  baseURL: '',
+  baseURL: 'http://41265f78.r9.vip.cpolar.cn',
 
   headers: {
     'Content-Type': 'application/json',
@@ -92,5 +92,11 @@ export const getTestRecords = async () => {
 // 获取近义词的函数，接收一个单词作为参数
 export const getSimilarWords = async (word: string) => {
   const res = await apiClient.post('/api/vocab/similar', { word });
+  return res.data;
+};
+
+// 生成测试故事的函数，接收一个单词数组作为参数
+export const generateTestStory = async (words: string[]) => {
+  const res = await apiClient.post('/api/test/generate-story', words);
   return res.data;
 };

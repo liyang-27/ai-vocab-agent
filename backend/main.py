@@ -450,7 +450,16 @@ def get_similar_vocab(req: SimilarWordRequest):
     except Exception as e:
         print(f"❌ 相似词接口崩溃: {str(e)}")
         return {"success": False, "error": str(e)}
-                                   
+
+# 将不认识的单词串联成一篇小文章 (通过 Service 调用)
+@app.post("/api/test/generate-story")
+def generate_test_story_endpoint(req: list[str]):
+    try:
+        story = graph_rag_agent.generate_test_story(req)
+        return {"success": True, "story": story}
+    except Exception as e:
+        return {"success": False, "error": str(e)}     
+                                  
 if __name__ == "__main__":
     import uvicorn
 
