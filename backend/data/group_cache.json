@@ -656,5 +656,327 @@
         ]
       }
     ]
+  },
+  "9686052284857fd4848da781a497fe0b": {
+    "groups": [
+      {
+        "root": "per",
+        "words": [
+          "perfume",
+          "permission",
+          "permanent",
+          "permit",
+          "peninsula",
+          "penetrate",
+          "penny",
+          "permeate"
+        ]
+      },
+      {
+        "root": "coars",
+        "words": [
+          "coarse"
+        ]
+      },
+      {
+        "root": "age",
+        "words": [
+          "age"
+        ]
+      },
+      {
+        "root": "ward",
+        "words": [
+          "warn",
+          "warrant",
+          "wardrobe",
+          "ward",
+          "warfare",
+          "warranty"
+        ]
+      },
+      {
+        "root": "temp/tempo",
+        "words": [
+          "tension",
+          "tense",
+          "temple",
+          "tenant",
+          "tempo",
+          "tender",
+          "tent",
+          "tendency"
+        ]
+      },
+      {
+        "root": "pens/pend",
+        "words": [
+          "pension",
+          "penny",
+          "penalty"
+        ]
+      },
+      {
+        "root": "aer/aeri",
+        "words": [
+          "aerial"
+        ]
+      },
+      {
+        "root": "quant",
+        "words": [
+          "quantity",
+          "quantitative",
+          "quantify"
+        ]
+      },
+      {
+        "root": "then",
+        "words": [
+          "therefore",
+          "then",
+          "thereafter",
+          "thereby"
+        ]
+      },
+      {
+        "root": "shine",
+        "words": [
+          "shock",
+          "shot",
+          "shoot",
+          "shine"
+        ]
+      },
+      {
+        "root": "blank",
+        "words": [
+          "blanket",
+          "blank"
+        ]
+      },
+      {
+        "root": "veter",
+        "words": [
+          "veteran"
+        ]
+      },
+      {
+        "root": "radio",
+        "words": [
+          "radioactive",
+          "radius",
+          "radiation",
+          "radio"
+        ]
+      },
+      {
+        "root": "in",
+        "words": [
+          "injury",
+          "injure",
+          "inject",
+          "inland"
+        ]
+      },
+      {
+        "root": "sew",
+        "words": [
+          "sew"
+        ]
+      },
+      {
+        "root": "short",
+        "words": [
+          "shorthand",
+          "shortage",
+          "shortcoming"
+        ]
+      },
+      {
+        "root": "sem/sen",
+        "words": [
+          "senate",
+          "semiconductor",
+          "semester",
+          "senator"
+        ]
+      },
+      {
+        "root": "cogn",
+        "words": [
+          "cognitive"
+        ]
+      },
+      {
+        "root": "people",
+        "words": [
+          "people"
+        ]
+      },
+      {
+        "root": "session/sess",
+        "words": [
+          "sentence",
+          "session",
+          "sentiment"
+        ]
+      },
+      {
+        "root": "ink",
+        "words": [
+          "ink"
+        ]
+      },
+      {
+        "root": "shiver",
+        "words": [
+          "shiver"
+        ]
+      },
+      {
+        "root": "veto",
+        "words": [
+          "veto"
+        ]
+      },
+      {
+        "root": "light",
+        "words": [
+          "lightning",
+          "light"
+        ]
+      },
+      {
+        "root": "ware",
+        "words": [
+          "warehouse"
+        ]
+      },
+      {
+        "root": "gallery/galax",
+        "words": [
+          "gallery",
+          "galaxy"
+        ]
+      },
+      {
+        "root": "race/racial",
+        "words": [
+          "racial",
+          "race"
+        ]
+      },
+      {
+        "root": "peel/peep",
+        "words": [
+          "peel",
+          "peep"
+        ]
+      },
+      {
+        "root": "ship",
+        "words": [
+          "shipment"
+        ]
+      },
+      {
+        "root": "racket/rack/rag",
+        "words": [
+          "rack",
+          "racket",
+          "rag"
+        ]
+      },
+      {
+        "root": "vest",
+        "words": [
+          "vest"
+        ]
+      },
+      {
+        "root": "raid/rage",
+        "words": [
+          "rage",
+          "raid"
+        ]
+      },
+      {
+        "root": "coach",
+        "words": [
+          "coach"
+        ]
+      },
+      {
+        "root": "against",
+        "words": [
+          "against"
+        ]
+      },
+      {
+        "root": "after",
+        "words": [
+          "afterward(s)"
+        ]
+      },
+      {
+        "root": "shove",
+        "words": [
+          "shove"
+        ]
+      },
+      {
+        "root": "warmth",
+        "words": [
+          "warmth"
+        ]
+      },
+      {
+        "root": "affluent",
+        "words": [
+          "affluent"
+        ]
+      },
+      {
+        "root": "coal",
+        "words": [
+          "coalition"
+        ]
+      },
+      {
+        "root": "shore",
+        "words": [
+          "shore"
+        ]
+      },
+      {
+        "root": "seminar",
+        "words": [
+          "seminar"
+        ]
+      },
+      {
+        "root": "temple",
+        "words": [
+          "temple"
+        ]
+      },
+      {
+        "root": "sentiment",
+        "words": [
+          "sentiment"
+        ]
+      },
+      {
+        "root": "other",
+        "words": [
+          "tension",
+          "tense",
+          "tenant",
+          "tender",
+          "tent"
+        ]
+      }
+    ]
   }
 }

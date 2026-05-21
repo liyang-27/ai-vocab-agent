@@ -3792,5 +3792,2203 @@
         "target": "word_2"
       }
     ]
+  },
+  "红宝书_Unit 3(1)_per": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "per",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语介词和前缀'per'，基本含义为'通过、贯穿、完全、彻底'。在英语中，它常表示'从头到尾'、'完全地'或'穿透'的概念，并引申出'持续'、'渗透'、'允许'等语义。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "perfume",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "香水；香气；使…充满香气",
+          "phonetic": "/ˈpɜːr.fjuːm/",
+          "memory_trick": "per（贯穿）+ fume（烟雾）→ 香气像烟雾一样弥漫贯穿整个空间",
+          "example": "The garden was filled with the sweet perfume of blooming roses. 花园里弥漫着盛开的玫瑰的甜美香气。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "permission",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "许可；允许；批准",
+          "phonetic": "/pərˈmɪʃ.ən/",
+          "memory_trick": "per（完全）+ miss（发送）+ ion（名词后缀）→ 完全发送出去，即给予通行许可",
+          "example": "You need to ask for permission before using the conference room. 使用会议室之前你需要请求许可。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "permanent",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "永久的；长期的；固定的",
+          "phonetic": "/ˈpɜːr.mə.nənt/",
+          "memory_trick": "per（贯穿）+ man（手）+ ent（形容词后缀）→ 一直握在手中不放开，即永久的",
+          "example": "She decided to get a permanent job in the city after years of freelancing. 经过多年的自由职业后，她决定在城市里找一份固定的工作。"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "permit",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "允许；许可；许可证",
+          "phonetic": "/pərˈmɪt/",
+          "memory_trick": "per（通过）+ mit（发送）→ 发送通过，即允许进入或做某事",
+          "example": "The security guard will not permit anyone to enter without a valid ID. 保安不会允许任何人没有有效身份证件进入。"
+        }
+      },
+      {
+        "id": "word_5",
+        "name": "peninsula",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "半岛",
+          "phonetic": "/pəˈnɪn.sjə.lə/",
+          "memory_trick": "pen（几乎）+ insula（岛）→ 几乎是岛（三面环水，一面连接大陆），即半岛",
+          "example": "The Italian peninsula is famous for its rich history and delicious cuisine. 意大利半岛以其悠久的历史和美味的菜肴而闻名。"
+        }
+      },
+      {
+        "id": "word_6",
+        "name": "penetrate",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "穿透；渗透；洞察",
+          "phonetic": "/ˈpen.ə.treɪt/",
+          "memory_trick": "pen（几乎）+ etr（进入，源自拉丁语intrare）+ ate（动词后缀）→ 几乎完全进入，即穿透",
+          "example": "The sunlight managed to penetrate the thick curtains in the old room. 阳光设法穿透了旧房间厚厚的窗帘。"
+        }
+      },
+      {
+        "id": "word_7",
+        "name": "penny",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "便士（英国货币单位）；一分钱",
+          "phonetic": "/ˈpen.i/",
+          "memory_trick": "与'pen'（笔）发音相近，但拼写不同；想象一枚便士硬币上刻着一支笔（pen）的图案，帮助记忆拼写",
+          "example": "He found a penny on the sidewalk and picked it up for good luck. 他在人行道上发现了一枚便士，捡起来以求好运。"
+        }
+      },
+      {
+        "id": "word_8",
+        "name": "permeate",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "渗透；弥漫；遍布",
+          "phonetic": "/ˈpɜːr.mi.eɪt/",
+          "memory_trick": "per（贯穿）+ me（我）+ ate（吃）→ 想象一种气味'贯穿'并'吃'掉我周围的空间，即弥漫渗透",
+          "example": "A sense of calm permeated the entire room after the meditation session. 冥想课程之后，一种平静感弥漫了整个房间。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      },
+      {
+        "source": "root_1",
+        "target": "word_5"
+      },
+      {
+        "source": "root_1",
+        "target": "word_6"
+      },
+      {
+        "source": "root_1",
+        "target": "word_7"
+      },
+      {
+        "source": "root_1",
+        "target": "word_8"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_coars": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "coars",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语'crassus'，意为'厚的、粗糙的'，经由古法语'coars'（粗鲁的、未加工的）进入英语，核心含义指质地、品质或行为上的不精细、不光滑、缺乏细腻。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "coarse",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "粗糙的；粗劣的；粗俗的",
+          "phonetic": "英 /kɔːs/  美 /kɔːrs/",
+          "memory_trick": "联想'coarse'与'course'发音相似，但'coarse'多一个'a'，可以想象成'a'代表'粗糙的石头'，所以记忆为：课程(course)中用了粗糙的(coarse)材料。",
+          "example": "The coarse fabric irritated her sensitive skin. （这种粗糙的织物刺激了她敏感的皮肤。）"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_age": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "age",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'aetas'，意为'寿命、时代、时期'，后通过古法语 'age' 进入英语，核心含义与'时间跨度'或'生命阶段'相关，常引申为'老化'或'时代'的概念。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "age",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "n. 年龄；时代；寿命；v. 变老；使变老",
+          "phonetic": "/eɪdʒ/",
+          "memory_trick": "联想'A'像一个人站立，'GE'像'哥'的拼音，一个人从年轻站到老，哥的年龄在增长。",
+          "example": "She started playing the piano at the age of five and never stopped. 她五岁时开始弹钢琴，并且从未停止过。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_ward": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "ward",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自原始日耳曼语 *wardōn，意为'看守、保护、朝向'；在古英语中演变为 weard，表示'守卫、监护人'。词根核心含义是'关注、转向'，引申为'保护、防御'及'方向'（如 toward）。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "warn",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "警告；告诫；预先通知",
+          "phonetic": "/wɔːrn/",
+          "memory_trick": "ward（守护）→ 守护需要提前警示危险，所以 warn 就是'警告'。",
+          "example": "The lifeguard warned the swimmers about the strong currents. 救生员警告游泳者注意强劲的水流。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "warrant",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "授权；保证；令状；正当理由",
+          "phonetic": "/ˈwɔːrənt/",
+          "memory_trick": "ward（守护）→ 守护需要'授权'或'保证'才能行动；warrant 即'授权令'。",
+          "example": "The police obtained a search warrant before entering the building. 警方在进入大楼前获得了搜查令。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "wardrobe",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "衣柜；全部服装",
+          "phonetic": "/ˈwɔːrdroʊb/",
+          "memory_trick": "ward（守护）+ robe（长袍）→ 守护衣物的柜子，即为'衣柜'。",
+          "example": "She spent the afternoon organizing her wardrobe by color and season. 她花了一下午按颜色和季节整理衣柜。"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "ward",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "病房；行政区；守护；避开",
+          "phonetic": "/wɔːrd/",
+          "memory_trick": "词根本身，既是'守护'（如 ward off），也是被守护的'病房'或'选区'。",
+          "example": "The nurse checked on each patient in the children's ward every hour. 护士每小时检查一次儿童病房的每位病人。"
+        }
+      },
+      {
+        "id": "word_5",
+        "name": "warfare",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "战争；冲突；斗争",
+          "phonetic": "/ˈwɔːrfer/",
+          "memory_trick": "war（战争）+ fare（进行）→ 进行战争；fare 与 ward 同源，意为'行进、处境'，合为'战争状态'。",
+          "example": "Modern warfare relies heavily on technology and cyber operations. 现代战争严重依赖技术和网络行动。"
+        }
+      },
+      {
+        "id": "word_6",
+        "name": "warranty",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "保修；保证；担保",
+          "phonetic": "/ˈwɔːrənti/",
+          "memory_trick": "warrant（保证）+ y（名词后缀）→ 保证书，即'保修单'。",
+          "example": "The laptop comes with a three-year warranty against manufacturing defects. 这台笔记本电脑享有三年制造缺陷保修。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      },
+      {
+        "source": "root_1",
+        "target": "word_5"
+      },
+      {
+        "source": "root_1",
+        "target": "word_6"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_temp/tempo": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "temp/tempo",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'tempus'，意为时间、时机。该词根引申出与时间延伸、紧张状态及暂时性相关的含义。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "tension",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "紧张，张力，拉紧状态",
+          "phonetic": "/ˈtenʃn/",
+          "memory_trick": "tension（紧张）与tense（绷紧的）同源，想象一根绳子被拉紧（tense）产生的张力（tension）。",
+          "example": "The tension in the room was palpable as everyone waited for the exam results. (房间里的紧张气氛显而易见，大家都在等待考试成绩。)"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "tense",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "绷紧的，紧张的；时态",
+          "phonetic": "/tens/",
+          "memory_trick": "tense 像 'tense' 的发音，想象十秒（ten seconds）内绷紧肌肉，保持紧张状态。",
+          "example": "He remained tense throughout the entire flight, gripping the armrest tightly. (整个飞行过程中他都绷紧神经，紧紧抓住扶手。)"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "temple",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "寺庙，神殿；太阳穴",
+          "phonetic": "/ˈtempl/",
+          "memory_trick": "temple（寺庙）与 'time'（时间）有关，因为古代寺庙是计时和举行季节性仪式的地方。",
+          "example": "The ancient temple stood for centuries, a silent witness to the passage of time. (这座古寺屹立数百年，无声见证着时间的流逝。)"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "tenant",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "租户，房客；承租人",
+          "phonetic": "/ˈtenənt/",
+          "memory_trick": "tenant 与 'ten'（十）相关，想象十个（ten）租户（tenant）共同租住一栋房子，按时间（temp）支付租金。",
+          "example": "The tenant complained to the landlord about the leaky faucet that had been dripping for weeks. (租户向房东投诉漏水的水龙头，已经滴了好几周了。)"
+        }
+      },
+      {
+        "id": "word_5",
+        "name": "tempo",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "速度，节奏；拍子",
+          "phonetic": "/ˈtempəʊ/",
+          "memory_trick": "tempo（节奏）与时间（time）直接相关，音乐中的节拍就是时间的划分。",
+          "example": "The conductor increased the tempo, and the orchestra responded with electrifying energy. (指挥加快了节奏，管弦乐队以激动人心的能量回应。)",
+          "example_translation": ""
+        }
+      },
+      {
+        "id": "word_6",
+        "name": "tender",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "温柔的；嫩的；投标；提供",
+          "phonetic": "/ˈtendə(r)/",
+          "memory_trick": "tender 与 'tend'（照料）相关，温柔的人善于照料他人。",
+          "example": "She gave him a tender smile before handing over the carefully wrapped gift. (她给了他一个温柔的微笑，然后递上精心包装的礼物。)"
+        }
+      },
+      {
+        "id": "word_7",
+        "name": "tent",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "帐篷",
+          "phonetic": "/tent/",
+          "memory_trick": "tent（帐篷）由布绷紧（tense）而成，像时间（temp）中的临时居所。",
+          "example": "They pitched their tent near the river, enjoying the peaceful sounds of nature. (他们在河边搭起帐篷，享受着宁静的自然之声。)"
+        }
+      },
+      {
+        "id": "word_8",
+        "name": "tendency",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "趋势，倾向",
+          "phonetic": "/ˈtendənsi/",
+          "memory_trick": "tendency 与 'tend'（趋向）相关，指事物随时间（temp）发展的方向。",
+          "example": "He has a remarkable ability to learn new languages quickly, showing a natural tendency towards linguistic mastery. (他具有快速学习新语言的非凡能力，表现出掌握语言的自然倾向。)"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      },
+      {
+        "source": "root_1",
+        "target": "word_5"
+      },
+      {
+        "source": "root_1",
+        "target": "word_6"
+      },
+      {
+        "source": "root_1",
+        "target": "word_7"
+      },
+      {
+        "source": "root_1",
+        "target": "word_8"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_pens/pend": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "pens/pend",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 pendere，意为'悬挂、称量、支付'。其变形 pens- 表示'称量后的结果'或'支付'，引申出'补偿、处罚、思考'等含义。核心意象是'悬挂以称重'——通过衡量决定价值或后果。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "pension",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "养老金；退休金；抚恤金",
+          "phonetic": "/ˈpenʃn/",
+          "memory_trick": "pens（支付）+ ion（名词后缀）→ 定期支付的款项 → 养老金。想象'每年称量一笔钱付给你'作为退休回报。",
+          "example": "After working for 40 years, he finally received his first pension check with a sense of relief. (工作40年后，他终于带着如释重负的心情收到了第一张养老金支票。)"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "penny",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "便士（货币单位）；一分钱",
+          "phonetic": "/ˈpeni/",
+          "memory_trick": "penn（与pens同源，意为'称量'）+ y（小称后缀）→ 称量出的小硬币 → 便士。记住'一便士虽小，也是称量过的价值'。",
+          "example": "She saved every penny for years to afford the down payment on her first home. (她多年来攒下每一分钱，才付得起第一套房子的首付。)"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "penalty",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "处罚；惩罚；罚金",
+          "phonetic": "/ˈpenəlti/",
+          "memory_trick": "pen（来自pens，称量、衡量）+ alty（名词后缀）→ 经过衡量后施加的代价 → 惩罚。联想'法官称量过错后，判处罚金'。",
+          "example": "The penalty for late payment is an additional 5% of the total amount. (逾期付款的处罚是总额外加5%。)"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_aer/aeri": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "aer/aeri",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'aer'（空气），后经法语 'aérien' 演变，核心含义与空气、大气、天空相关。在英语中常引申为'空中的'、'虚幻的'或'轻盈的'，强调与地面或实体相对的空间属性。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "aerial",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "adj. 空中的；航空的；源自飞机的；在空中的；n. 天线",
+          "phonetic": "英 /ˈeəriəl/  美 /ˈeriəl/",
+          "memory_trick": "想象一只雄鹰（eagle）在空气（aer）中翱翔，它的姿态就是'空中的'（aerial）。",
+          "example": "The photographer used a drone to capture an aerial view of the entire city skyline at sunrise. 摄影师使用无人机在日出时拍摄了整个城市天际线的空中俯瞰图。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_quant": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "quant",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'quantus'，意为 '多少'、'多大'，引申为与数量、度量相关的概念。在英语中作为词根，常用于表达数量、定量或可测量的事物。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "quantity",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "数量；总量；大量",
+          "phonetic": "/ˈkwɒntəti/",
+          "memory_trick": "想象一个 'quant' 量杯，里面装满了 'ity'（名词后缀），表示具体的数量。",
+          "example": "The quantity of data collected this year exceeded all previous records. (今年收集的数据量超过了以往所有记录。)"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "quantitative",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "数量的；定量的；量化的",
+          "phonetic": "/ˈkwɒntɪtətɪv/",
+          "memory_trick": "quant（数量）+ itative（形容词后缀）= 与数量相关的，想象一个精确的测量仪器。",
+          "example": "The research required a quantitative analysis of the survey results to identify trends. (这项研究需要对调查结果进行定量分析以识别趋势。)"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "quantify",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "量化；确定…的数量；用数量表示",
+          "phonetic": "/ˈkwɒntɪfaɪ/",
+          "memory_trick": "quant（数量）+ ify（动词后缀）= 使变成数量，即量化。想象给一堆模糊的东西标上数字。",
+          "example": "It is difficult to quantify the emotional impact of losing a loved one. (很难量化失去亲人所带来的情感冲击。)"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_then": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "then",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根'then'源自原始日耳曼语*þana（意为'那时、然后'），与古英语þonne同源，核心含义为时间或逻辑上的'随后、接着'，引申出因果、顺序等关系。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "therefore",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "因此，所以",
+          "phonetic": "/ˈðeəfɔːr/",
+          "memory_trick": "联想'then'（然后）+ 'for'（为了），'然后为了'即引出结果→因此",
+          "example": "He has a remarkable ability to learn new languages quickly; therefore, he decided to take up Japanese and Korean simultaneously. 他具有快速学习新语言的非凡能力，因此他决定同时学习日语和韩语。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "then",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "当时；然后；那么",
+          "phonetic": "/ðen/",
+          "memory_trick": "直接记忆：'then'是时间轴上的一个点，'the'（定冠词）+ 'n'（像指针），指向某个时刻",
+          "example": "She finished her homework, and then she went out for a walk in the park. 她完成了作业，然后去公园散步了。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "thereafter",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "此后，之后",
+          "phonetic": "/ˌðeərˈæftər/",
+          "memory_trick": "拆分：'there'（那里）+ 'after'（之后）→在那之后→此后",
+          "example": "The company was founded in 2005, and thereafter it expanded rapidly into international markets. 该公司成立于2005年，此后迅速扩展到国际市场。"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "thereby",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "由此，从而",
+          "phonetic": "/ˌðeərˈbaɪ/",
+          "memory_trick": "联想：'there'（那里）+ 'by'（通过）→通过那个方式→由此",
+          "example": "He invested in renewable energy projects, thereby contributing to a greener environment. 他投资了可再生能源项目，从而为更绿色的环境做出了贡献。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_shine": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "shine",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根'shine'源自古英语'scinan'，意为'发光、照耀'，引申为'出色、显露'。它与其他以'sh-'开头的词根（如'shock','shot','shoot'）在发音上相似，但语义上无直接派生关系，仅因拼写相近而在此组中归类，便于联想记忆。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "shock",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "使震惊；冲击；电击",
+          "phonetic": "/ʃɒk/",
+          "memory_trick": "想象一道强光（shine）突然闪过，让你感到震惊（shock）——光与冲击的联想。",
+          "example": "The loud explosion shocked everyone in the building, leaving them speechless. (巨大的爆炸震惊了大楼里的每个人，让他们哑口无言。)"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "shot",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "射击；开枪；注射；尝试",
+          "phonetic": "/ʃɒt/",
+          "memory_trick": "闪光（shine）般的快速动作——射击（shot）就是一瞬间的事。",
+          "example": "He took a shot at the target with remarkable precision. (他以惊人的精度瞄准目标开了一枪。)"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "shoot",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "射击；发射；拍摄；快速移动",
+          "phonetic": "/ʃuːt/",
+          "memory_trick": "像光（shine）一样射出去——shoot强调动作的过程，而shot是结果。",
+          "example": "The photographer decided to shoot the sunrise from the hilltop. (摄影师决定在山顶拍摄日出。)"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "shine",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "发光；照耀；出色；擦亮",
+          "phonetic": "/ʃaɪn/",
+          "memory_trick": "本词既是词根也是单词——想象太阳照耀（shine）万物，也比喻人在某方面闪耀。",
+          "example": "He has a remarkable ability to learn new languages quickly, and his talent shines in every class. (他拥有快速学习新语言的非凡能力，他的才华在每堂课上闪闪发光。)"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_blank": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "blank",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'blancus'，意为'白色的、空白的'。最初指未书写或未着色的表面，后引申为'空白的、无内容的'，进而衍生出'掩盖、覆盖'等含义。在英语中，'blank'既保留了'空白'的本义，也通过加后缀'-et'形成'blanket'，表示'覆盖物'，象征将空白或温暖覆盖其上。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "blanket",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "毯子；覆盖层；全面的，包括一切的",
+          "phonetic": "/ˈblæŋkɪt/",
+          "memory_trick": "联想：blank（空白）+ et（小东西）→ 把空白的地方盖住的小东西 → 毯子。",
+          "example": "She wrapped herself in a warm blanket and read a book by the fireplace. (她裹着一条温暖的毯子，在壁炉旁看书。)"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "blank",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "空白的；茫然的；无表情的；空格",
+          "phonetic": "/blæŋk/",
+          "memory_trick": "想象一张完全空白的纸（blank paper），没有任何字迹，大脑也一片空白。",
+          "example": "During the exam, his mind suddenly went blank and he couldn't remember any answers. (考试期间，他的大脑突然一片空白，什么答案都想不起来了。)"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_veter": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "veter",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'vetus'，意为'年老的、古老的'。词根veter指代与年龄、经验或长久经历相关的概念，常引申为'有经验的'或'资深的'。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "veteran",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "经验丰富的人；老兵；老手",
+          "phonetic": "/ˈvetərən/",
+          "memory_trick": "veter（老）+ an（人）→ 经验丰富的人。想象一位白发苍苍的老兵，历经风雨，技能娴熟。",
+          "example": "He has a remarkable ability to learn new languages quickly, which is surprising even for a veteran linguist. 他学习新语言的能力非常出色，即使对于一位经验丰富的语言学家来说也令人惊讶。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_radio": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "radio",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'radius'，原意为'射线、光线、轮辐'。在科学语境中引申为'辐射、放射'，核心含义是'从中心向四周发射光线或粒子'。词根 radio- 常与'光、电波、能量放射'相关，体现了'发射'和'扩散'的动态概念。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "radioactive",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "放射性的，具有放射性的",
+          "phonetic": "/ˌreɪdiəʊˈæktɪv/",
+          "memory_trick": "radio（放射）+ active（活跃的）→ 活跃地向外发射射线 → 放射性的。想象一个不断发出光热的活跃原子。",
+          "example": "The workers carefully handled the radioactive waste to avoid contamination. 工人们小心处理放射性废料以避免污染。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "radius",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "半径；半径范围",
+          "phonetic": "/ˈreɪdiəs/",
+          "memory_trick": "radio（射线）+ us（我们）→ 从圆心射向我们的一条线段 → 半径。想象从圆心到圆周的一条光线。",
+          "example": "The search party covered a radius of ten kilometers around the campsite. 搜索队覆盖了营地周围十公里的半径范围。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "radiation",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "辐射；放射线；放射现象",
+          "phonetic": "/ˌreɪdiˈeɪʃn/",
+          "memory_trick": "radio（放射）+ ation（名词后缀）→ 放射的过程或结果 → 辐射。想象太阳向四面八方持续发出光和热。",
+          "example": "Prolonged exposure to solar radiation can damage your skin. 长时间暴露在太阳辐射下会损伤你的皮肤。"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "radio",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "无线电；收音机；无线电通信",
+          "phonetic": "/ˈreɪdiəʊ/",
+          "memory_trick": "词根本身就是单词，radio 利用无线电波（辐射的一种形式）传播声音 → 收音机。记住：无线电波从发射塔向四周'放射'。",
+          "example": "He turned on the radio to listen to the morning news. 他打开收音机收听早间新闻。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_in": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "in",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根 'in' 源自拉丁语，基本含义为 '在内、进入、使...'，常作为前缀表示 '进入、使处于某种状态'，在派生词中体现为 '注入、伤害' 等延伸义。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "injury",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "伤害；损伤（身体或名誉等）",
+          "phonetic": "/ˈɪndʒəri/",
+          "memory_trick": "in（进入）+ jury（法律、审判）→ 进入审判状态，往往因为受到伤害 → 伤害",
+          "example": "He suffered a serious injury during the football match. 他在足球比赛中受了重伤。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "injure",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "伤害；损害（身体、感情等）",
+          "phonetic": "/ˈɪndʒər/",
+          "memory_trick": "in（进入）+ jure（法律、权利）→ 侵犯他人权利，造成损害 → 伤害",
+          "example": "Be careful not to injure yourself while lifting heavy boxes. 搬重箱子时小心别伤到自己。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "inject",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "注射；注入（液体、想法等）",
+          "phonetic": "/ɪnˈdʒekt/",
+          "memory_trick": "in（进入）+ ject（投掷、扔）→ 把东西扔进去 → 注射、注入",
+          "example": "The doctor will inject the vaccine into your arm. 医生会把疫苗注射进你的手臂。"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "inland",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "内陆的；内地的；在内地",
+          "phonetic": "/ˈɪnlənd/",
+          "memory_trick": "in（在内）+ land（土地）→ 在土地内部 → 内陆",
+          "example": "They traveled inland to explore the desert. 他们向内陆旅行去探索沙漠。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_sew": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "sew",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自中古英语 'sewen'，进一步追溯至古英语 'sīwian'，与原始日耳曼语 '*siwjaną' 相关，意为用针线缝合。该词根与拉丁语 'suere'（缝）同源，体现了人类早期手工缝纫的核心动作。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "sew",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "v. 缝，缝合；缝制",
+          "phonetic": "/səʊ/",
+          "memory_trick": "想象字母 's' 像一根弯曲的针，'ew' 像线在布料上穿梭，组合起来就是'用针线缝'。",
+          "example": "She learned to sew a button onto her shirt by watching her grandmother. 她通过观察祖母学会了将纽扣缝到衬衫上。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_short": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "short",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根short源自古英语'sceort'，意为'短的、不足的'，引申为'缺乏、简短'等含义，在构词中常表示时间、空间或数量上的不足或简化。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "shorthand",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "速记法；简写形式",
+          "phonetic": "/ˈʃɔːrt.hænd/",
+          "memory_trick": "short（短的）+ hand（手）→ 用手快速写出简短的字 → 速记",
+          "example": "She took notes in shorthand during the lecture to capture every detail. 她在讲座中用速记法记笔记，以捕捉每一个细节。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "shortage",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "短缺；不足",
+          "phonetic": "/ˈʃɔːr.tɪdʒ/",
+          "memory_trick": "short（短的/不足）+ age（状态）→ 不足的状态 → 短缺",
+          "example": "The city is facing a severe water shortage after months of drought. 经过数月的干旱，该市正面临严重的水资源短缺。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "shortcoming",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "缺点；短处",
+          "phonetic": "/ˈʃɔːrt.kʌm.ɪŋ/",
+          "memory_trick": "short（短的/不足）+ coming（到来）→ 不足之处到来 → 缺点",
+          "example": "Despite his many strengths, his impatience is a notable shortcoming. 尽管他有很多优点，但缺乏耐心是一个明显的缺点。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_sem/sen": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "sem/sen",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'sentire'（感觉、感知）和 'semen'（种子、萌芽），核心含义为'感知'、'感觉'或'根本'。词根sem-侧重于'种子'（如semiconductor中的半导体本质），sen-侧重于'感知'（如senate中的长老感知与决策）。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "senate",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "参议院；立法机构的上院",
+          "phonetic": "/ˈsen.ət/",
+          "memory_trick": "sen（感知）+ ate（表人或机构）→ 由年长有感知力的智者组成的机构。",
+          "example": "The senate voted unanimously to approve the new environmental bill. 参议院一致投票通过了新的环境法案。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "semiconductor",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "半导体",
+          "phonetic": "/ˌsem.i.kənˈdʌk.tər/",
+          "memory_trick": "semi（半）+ conductor（导体）→ 导电性介于导体和绝缘体之间的材料。",
+          "example": "The rapid advancement of semiconductor technology has revolutionized the electronics industry. 半导体技术的飞速发展彻底改变了电子行业。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "semester",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "学期；半学年",
+          "phonetic": "/sɪˈmes.tər/",
+          "memory_trick": "se（六）+ mes（月）+ ter（表名词）→ 六个月的学习周期。",
+          "example": "She is taking five courses this semester to fulfill her graduation requirements. 这学期她选了五门课以满足毕业要求。"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "senator",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "参议员；上议院议员",
+          "phonetic": "/ˈsen.ə.tər/",
+          "memory_trick": "sen（感知）+ ator（表人）→ 有感知力、能明智决策的人。",
+          "example": "The senator delivered a passionate speech about educational reform in the chamber. 这位参议员在议院发表了关于教育改革的激情演讲。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_cogn": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "cogn",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语词根 'cognoscere'，由 'co-'（共同）和 'gnoscere'（知道）组成，本义为 '共同知道'，引申为 '认知、了解'。该词根核心含义涉及知识获取、识别与理解过程。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "cognitive",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "认知的；认识的；有关认识的",
+          "phonetic": "/ˈkɒɡnɪtɪv/",
+          "memory_trick": "cogn（知道）+ itive（形容词后缀）→ 与知道相关的 → 认知的",
+          "example": "He has a remarkable ability to learn new languages quickly, which demonstrates his strong cognitive flexibility. 他快速学习新语言的非凡能力，展示了他强大的认知灵活性。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_people": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "people",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'populus'，意为'民众、民族、人群'，后经古法语 'people' 进入英语，核心含义指一群人、一个民族或特定群体的集合，强调社会性和集体性。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "people",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "人，人们；民族，种族；平民，民众；家人，亲属",
+          "phonetic": "/ˈpiːpl/",
+          "memory_trick": "想象一群人（people）在吃豌豆（pea）和苹果（pple），发音像'批剖'——批量化的人剖开人群。",
+          "example": "The people in the town gathered to celebrate the festival. 镇上的人们聚集在一起庆祝节日。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_session/sess": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "session/sess",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'sessio'（坐、会议），与动词 'sedere'（坐）相关。词根 'sess' 或 'sed' 表示'坐'或'停留'，引申为'一段时间'、'会议'或'情感'等概念。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "sentence",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "句子；判决；宣判",
+          "phonetic": "/ˈsentəns/",
+          "memory_trick": "把 'sentence' 拆成 'sent'（感觉）+ 'ence'（名词后缀），想象法官'感觉'后给出'判决'，或一句话'感觉'完整。",
+          "example": "The judge delivered a harsh sentence to the criminal. 法官对罪犯作出了严厉的判决。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "session",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "会议；一段时间；学期",
+          "phonetic": "/ˈseʃn/",
+          "memory_trick": "'session' 类似 'sess'（坐）+ 'ion'（名词），想象一群人'坐'在一起开会，或'坐'着度过一段学习时间。",
+          "example": "The training session lasted for three hours. 培训会议持续了三个小时。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "sentiment",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "情感；情绪；观点",
+          "phonetic": "/ˈsentɪmənt/",
+          "memory_trick": "'sentiment' 中 'senti' 谐音'三提'，想象'三'次'提'起同一件事，表达'情感'或'观点'。",
+          "example": "Public sentiment towards the new policy is generally positive. 公众对新政策的情绪总体上是积极的。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_ink": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "ink",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'incaustum'，意为 '烧入的液体'，最初指一种用于书写的深色液体，后演变为现代英语中的 'ink'，表示墨水或油墨。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "ink",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "墨水；油墨；墨汁",
+          "phonetic": "/ɪŋk/",
+          "memory_trick": "想象钢笔在纸上留下 'ink' 痕迹时，发出 '叮' 的一声，音近 'ink'。",
+          "example": "He accidentally spilled ink all over his new shirt, which was a disaster. 他不小心把墨水洒了一身新衬衫，这真是一场灾难。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_shiver": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "shiver",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根【shiver】源自中古英语 'shiveren'，可能与古英语 'scifer'（碎片、裂片）有关，本义为'碎裂成碎片'，后引申为因寒冷或恐惧而'颤抖、哆嗦'，如同身体被细微的'碎片'震动。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "shiver",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "v. 颤抖，哆嗦（尤指因寒冷、恐惧或激动）；n. 颤抖，寒颤",
+          "phonetic": "/ˈʃɪvər/",
+          "memory_trick": "想象冬天里'洗（shi）碗'时水太冷，手'ver'（谐音'哇'）地一下缩回来，浑身一'shiver'。",
+          "example": "She felt a cold shiver run down her spine as the wind howled outside. （外面狂风呼啸时，她感到一阵寒冷的颤抖沿着脊柱而下。）"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_veto": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "veto",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语动词 'vetare'，意为'禁止、反对'。在古罗马政治中，护民官有权对元老院法令说'veto'（我禁止），从而阻止法案通过。这一词根承载了'否决、禁止'的核心含义，延伸至现代政治和法律语境。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "veto",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "n. 否决权；否决 v. 否决；禁止",
+          "phonetic": "/ˈviːtoʊ/",
+          "memory_trick": "发音像'威托'——想象一位威严的法官托起手掌说'我禁止！'，强行阻止某事发生。",
+          "example": "The president threatened to veto the bill if it didn't include environmental protections. 总统威胁说，如果该法案不包含环境保护条款，他将行使否决权。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_light": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "light",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自原始印欧语根 *leuk-，意为'光、明亮'，后经古英语'leoht'演变为现代英语'light'，核心含义是'光'或'轻'，在派生词中常体现'照耀、闪亮'或'轻盈'的意象。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "lightning",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "闪电；突然的闪光",
+          "phonetic": "/ˈlaɪtnɪŋ/",
+          "memory_trick": "light（光）+ ning（名词后缀）→ 天空中突然发出的光 → 闪电。",
+          "example": "The lightning illuminated the entire sky for a split second. 闪电在一瞬间照亮了整个天空。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "light",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "光；光线；光源；明亮的",
+          "phonetic": "/laɪt/",
+          "memory_trick": "想象一盏灯（lamp）发出的光（light），两者读音相近，形状也像。",
+          "example": "She opened the curtains to let the morning light fill the room. 她拉开窗帘，让晨光照亮房间。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_ware": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "ware",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自中古英语 'war'，意为'商品、货物'，进一步可追溯至古英语 'waru'，与古诺尔斯语 'vara'（货物）同源。词根核心含义为'制造或交易中关注的物品'，强调'保管、存储'的语义延伸。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "warehouse",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "仓库；货栈；批发商店",
+          "phonetic": "/ˈweəhaʊs/",
+          "memory_trick": "ware（货物）+ house（房子）→ 存放货物的房子 → 仓库",
+          "example": "The company stores all its raw materials in a massive warehouse on the outskirts of the city. 这家公司把所有原材料储存在市郊的一个巨大仓库里。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_gallery/galax": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "gallery/galax",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自希腊语 'galaxias'（意为牛奶的），后经拉丁语进入英语，最初指银河（Milky Way），因银河在夜空中如乳白色光带而得名。词根 'gallery' 则源自拉丁语 'galeria'，指长廊或用于展示艺术品的空间，两者在拼写和语义上有所分化，但都保留了'聚集、延伸'的原始意象。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "gallery",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "画廊；美术馆；长廊；顶层楼座",
+          "phonetic": "/ˈɡæl.ər.i/",
+          "memory_trick": "想象一个画廊（gallery）里挂满了牛奶（galax-）般洁白的画作，长廊延伸如银河。",
+          "example": "The gallery hosts an exhibition of contemporary sculptures that challenge traditional aesthetics. 这家画廊举办了一场当代雕塑展，挑战了传统美学。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "galaxy",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "星系；银河；一群杰出的人或物",
+          "phonetic": "/ˈɡæl.ək.si/",
+          "memory_trick": "银河（galaxy）像一条牛奶（galax-）河流，其中星星如同画廊（gallery）里的艺术品般璀璨。",
+          "example": "Astronomers discovered a new galaxy that appears to be forming stars at an incredible rate. 天文学家发现了一个新星系，它以惊人的速度形成恒星。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_peel/peep": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "peel/peep",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根'peel'源自拉丁语'pello'（意为'推、驱赶'），后引申为'剥皮、剥离'；'peep'可能源自拟声词或中古英语'pepen'（意为'窥视'），两者在词源上无直接关联，但形态相似，常被归为一组记忆。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "peel",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "剥皮；剥落；果皮",
+          "phonetic": "/piːl/",
+          "memory_trick": "想象一个橘子（peel）被推（pello）开外皮，露出果肉。",
+          "example": "She carefully peeled the apple with a knife, making sure not to waste any of the fruit. 她小心地用刀削苹果皮，确保不浪费任何果肉。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "peep",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "窥视；偷看；发出吱吱声",
+          "phonetic": "/piːp/",
+          "memory_trick": "像小鸟从巢里偷偷往外看（peep），发出'吱吱'声。",
+          "example": "The child peeped through the keyhole to see what was happening inside the room. 孩子从钥匙孔里偷看房间里发生了什么。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_race/racial": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "race/racial",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'ratio'（计算、推理），后经古法语 'race' 演变为表示'血统、种类'的含义。核心概念为'按共同特征划分的群体'，强调血缘、文化或物理特征的延续。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "racial",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "种族的；人种的；关于种族之间的",
+          "phonetic": "/ˈreɪʃl/",
+          "memory_trick": "race（种族）+ ial（形容词后缀）→ 与种族相关的。想象不同肤色的人群站在一起，强调'种族'属性。",
+          "example": "The government implemented new policies to address racial inequality in education. 政府实施了新政策以解决教育中的种族不平等问题。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "race",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "种族；人种；赛跑；竞争",
+          "phonetic": "/reɪs/",
+          "memory_trick": "与'赛跑'同形，联想不同种族的人在跑道上竞争，但重点在'血统群体'时，记住它代表'人类大类别'。",
+          "example": "He has a remarkable ability to learn new languages quickly, regardless of race or background. 无论种族或背景如何，他都有快速学习新语言的非凡能力。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_ship": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "ship",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根 'ship' 源自古英语 '-scipe'，意为 '状态、性质、关系'，通常附加在名词或形容词后构成抽象名词，表示某种身份、能力、状态或关系。在 'shipment' 中，它引申为 '运输的状态或行为'。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "shipment",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "n. 运输的货物；装运；装载",
+          "phonetic": "/ˈʃɪpmənt/",
+          "memory_trick": "想象一艘船（ship）上装满了货物（ment代表动作或结果），正在被运往远方。",
+          "example": "The shipment of medical supplies arrived just in time to help the disaster victims. 这批医疗物资的运达及时帮助了灾民。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_racket/rack/rag": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "racket/rack/rag",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根rack/racket/rag源自中古英语和古日耳曼语，原始含义与'伸展、拉伸、用力'相关，后引申为'折磨、框架、混乱'等义。其中rack本义为'拉伸的架子'（如刑架），racket由此衍生出'球拍'（拉伸的网面）和'喧闹'（拉伸声音的比喻），rag则与'撕扯、破布'相关，体现'拉伸后撕裂'的意象。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "rack",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "架子；折磨；使痛苦；拉伸",
+          "phonetic": "/ræk/",
+          "memory_trick": "想象一个刑架(rack)把人拉伸(rack)得痛苦不堪，记住'架子'和'折磨'两个核心义。",
+          "example": "The librarian carefully placed the books back on the rack. 图书管理员小心地把书放回架子上。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "racket",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "球拍；喧闹，吵闹；勒索，骗局",
+          "phonetic": "/ˈrækɪt/",
+          "memory_trick": "球拍(racket)击球发出喧闹(racket)声，而非法牟利也是一种'吵闹'的骗局(racket)。",
+          "example": "The children made such a racket that the neighbors complained. 孩子们太吵闹了，邻居们纷纷抱怨。"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "rag",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "破布；碎布；戏弄；嘲笑",
+          "phonetic": "/ræɡ/",
+          "memory_trick": "破布(rag)是衣服被撕扯(与rack同源)后的碎片，而'戏弄'就像用破布逗人。",
+          "example": "He wiped the oil off his hands with an old rag. 他用一块旧破布擦掉手上的油污。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_vest": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "vest",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'vestis'，意为 '衣服、外衣'，引申为 '覆盖、授予'。在英语中，词根 vest 常与 '衣物' 或 '赋予权利/财产' 相关，体现了从具体衣物到抽象授予的语义演变。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "vest",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "背心；马甲；内衣；赋予（权力或财产）",
+          "phonetic": "/vest/",
+          "memory_trick": "想象一件背心（vest）覆盖在身体上，就像法律或权力 '覆盖' 在某人身上，赋予其权利。",
+          "example": "The authority to make final decisions is vested in the board of directors. (最终决策权赋予董事会。)"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_raid/rage": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "raid/rage",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根raid/rage源自拉丁语'rapere'，意为'抢夺、猛烈夺取'。在英语中，它衍生出两个主要分支：raid指突然的袭击或搜捕，强调快速、暴力的行动；rage则指狂怒、暴怒，强调情绪的猛烈爆发。两者共享'猛烈、失控'的核心语义，但分别指向外部行动和内部情绪。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "rage",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "狂怒，暴怒；猛烈，肆虐",
+          "phonetic": "/reɪdʒ/",
+          "memory_trick": "想象一个人因为被'抢夺'（raid）了心爱之物，心中燃起熊熊'怒火'（rage），两个单词发音相近，情绪上紧密相连。",
+          "example": "The storm raged through the coastal town, uprooting trees and flooding streets. 暴风雨猛烈席卷了沿海小镇，拔起树木，淹没了街道。"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "raid",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "突然袭击，突袭；搜捕，劫掠",
+          "phonetic": "/reɪd/",
+          "memory_trick": "警察'突然袭击'（raid）了一个仓库，就像一阵'狂怒'（rage）的风暴一样迅速而猛烈，记住这两个词都源于'猛烈夺取'。",
+          "example": "The police carried out a dawn raid on the suspected drug den, arresting three individuals. 警方在黎明时分对疑似毒品窝点进行了一次突袭，逮捕了三名嫌疑人。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_coach": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "coach",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'carrus'（马车），经法语 'coche' 演变为英语 'coach'，最初指一种四轮马车，后引申为'运输工具'和'指导者'，因为马车将人从一地运至另一地，而教练则引导学习者从无知到有知。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "coach",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "教练；辅导；长途客车；车厢",
+          "phonetic": "/koʊtʃ/",
+          "memory_trick": "想象一位教练（coach）坐在马车（coach）上，一边赶路一边指导学员，马车和教练共享同一个词根。",
+          "example": "The coach patiently explained the strategy to the team. 教练耐心地向团队解释了策略。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_against": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "against",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根 'against' 源自古英语 'ongēan'，意为 '面对、相反、反对'，与古诺尔斯语 'í gegn' 同源。核心含义是 '在……对面' 或 '与……相抵触'，强调方向上的对立或力量上的对抗。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "against",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "prep. 反对；违反；不利于；紧靠；以……为背景",
+          "phonetic": "/əˈɡenst/",
+          "memory_trick": "联想 'a'（一个） + 'gain'（获得） + 'st'（站立），想象一个人站在获得的东西对面，即 '反对' 的姿态。",
+          "example": "He leaned his bicycle against the wall while he tied his shoelaces. 他系鞋带时把自行车靠在墙上。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_after": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "after",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自古英语'æfter'，与古高地德语'aftar'同源，原意为'在……后面'，引申为时间或空间上的'之后'。在复合词中常表示'后续'或'随后'的含义。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "afterward(s)",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "后来；以后；随后",
+          "phonetic": "英 /ˈɑːftəwədz/  美 /ˈæftərwərdz/",
+          "memory_trick": "after（在……之后）+ ward（朝向）+ s（副词后缀）→ 朝向之后的方向 → 后来",
+          "example": "He has a remarkable ability to learn new languages quickly; afterward, he became fluent in three more within a year. 他有着快速学习新语言的非凡能力，随后在一年内又流利掌握了三门语言。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_warmth": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "warmth",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根'warmth'源自古英语'weormþu'，意为温暖、热情，与古高地德语'warmida'同源，核心含义是温度上的热感，引申为情感上的亲切与友善。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "warmth",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "温暖；热情；亲切",
+          "phonetic": "/wɔːrmθ/",
+          "memory_trick": "联想'warm'（温暖的）加后缀-th（表示性质或状态），就像'warm'变成了一个名词，记住'温暖的状态'就是warmth。",
+          "example": "The warmth of her smile made everyone feel at ease. 她微笑中的温暖让每个人都感到自在。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_shove": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "shove",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根'shove'源自古英语'scufan'，意为'推、挤'，与原始日耳曼语'*skūbaną'同源，强调用力量或突然的动作将物体从自身推开或移动位置，常带有粗鲁或急促的意味。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "shove",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "v. 推，猛推；挤，乱塞；n. 猛推，推开",
+          "phonetic": "/ʃʌv/",
+          "memory_trick": "想象在拥挤的地铁里，你被人群'shove'（推）着走，像被一只无形的手'shove'（猛推）向前。",
+          "example": "He had to shove his way through the crowd to catch the bus. 他不得不挤过人群去赶公交车。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_coal": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "coal",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'coalitio'，意为 '共同生长、联合'，由 'co-'（共同）和 'alere'（滋养、生长）组合而成。词根核心含义为 '共同成长、联合'，强调多个个体为了共同目标而结合。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "coalition",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "联合；联盟；结合体",
+          "phonetic": "/ˌkoʊəˈlɪʃən/",
+          "memory_trick": "co（共同）+ al（生长）+ ition（名词后缀）→ 共同生长在一起 → 联盟",
+          "example": "To abandon oneself to despair is to ruin the future, but forming a coalition with hopeful minds can rebuild it. 沉溺于绝望会毁掉未来，但与充满希望的人结盟可以重建未来。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_shore": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "shore",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自中古英语 'schore'，与古英语 'scora'（海岸、边缘）有关，进一步追溯至原始日耳曼语 '*skurō'（切割、分开），本义为'被水切割出的陆地边缘'。词根核心含义是'陆地与水的分界'，强调'边缘'或'支撑'的概念。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "shore",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "n. 海岸，海滨；支撑物，支柱 v. 支撑，支持",
+          "phonetic": "/ʃɔːr/",
+          "memory_trick": "想象'shore'（海岸）是'show'（展示）的变体，大海在此'展示'陆地边缘；或联想'sh-ore'='是岸'，谐音'是岸'，提醒你'岸'的含义。",
+          "example": "The children collected seashells along the shore as the sun began to set. 孩子们在日落时分沿着海岸捡拾贝壳。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_seminar": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "seminar",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'seminarium'（苗床、种子库），由 'semen'（种子）衍生而来，比喻知识如种子般在讨论中萌发、生长。后经法语 'séminaire' 进入英语，指小组式学术研讨活动。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "seminar",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "研讨会；培训班；讨论会",
+          "phonetic": "/ˈsemɪnɑːr/",
+          "memory_trick": "联想 'seed'（种子） + 'nar'（像narrate讲述）→ 在研讨会上播种思想，大家轮流讲述观点。",
+          "example": "The professor organized a weekly seminar on modern art, where students presented their own analyses. 教授组织了一个每周一次的现代艺术研讨会，学生们在会上展示自己的分析。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_temple": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "temple",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "词根 temple 源自拉丁语 templum，原指占卜时观察飞鸟的划定区域，后引申为神圣的场所（庙宇、神殿）。在解剖学中，借喻太阳穴部位形似小庙宇的凹陷，故 temple 也指太阳穴。该词根核心含义为'神圣空间'或'边界划定之地'。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "temple",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "n. 庙宇，神殿；太阳穴",
+          "phonetic": "/ˈtempl/",
+          "memory_trick": "temple（庙宇）像 a temple（一座庙），两侧的凹陷像太阳穴（temple）。想象庙宇的尖顶和两侧的凹陷，同时记住两个意思。",
+          "example": "The ancient temple stood majestically on the hill, its pillars worn by centuries of rain and wind. 这座古老的庙宇巍然矗立在山丘上，其石柱被数百年的风雨侵蚀得斑驳陆离。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_sentiment": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "sentiment",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语 'sentimentum'，意为 '感觉、看法'，由 'sentire'（感觉）加名词后缀 -mentum 构成。词根核心含义是 '通过感官或情感产生的内心感受或观点'，强调主观体验与判断。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "sentiment",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "n. 情感，情绪；观点，看法；伤感情绪",
+          "phonetic": "/ˈsentɪmənt/",
+          "memory_trick": "谐音 '三体门' → 想象三体人通过 '情感' 之门传递 '观点'，引发宇宙级 '伤感'。",
+          "example": "His sentiment toward the project shifted from skepticism to enthusiasm after seeing the initial results. 他对这个项目的看法在看到初步结果后从怀疑转为热情。"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      }
+    ]
+  },
+  "红宝书_Unit 3(1)_other": {
+    "nodes": [
+      {
+        "id": "root_1",
+        "name": "other",
+        "category": 0,
+        "symbolSize": 40,
+        "info": {
+          "origin": "源自拉丁语词根 'alter'（意为'另一个'），经古法语 'altre' 演变至中古英语 'other'。核心含义为'不同的、额外的'，与拉丁语 'alter' 同源，后引申出'张力'、'租户'等派生词，强调'两者之间的不同或延伸关系'。"
+        }
+      },
+      {
+        "id": "word_1",
+        "name": "tension",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "紧张；张力；拉紧状态",
+          "phonetic": "/ˈtenʃn/",
+          "memory_trick": "ten（十）+ sion（名词后缀）→ 像拉满的弓弦，需要十倍的力才能绷紧。",
+          "example": "The tension in the room was palpable as everyone waited for the announcement. (房间里的紧张气氛显而易见，大家都在等待宣布结果。)"
+        }
+      },
+      {
+        "id": "word_2",
+        "name": "tense",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "紧张的；拉紧的；时态",
+          "phonetic": "/tens/",
+          "memory_trick": "ten（十）+ se（谐音'死'）→ 紧张到'十死一生'的状态。",
+          "example": "She felt tense before the interview, but managed to stay calm. (面试前她感到紧张，但还是设法保持了冷静。)"
+        }
+      },
+      {
+        "id": "word_3",
+        "name": "tenant",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "租户；房客；承租人",
+          "phonetic": "/ˈtenənt/",
+          "memory_trick": "ten（十）+ ant（蚂蚁）→ 十个蚂蚁挤在一起住，就像租房的房客。",
+          "example": "The tenant complained about the leaky faucet to the landlord. (租户向房东抱怨水龙头漏水。)"
+        }
+      },
+      {
+        "id": "word_4",
+        "name": "tender",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "温柔的；嫩的；投标；提供",
+          "phonetic": "/ˈtendər/",
+          "memory_trick": "ten（十）+ der（谐音'的'）→ 十个月的婴儿皮肤最'嫩的'，需要'温柔'对待。",
+          "example": "He gave her a tender kiss on the forehead before leaving. (他离开前在她额头上温柔地吻了一下。)"
+        }
+      },
+      {
+        "id": "word_5",
+        "name": "tent",
+        "category": 1,
+        "symbolSize": 20,
+        "info": {
+          "definition": "帐篷；帷幕",
+          "phonetic": "/tent/",
+          "memory_trick": "ten（十）+ t（像帐篷的支架）→ 十根支架撑起的'帐篷'。",
+          "example": "They pitched a tent near the lake and spent the night under the stars. (他们在湖边搭起帐篷，在星空下过了一夜。)"
+        }
+      }
+    ],
+    "links": [
+      {
+        "source": "root_1",
+        "target": "word_1"
+      },
+      {
+        "source": "root_1",
+        "target": "word_2"
+      },
+      {
+        "source": "root_1",
+        "target": "word_3"
+      },
+      {
+        "source": "root_1",
+        "target": "word_4"
+      },
+      {
+        "source": "root_1",
+        "target": "word_5"
+      }
+    ]
   }
 }
